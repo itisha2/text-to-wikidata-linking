@@ -11,3 +11,9 @@ dependencies = [
     "sentence-transformers>=5.1.2",
     "spacy>=3.8.11",
 ]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.31.0",
+    "itables>=2.9.1",
+]

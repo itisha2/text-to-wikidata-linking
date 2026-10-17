@@ -1,11 +1,3 @@
-from datasets import load_dataset
-
-
-def data():
-
-
-    ds = load_dataset("cyanic-selkie/aida-conll-yago-wikidata", split="test")
-    print(ds[0])
 
 
 
