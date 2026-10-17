@@ -1,0 +1,13 @@
+[project]
+name = "text-to-wikidata-linking"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "datasets>=4.5.0",
+    "networkx>=3.2.1",
+    "requests>=2.32.5",
+    "sentence-transformers>=5.1.2",
+    "spacy>=3.8.11",
+]
