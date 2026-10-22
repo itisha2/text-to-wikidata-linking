@@ -6,58 +6,58 @@
       "concept": "Marie Curie",
       "qid": "Q7186",
       "rank": 1,
-      "score": 1.0513,
-      "confidence": 0.2368,
-      "evidence": "Marie Curie: Polish-born French physicist and chemist (1867–1934). award received Knight of the Legion of Honour; country of citizenship France; doctoral advisor Gabriel Lippmann; employer Sorbonne; employer University of Paris; family name Curie; field of work physics; field of work radioactivity; given name Marie; languages spoken, written or signed English; languages spoken, written or signed German; languages spoken, written or signed Russian"
+      "score": 0.7648,
+      "confidence": 0.1963,
+      "evidence": "Marie Curie: Polish-born French physicist and chemist (1867–1934)"
     },
     "alternatives": [
       {
         "concept": "Marie Curie",
-        "qid": "Q114939443",
+        "qid": "Q16997351",
         "rank": 2,
-        "score": 0.5943,
-        "confidence": 0.1499,
-        "evidence": "Marie Curie: 2022 Czech book edition. main subject Marie Curie; author María Isabel Sánchez Vegara; illustrator Frau Isa; instance of version, edition or translation; language of work or name Czech; part of the series Brio; part of the series Malí lidé, velké sny; place of publication Prague; publisher Slovart; translator Iveta Poláčková"
+        "score": 0.4846,
+        "confidence": 0.1483,
+        "evidence": "Marie Curie: charity in the UK (also known as Marie Curie Cancer Care)"
       },
       {
         "concept": "Marie Curie",
-        "qid": "Q16997351",
+        "qid": "Q114939443",
         "rank": 3,
-        "score": 0.5723,
-        "confidence": 0.1466,
-        "evidence": "Marie Curie: charity in the UK (also known as Marie Curie Cancer Care). country United Kingdom; named after Marie Curie; headquarters location London; legal form charitable organization"
+        "score": 0.4833,
+        "confidence": 0.1481,
+        "evidence": "Marie Curie: 2022 Czech book edition"
       },
       {
         "concept": "Marie Curie",
         "qid": "Q134450801",
         "rank": 4,
-        "score": 0.4691,
-        "confidence": 0.1323,
-        "evidence": "Marie Curie: Ferry built in 2019 (also known as Marie Curie). instance of ferry"
+        "score": 0.4803,
+        "confidence": 0.1477,
+        "evidence": "Marie Curie: Ferry built in 2019 (also known as Marie Curie)"
       },
       {
         "concept": "Marie Curie: The Courage of Knowledge",
         "qid": "Q26963166",
         "rank": 5,
-        "score": 0.3768,
-        "confidence": 0.1206,
-        "evidence": "Marie Curie: The Courage of Knowledge: 2016 film by Marie Noëlle (also known as Marie Curie). characters Albert Einstein; country of origin Germany; narrative location France; present in work Marie Curie; CNC film rating (France) no age restriction; FSK film rating FSK 6; ICAA rating Not recommended for children under 7; ICAA rating Specifically suitable for the promotion of gender equality; JMK film rating free from 8 years; cast member André Wilms; cast member Arieh Worthalter; cast member Charles Berling"
+        "score": 0.3369,
+        "confidence": 0.128,
+        "evidence": "Marie Curie: The Courage of Knowledge: 2016 film by Marie Noëlle (also known as Marie Curie)"
       },
       {
         "concept": "Marie-Curie",
         "qid": "Q30668387",
         "rank": 6,
-        "score": 0.2901,
-        "confidence": 0.1106,
-        "evidence": "Marie-Curie: future metro station in Montreal, Quebec, Canada (also known as Technoparc). adjacent station Bois-Franc; adjacent station YUL–Montréal–Trudeau Airport station; connecting line Réseau express métropolitain; connecting service A1 - Brossard; connecting service A2 - YUL-Aéroport-Montréal-Trudeau; country Canada; disabled accessibility wheelchair accessible; fare zone Montreal fare zone A; instance of metro station; located in the administrative territorial entity Saint-Laurent; state of use building or structure under construction"
+        "score": 0.3031,
+        "confidence": 0.1237,
+        "evidence": "Marie-Curie: future metro station in Montreal, Quebec, Canada (also known as Technoparc)"
       },
       {
         "concept": "Maria Curie-Skłodowska University",
         "qid": "Q1613719",
         "rank": 7,
-        "score": 0.2216,
-        "confidence": 0.1033,
-        "evidence": "Maria Curie-Skłodowska University: Polish university (also known as Uniwersytet Marii Curie-Skłodowskiej, UMCS, University of Maria Curie-Skłodowska, MSCU, Marie Curie-Skłodowska University, umcs.pl). instance of public university; member of European University Association; named after Marie Curie; category for alumni of educational institution Category:Maria Curie-Skłodowska University alumni; category for employees of the organization Category:Academic staff of Maria Curie-Skłodowska University; child organization or unit Faculty of Arts of MSCU; child organization or unit Faculty of Chemistry of MSCU; child organization or unit Faculty of Earth Sciences and Spatial Management of MSCU; child organization or unit Faculty of Economics of MSCU; child organization or unit Faculty of Humanities of MSCU; child organization or unit Faculty of Law and Administration of MSCU; child organization or unit Faculty of Pedagogy and Psychology of MSCU"
+        "score": 0.1658,
+        "confidence": 0.1078,
+        "evidence": "Maria Curie-Skłodowska University: Polish university (also known as Uniwersytet Marii Curie-Skłodowskiej, UMCS, University of Maria Curie-Skłodowska, MSCU, Marie Curie-Skłodowska University, umcs.pl)"
       }
     ]
   },
@@ -68,98 +68,98 @@
       "concept": "Paris",
       "qid": "Q90",
       "rank": 1,
-      "score": 0.8432,
-      "confidence": 0.1407,
-      "evidence": "Paris: capital and most populous city in France (also known as City of Light, City of Love, Lutetia). award received Knight of the Legion of Honour; capital of France; language used French; maintained by WikiProject WikiProject France; named after Paris; named after Paris; residence Marie Curie; twinned administrative body Berlin; activity policy in this place do not feed the animals; authority municipality of Paris; award received Companion of the Liberation; award received Croix de guerre 1914–1918"
+      "score": 0.5449,
+      "confidence": 0.1105,
+      "evidence": "Paris: capital and most populous city in France (also known as City of Light, City of Love, Lutetia)"
     },
     "alternatives": [
       {
         "concept": "Paris",
         "qid": "Q18331346",
         "rank": 2,
-        "score": 0.4751,
-        "confidence": 0.0974,
-        "evidence": "Paris: family name (also known as Paris (family name)). family name identical to this given name Paris; instance of family name; language of work or name English; language of work or name French; language of work or name German; writing system Latin script; instance of toponymic surname; language of work or name Spanish"
+        "score": 0.4293,
+        "confidence": 0.0984,
+        "evidence": "Paris: family name (also known as Paris (family name))"
       },
       {
         "concept": "Paris",
         "qid": "Q830149",
         "rank": 3,
-        "score": 0.4715,
-        "confidence": 0.097,
-        "evidence": "Paris: city in and county seat of Lamar County, Texas, United States (also known as Paris, Texas, Paris, TX). country United States; named after Paris; capital of Lamar County; category for people born here Q17134300; category of associated people Category:People from Paris, Texas; has list list of cities named Paris; instance of city in the United States; instance of county seat; territory overlaps Paris urban area"
+        "score": 0.4175,
+        "confidence": 0.0973,
+        "evidence": "Paris: city in and county seat of Lamar County, Texas, United States (also known as Paris, Texas, Paris, TX)"
       },
       {
         "concept": "Paris",
         "qid": "Q1158980",
         "rank": 4,
-        "score": 0.4534,
-        "confidence": 0.0953,
-        "evidence": "Paris: unisex given name (also known as Paris (first name), Paris (given name)). family name identical to this given name Paris; language of work or name English; writing system Latin script; attested in Biographisches Lexikon des Kaiserthums Oesterreich; given name version for other gender Parisa; instance of unisex given name"
+        "score": 0.4008,
+        "confidence": 0.0957,
+        "evidence": "Paris: unisex given name (also known as Paris (first name), Paris (given name))"
       },
       {
         "concept": "Paris",
         "qid": "Q3181341",
         "rank": 5,
-        "score": 0.429,
-        "confidence": 0.093,
-        "evidence": "Paris: county seat of Bourbon County, Kentucky, United States (also known as Paris, Kentucky, Paris, KY). country United States; named after Paris; capital of Bourbon County; category for people born here Q32756563; category for people who died here Q55908338; category of associated people Category:People from Paris, Kentucky; has list list of cities named Paris; head of government John A. Plummer; instance of city in the United States; instance of county seat; office held by the head of government mayor; territory overlaps Paris urban area"
+        "score": 0.3913,
+        "confidence": 0.0948,
+        "evidence": "Paris: county seat of Bourbon County, Kentucky, United States (also known as Paris, Kentucky, Paris, KY)"
       },
       {
         "concept": "Paris",
         "qid": "Q162121",
         "rank": 6,
-        "score": 0.373,
-        "confidence": 0.0879,
-        "evidence": "Paris: genus of plants. has fruit type berry; instance of taxon; parent taxon Melanthiaceae; taxon rank genus; taxonomic type Paris quadrifolia"
-      },
-      {
-        "concept": "1924 Summer Olympics",
-        "qid": "Q8132",
-        "rank": 7,
-        "score": 0.1751,
-        "confidence": 0.0721,
-        "evidence": "1924 Summer Olympics: Games of the VIII Olympiad, in Paris, France (also known as Paris 1924, Games of the VIII Olympiad). country France; location Paris; followed by 1928 Summer Olympics; follows 1920 Summer Olympics; has part(s) Basque pelota at the 1924 Summer Olympics; has part(s) art competitions at the 1924 Summer Olympics; has part(s) athletics at the 1924 Summer Olympics; has part(s) boxing at the 1924 Summer Olympics; has part(s) canoeing at the 1924 Summer Olympics; has part(s) cycling at the 1924 Summer Olympics; has part(s) diving at the 1924 Summer Olympics; has part(s) equestrian at the 1924 Summer Olympics"
+        "score": 0.3818,
+        "confidence": 0.0939,
+        "evidence": "Paris: genus of plants"
       },
       {
         "concept": "Pari",
         "qid": "Q12503174",
+        "rank": 7,
+        "score": 0.2077,
+        "confidence": 0.0789,
+        "evidence": "Pari: village in Pandeglang Regency, Banten, Indonesia (also known as Desa Pari)"
+      },
+      {
+        "concept": "1924 Summer Olympics",
+        "qid": "Q8132",
         "rank": 8,
-        "score": 0.169,
-        "confidence": 0.0717,
-        "evidence": "Pari: village in Pandeglang Regency, Banten, Indonesia (also known as Desa Pari). country Indonesia; instance of desa; located in the administrative territorial entity Mandalawangi"
+        "score": 0.1377,
+        "confidence": 0.0735,
+        "evidence": "1924 Summer Olympics: Games of the VIII Olympiad, in Paris, France (also known as Paris 1924, Games of the VIII Olympiad)"
       },
       {
         "concept": "Paris Saint-Germain FC",
         "qid": "Q483020",
         "rank": 9,
-        "score": 0.1532,
-        "confidence": 0.0706,
-        "evidence": "Paris Saint-Germain FC: association football club in Paris, France having two UCL (also known as PSGFC, Paris). country France; headquarters location Paris; category for members of a team Category:Paris Saint-Germain FC players; chairperson Nasser Al-Kadafi; founder Guy Crescent; has part(s) Paris Saint-Germain FC Youth Academy; head coach Alain Giresse; head coach Antoine Kombouaré; head coach Artur Jorge; head coach Carlo Ancelotti; head coach Christian Coste; head coach Christophe Galtier"
+        "score": 0.1147,
+        "confidence": 0.0719,
+        "evidence": "Paris Saint-Germain FC: association football club in Paris, France having two UCL (also known as PSGFC, Paris)"
       },
       {
         "concept": "brown rat",
         "qid": "Q184224",
         "rank": 10,
-        "score": 0.0914,
-        "confidence": 0.0664,
-        "evidence": "brown rat: species of mammal (also known as street rat, sewer rat, wharf rat, water rat, Parisian rat, Norwegian rat, Norway rat, Rattus norvegicus, 🐀, rat, Hanover rat). invasive to Australia; IUCN conservation status least concern; habitat landmass; habitat shrubland; instance of model organism; instance of taxon; invasive to Brazil; maintained by WikiProject WikiProject Invasion Biology; natural reservoir of Leptospira interrogans; original combination Mus norvegicus; parent taxon Rattus; taxon range Ourilândia do Norte"
+        "score": 0.0881,
+        "confidence": 0.07,
+        "evidence": "brown rat: species of mammal (also known as street rat, sewer rat, wharf rat, water rat, Parisian rat, Norwegian rat, Norway rat, Rattus norvegicus, 🐀, rat, Hanover rat)"
       },
       {
         "concept": "residential community",
         "qid": "Q985488",
         "rank": 11,
-        "score": -0.0862,
-        "confidence": 0.0556,
-        "evidence": "residential community: administrative territorial entity of the People's Republic of China (also known as shequ, Parishes of China, residential community of the People's Republic of China). country of origin People's Republic of China; instance of designation for an administrative territorial entity of a single country; main regulatory text Law of the People's Republic of China on the Organization of Urban Neighborhood Committees; maintained by residents' committee; subclass of grassroots mass autonomous organization; subclass of neighborhood"
+        "score": -0.0578,
+        "confidence": 0.0605,
+        "evidence": "residential community: administrative territorial entity of the People's Republic of China (also known as shequ, Parishes of China, residential community of the People's Republic of China)"
       },
       {
         "concept": "Paris-Sorbonne University - Paris IV",
         "qid": "Q546118",
         "rank": 12,
-        "score": -0.1483,
-        "confidence": 0.0522,
-        "evidence": "Paris-Sorbonne University - Paris IV: French university (1971-2018) (also known as Université Paris IV: Paris-Sorbonne, Université de Paris IV: Paris-Sorbonne, Paris IV, Université de Paris-Sorbonne, Université Paris-Sorbonne, Universite de Paris-Sorbonne, Universite Paris-Sorbonne, University of Paris Sorbonne, University of Paris IV Sorbonne). country France; instance of public university; member of European University Association; named after Sorbonne; replaces University of Paris; category for alumni of educational institution Category:Paris-Sorbonne University alumni; chairperson Alphonse Dupront; chairperson Barthélémy Jobert; chairperson Georges Molinié; chairperson Jacques Bompaire; chairperson Jean-Pierre Poussou; chairperson Jean-Robert Pitte"
+        "score": -0.1595,
+        "confidence": 0.0546,
+        "evidence": "Paris-Sorbonne University - Paris IV: French university (1971-2018) (also known as Université Paris IV: Paris-Sorbonne, Université de Paris IV: Paris-Sorbonne, Paris IV, Université de Paris-Sorbonne, Université Paris-Sorbonne, Universite de Paris-Sorbonne, Universite Paris-Sorbonne, University of Paris Sorbonne, University of Paris IV Sorbonne)"
       }
     ]
   },
@@ -170,66 +170,58 @@
       "concept": "Nobel Prize in Physics",
       "qid": "Q38104",
       "rank": 1,
-      "score": 0.9132,
-      "confidence": 0.1767,
-      "evidence": "Nobel Prize in Physics: yearly physics award given by the Royal Swedish Academy of Sciences (also known as Physics Nobel Prize). conferred by Royal Swedish Academy of Sciences; instance of Nobel Prize; winner Albert Einstein; winner Antoine Henri Becquerel; winner Gabriel Lippmann; winner Marie Curie; winner Pierre Curie; category for recipients of this award Category:Nobel laureates in Physics; country Sweden; instance of Nobel Prize in Physics 2012; instance of Nobel Prize in Physics 2013; instance of Nobel Prize in Physics 2016"
+      "score": 0.6896,
+      "confidence": 0.1755,
+      "evidence": "Nobel Prize in Physics: yearly physics award given by the Royal Swedish Academy of Sciences (also known as Physics Nobel Prize)"
     },
     "alternatives": [
       {
+        "concept": "Nobel Prize in Physics controversies",
+        "qid": "Q136659584",
+        "rank": 2,
+        "score": 0.5193,
+        "confidence": 0.148,
+        "evidence": "Nobel Prize in Physics controversies: controversies around the Nobel Prize in Physics"
+      },
+      {
         "concept": "Nobel Prize in Physics 2012",
         "qid": "Q50589856",
-        "rank": 2,
-        "score": 0.5991,
-        "confidence": 0.1291,
-        "evidence": "Nobel Prize in Physics 2012: None. instance of Nobel Prize in Physics; conferred by Nobel Committee"
+        "rank": 3,
+        "score": 0.4924,
+        "confidence": 0.1441,
+        "evidence": "Nobel Prize in Physics 2012: None"
       },
       {
         "concept": "Nobel Prize in Physics 2013",
         "qid": "Q48912969",
-        "rank": 3,
-        "score": 0.5525,
-        "confidence": 0.1232,
-        "evidence": "Nobel Prize in Physics 2013: None. instance of Nobel Prize in Physics; conferred by Nobel Committee"
-      },
-      {
-        "concept": "Nobel Prize in Physics 2016",
-        "qid": "Q48911839",
         "rank": 4,
-        "score": 0.5207,
-        "confidence": 0.1193,
-        "evidence": "Nobel Prize in Physics 2016: None. instance of Nobel Prize in Physics; conferred by Nobel Committee"
+        "score": 0.4393,
+        "confidence": 0.1366,
+        "evidence": "Nobel Prize in Physics 2013: None"
       },
       {
         "concept": "Nobel Prize in Physics 2023",
         "qid": "Q120798386",
         "rank": 5,
-        "score": 0.5143,
-        "confidence": 0.1186,
-        "evidence": "Nobel Prize in Physics 2023: None. instance of Nobel Prize in Physics; conferred by Nobel Committee; follows Nobel Prize in Physics 2024"
+        "score": 0.4303,
+        "confidence": 0.1354,
+        "evidence": "Nobel Prize in Physics 2023: None"
       },
       {
-        "concept": "Nobel Prize in Physics controversies",
-        "qid": "Q136659584",
+        "concept": "Nobel Prize in Physics 2016",
+        "qid": "Q48911839",
         "rank": 6,
-        "score": 0.4816,
-        "confidence": 0.1148,
-        "evidence": "Nobel Prize in Physics controversies: controversies around the Nobel Prize in Physics. instance of award"
-      },
-      {
-        "concept": "Nobel Prize in Physics 2024",
-        "qid": "Q130292886",
-        "rank": 7,
-        "score": 0.4416,
-        "confidence": 0.1103,
-        "evidence": "Nobel Prize in Physics 2024: None. instance of Nobel Prize in Physics; followed by Nobel Prize in Physics 2025; follows Nobel Prize in Physics 2023"
+        "score": 0.4112,
+        "confidence": 0.1328,
+        "evidence": "Nobel Prize in Physics 2016: None"
       },
       {
         "concept": "Nobel Prize in Physics 2026",
         "qid": "Q141290712",
-        "rank": 8,
-        "score": 0.4218,
-        "confidence": 0.1081,
-        "evidence": "Nobel Prize in Physics 2026: None. instance of Nobel Prize in Physics; follows Nobel Prize in Physics 2025; instance of award"
+        "rank": 7,
+        "score": 0.3701,
+        "confidence": 0.1275,
+        "evidence": "Nobel Prize in Physics 2026: None"
       }
     ]
   },
@@ -240,90 +232,90 @@
       "concept": "research",
       "qid": "Q42240",
       "rank": 1,
-      "score": 0.5734,
-      "confidence": 0.1266,
-      "evidence": "research: systematic study undertaken to increase knowledge (also known as systematic inquiry). subclass of activity; P1151 Portal:Research; P1269 science project; field of this occupation researcher; has characteristic scientific method; has characteristic study type; has effect academic publishing; has part(s) research and development; has part(s) research design; has part(s) research process; industry research industry; instance of type of process"
+      "score": 0.5669,
+      "confidence": 0.1252,
+      "evidence": "research: systematic study undertaken to increase knowledge (also known as systematic inquiry)"
     },
     "alternatives": [
       {
         "concept": "Research",
-        "qid": "Q7315046",
+        "qid": "Q64848345",
         "rank": 2,
-        "score": 0.3543,
-        "confidence": 0.1017,
-        "evidence": "Research: suburb of Melbourne, Victoria, Australia (also known as Research, Victoria, Research, Victoria, Australia). country Australia; P131 Shire of Nillumbik; P131 Victoria; associated electoral district Eltham; associated electoral district Menzies; instance of gazetted locality of Victoria; instance of suburb; shares border with Diamond Creek; shares border with Eltham; shares border with Kangaroo Ground; shares border with North Warrandyte; shares border with Wattle Glen"
+        "score": 0.4346,
+        "confidence": 0.1097,
+        "evidence": "Research: short story by J.R. Rasmussen"
+      },
+      {
+        "concept": "Research",
+        "qid": "Q7315046",
+        "rank": 3,
+        "score": 0.4219,
+        "confidence": 0.1083,
+        "evidence": "Research: suburb of Melbourne, Victoria, Australia (also known as Research, Victoria, Research, Victoria, Australia)"
       },
       {
         "concept": "researcher",
         "qid": "Q1650915",
-        "rank": 3,
-        "score": 0.3304,
-        "confidence": 0.0993,
-        "evidence": "researcher: person who engages in research, professionally or otherwise. If a more specific occupation is known, use that instead (also known as researchers, research personnel, research person, research persons). field of this occupation research; P12861 E153; P12861 E225; P12861 E371; field of this occupation research process; field of this occupation scientific research; has characteristic academic age; instance of occupation; instance of position; participant science project; properties for this type Academia.edu profile URL; properties for this type Google Scholar author ID"
-      },
-      {
-        "concept": "Research",
-        "qid": "Q64848345",
         "rank": 4,
-        "score": 0.3193,
-        "confidence": 0.0982,
-        "evidence": "Research: short story by J.R. Rasmussen. author J.R. Rasmussen; form of creative work short story; genre science fiction; has version, edition or translation Strange New Worlds Ⅱ; instance of literary work; media franchise Star Trek; part of the series Strange New Worlds; takes place in fictional universe Star Trek universe"
-      },
-      {
-        "concept": "ResearchGate",
-        "qid": "Q754454",
-        "rank": 5,
-        "score": 0.2734,
-        "confidence": 0.0938,
-        "evidence": "ResearchGate: commercial scientific social network (also known as researchgate.net, Researchgate, facebook for research, ResearchGate GmbH, researchgate.com). country Germany; headquarters location Berlin; P1056 social networking service; P112 Horst Fickenscher; P112 Ijad Madisch; P112 Sören Hofmayer; P127 ResearchGate GmbH; instance of document repository; instance of scientific collaboration network; legal form Gesellschaft mit beschränkter Haftung; main Wikidata property P11310; main Wikidata property ResearchGate contributions ID"
+        "score": 0.2844,
+        "confidence": 0.0944,
+        "evidence": "researcher: person who engages in research, professionally or otherwise. If a more specific occupation is known, use that instead (also known as researchers, research personnel, research person, research persons)"
       },
       {
         "concept": "research ethics",
         "qid": "Q1132684",
-        "rank": 6,
-        "score": 0.2317,
-        "confidence": 0.09,
-        "evidence": "research ethics: ethical practice concerning scientific research (also known as ethics, research, morality of science, science ethics, ethics of science, ethics in science). subclass of ethics in science"
-      },
-      {
-        "concept": "science project",
-        "qid": "Q1298668",
-        "rank": 7,
-        "score": 0.2105,
-        "confidence": 0.0881,
-        "evidence": "science project: project of one or more scientists, or of an organization in a scientific field (also known as study, research program, research direction, work, research project, scientific project, academic project). P1269 research; category for eponymous categories Category:Wikipedia categories named after science projects; has part(s) research plan; instance of project type; participant co-investigator; participant principal investigator; participant proband; participant project director; participant research institute; participant researcher; participant scientist; subclass of project"
-      },
-      {
-        "concept": "Inquiry",
-        "qid": "Q15709501",
-        "rank": 8,
-        "score": 0.1695,
-        "confidence": 0.0845,
-        "evidence": "Inquiry: Health journal (also known as Inquiry: The Journal of Health Care Organization, Provision, and Financing). country of origin United States; indexed in bibliographic review Science Citation Index Expanded; indexed in bibliographic review Scopus; instance of medical journal; instance of scientific journal; language of work or name English; P123 Sage Publishing; catalog Directory of Open Access Journals; copyright license Creative Commons Attribution-NonCommercial; indexed in bibliographic review Social Sciences Citation Index; instance of academic journal; instance of hybrid open access journal"
+        "rank": 5,
+        "score": 0.2295,
+        "confidence": 0.0894,
+        "evidence": "research ethics: ethical practice concerning scientific research (also known as ethics, research, morality of science, science ethics, ethics of science, ethics in science)"
       },
       {
         "concept": "Search",
         "qid": "Q37052957",
+        "rank": 6,
+        "score": 0.2284,
+        "confidence": 0.0893,
+        "evidence": "Search: family name"
+      },
+      {
+        "concept": "ResearchGate",
+        "qid": "Q754454",
+        "rank": 7,
+        "score": 0.2199,
+        "confidence": 0.0885,
+        "evidence": "ResearchGate: commercial scientific social network (also known as researchgate.net, Researchgate, facebook for research, ResearchGate GmbH, researchgate.com)"
+      },
+      {
+        "concept": "science project",
+        "qid": "Q1298668",
+        "rank": 8,
+        "score": 0.1791,
+        "confidence": 0.085,
+        "evidence": "science project: project of one or more scientists, or of an organization in a scientific field (also known as study, research program, research direction, work, research project, scientific project, academic project)"
+      },
+      {
+        "concept": "Inquiry",
+        "qid": "Q15709501",
         "rank": 9,
-        "score": 0.1001,
-        "confidence": 0.0789,
-        "evidence": "Search: family name. instance of family name; writing system Latin script; attested in 2010 United States Census surname index"
+        "score": 0.0856,
+        "confidence": 0.0774,
+        "evidence": "Inquiry: Health journal (also known as Inquiry: The Journal of Health Care Organization, Provision, and Financing)"
       },
       {
         "concept": "Explore: the Journal of Science and Healing",
         "qid": "Q15816952",
         "rank": 10,
-        "score": -0.0098,
-        "confidence": 0.0707,
-        "evidence": "Explore: the Journal of Science and Healing: journal (also known as Explore, Explore: The Journal of Science & Healing). archives at CLOCKSS; country of origin United States; indexed in bibliographic review Science Citation Index Expanded; indexed in bibliographic review Scopus; instance of medical journal; instance of scientific journal; language of work or name English; P123 Elsevier; archives at Portico; editor Larry Dossey; instance of academic journal; main subject alternative medicine"
+        "score": -0.0532,
+        "confidence": 0.0674,
+        "evidence": "Explore: the Journal of Science and Healing: journal (also known as Explore, Explore: The Journal of Science & Healing)"
       },
       {
         "concept": "Enquiry: The ARCC Journal of Architectural Research",
         "qid": "Q50816996",
         "rank": 11,
-        "score": -0.0465,
-        "confidence": 0.0681,
-        "evidence": "Enquiry: The ARCC Journal of Architectural Research: academic journal (also known as Enquiry). country of origin United States; indexed in bibliographic review Scopus; language of work or name English; P123 Architectural Research Centers Consortium; P127 Anoka-Ramsey Community College; catalog Directory of Open Access Journals; copyright license Creative Commons Attribution-NonCommercial-ShareAlike; copyright status copyrighted; indexed in bibliographic review SCImago Journal Rank; instance of academic journal; instance of open-access journal; main subject history"
+        "score": -0.0795,
+        "confidence": 0.0656,
+        "evidence": "Enquiry: The ARCC Journal of Architectural Research: academic journal (also known as Enquiry)"
       }
     ]
   },
@@ -334,114 +326,114 @@
       "concept": "radioactivity",
       "qid": "Q11448",
       "rank": 1,
-      "score": 0.8581,
-      "confidence": 0.1173,
-      "evidence": "radioactivity: process by which an unstable atom emits radiation (also known as radioactive decay, nuclear decay). discoverer or inventor Antoine Henri Becquerel; field of work Marie Curie; class of object(s) of occurrence atomic nucleus; has characteristic decay mode; has characteristic radioactive waste; part of radioactive decay; subclass of physical phenomenon; subclass of physical process"
+      "score": 0.6238,
+      "confidence": 0.0968,
+      "evidence": "radioactivity: process by which an unstable atom emits radiation (also known as radioactive decay, nuclear decay)"
     },
     "alternatives": [
       {
         "concept": "Radioactivity",
-        "qid": "Q134992329",
-        "rank": 2,
-        "score": 0.4457,
-        "confidence": 0.0777,
-        "evidence": "Radioactivity: video game developed by Synthetic Mind Corp.. language of work or name English; business model early access; distributed by Steam; distribution format digital distribution; game mode co-op mode; game mode multiplayer video game; game mode single-player video game; genre action game; genre action-adventure game; genre adventure video game; has characteristic indie game; instance of video game"
-      },
-      {
-        "concept": "Radioactivity",
         "qid": "Q25931849",
-        "rank": 3,
-        "score": 0.4439,
-        "confidence": 0.0775,
-        "evidence": "Radioactivity: None. "
+        "rank": 2,
+        "score": 0.4582,
+        "confidence": 0.0821,
+        "evidence": "Radioactivity: None"
       },
       {
         "concept": "Radioactivity",
         "qid": "Q1081068",
-        "rank": 4,
-        "score": 0.4328,
-        "confidence": 0.0767,
-        "evidence": "Radioactivity: 1975 song by Kraftwerk. award received SNEP gold single; distribution format 45 rpm record; distribution format LP record; distribution format VHS; distribution format compact disc; follows Champion Sound; genre electronic music; instance of single; lyricist Emil Schult; lyricist Florian Schneider; lyricist Ralf Hütter; part of Kraftwerk singles discography"
+        "rank": 3,
+        "score": 0.423,
+        "confidence": 0.0792,
+        "evidence": "Radioactivity: 1975 song by Kraftwerk"
       },
       {
-        "concept": "radioactive decay",
-        "qid": "Q3332922",
-        "rank": 5,
-        "score": 0.3937,
-        "confidence": 0.0737,
-        "evidence": "radioactive decay: emission of subatomic particles by the decay of an atomic nucleus (also known as decay, nuclear decay). part of radioactivity; subclass of particle decay"
+        "concept": "Radioactivity",
+        "qid": "Q134992329",
+        "rank": 4,
+        "score": 0.3743,
+        "confidence": 0.0755,
+        "evidence": "Radioactivity: video game developed by Synthetic Mind Corp."
       },
       {
         "concept": "activity",
         "qid": "Q317949",
+        "rank": 5,
+        "score": 0.3518,
+        "confidence": 0.0738,
+        "evidence": "activity: physical quantity in nuclear physics, measured in becquerel, revealing the average number of nucleuses experiencing a spontaneous reaction per second (also known as radioactive activity, activity referred to a radionuclide, activity of a radionuclide, radioactivity)"
+      },
+      {
+        "concept": "radioactive decay",
+        "qid": "Q3332922",
         "rank": 6,
-        "score": 0.374,
+        "score": 0.3319,
         "confidence": 0.0723,
-        "evidence": "activity: physical quantity in nuclear physics, measured in becquerel, revealing the average number of nucleuses experiencing a spontaneous reaction per second (also known as radioactive activity, activity referred to a radionuclide, activity of a radionuclide, radioactivity). maintained by WikiProject WikiProject Mathematics; recommended unit of measurement becquerel; recommended unit of measurement reciprocal second; subclass of physical quantity; subclass of rate; subclass of reciprocal duration"
+        "evidence": "radioactive decay: emission of subatomic particles by the decay of an atomic nucleus (also known as decay, nuclear decay)"
       },
       {
         "concept": "radioactivity of rocks",
         "qid": "Q21655997",
         "rank": 7,
-        "score": 0.3429,
-        "confidence": 0.0701,
-        "evidence": "radioactivity of rocks: None (also known as rock radioactivity). "
-      },
-      {
-        "concept": "radioactive waste",
-        "qid": "Q185252",
-        "rank": 8,
-        "score": 0.2966,
-        "confidence": 0.0669,
-        "evidence": "radioactive waste: waste containing radioactive material and emitting ionizing radiation (also known as nuclear waste, radioactive hazardous waste). has characteristic radioactivity; instance of environmental issue; instance of human impact on the environment; subclass of by-product; subclass of hazardous waste; subclass of radioactive matter; subclass of toxic waste"
+        "score": 0.3315,
+        "confidence": 0.0723,
+        "evidence": "radioactivity of rocks: None (also known as rock radioactivity)"
       },
       {
         "concept": "ionizing radiation",
         "qid": "Q186161",
-        "rank": 9,
-        "score": 0.2654,
-        "confidence": 0.0649,
-        "evidence": "ionizing radiation: radiation that carries enough energy to liberate electrons from atoms or molecules (also known as ionising radiation, radioactive radiation). handled, mitigated, or managed by radiation protection; has effect radiation injury; has effect radiation-induced neoplasms; instance of physical phenomenon; subclass of radiation"
-      },
-      {
-        "concept": "Radioactivity and health: A history",
-        "qid": "Q140149912",
-        "rank": 10,
-        "score": 0.2619,
-        "confidence": 0.0646,
-        "evidence": "Radioactivity and health: A history: None. instance of research report"
+        "rank": 8,
+        "score": 0.281,
+        "confidence": 0.0687,
+        "evidence": "ionizing radiation: radiation that carries enough energy to liberate electrons from atoms or molecules (also known as ionising radiation, radioactive radiation)"
       },
       {
         "concept": "radionuclide",
         "qid": "Q192900",
+        "rank": 9,
+        "score": 0.2731,
+        "confidence": 0.0682,
+        "evidence": "radionuclide: atom that has excess nuclear energy, making it unstable (also known as radioactive nuclide, radioactive isotope)"
+      },
+      {
+        "concept": "radioactive waste",
+        "qid": "Q185252",
+        "rank": 10,
+        "score": 0.2574,
+        "confidence": 0.0671,
+        "evidence": "radioactive waste: waste containing radioactive material and emitting ionizing radiation (also known as nuclear waste, radioactive hazardous waste)"
+      },
+      {
+        "concept": "Radioactivity and health: A history",
+        "qid": "Q140149912",
         "rank": 11,
-        "score": 0.2602,
-        "confidence": 0.0645,
-        "evidence": "radionuclide: atom that has excess nuclear energy, making it unstable (also known as radioactive nuclide, radioactive isotope). subclass of nuclide"
+        "score": 0.2537,
+        "confidence": 0.0669,
+        "evidence": "Radioactivity and health: A history: None"
       },
       {
         "concept": "Radiation Protection Dosimetry",
         "qid": "Q15765751",
         "rank": 12,
-        "score": 0.2416,
-        "confidence": 0.0633,
-        "evidence": "Radiation Protection Dosimetry: journal. archives at CLOCKSS; country of origin United Kingdom; indexed in bibliographic review Science Citation Index Expanded; indexed in bibliographic review Scopus; instance of medical journal; instance of scientific journal; language of work or name English; main subject radiobiology; publisher Oxford University Press"
+        "score": 0.2495,
+        "confidence": 0.0666,
+        "evidence": "Radiation Protection Dosimetry: journal"
       },
       {
         "concept": "Radioactive Chicken Heads",
         "qid": "Q7281221",
         "rank": 13,
-        "score": 0.1743,
-        "confidence": 0.0592,
-        "evidence": "Radioactive Chicken Heads: American band (also known as Joe and the Chicken Heads, Radioactive Chickenheads, The Radioactive Chicken Heads). country of origin United States; genre punk rock; instance of musical group; location of formation Orange County"
+        "score": 0.1204,
+        "confidence": 0.0585,
+        "evidence": "Radioactive Chicken Heads: American band (also known as Joe and the Chicken Heads, Radioactive Chickenheads, The Radioactive Chicken Heads)"
       },
       {
         "concept": "Radioactive Dwarfs: Evil From the Sewers",
         "qid": "Q111305463",
         "rank": 14,
-        "score": 0.031,
-        "confidence": 0.0513,
-        "evidence": "Radioactive Dwarfs: Evil From the Sewers: 2022 video game (also known as Radioactive Dwarfs Evil From the Sewers, Radioactive Dwarfs: Evil From The Sewers). language of work or name English; language of work or name Russian; ESRB rating Mature 17+; PEGI rating PEGI 16; distributed by Microsoft Store; distributed by Nintendo eShop; distributed by Steam; distribution format digital distribution; distribution format digital download; game mode single-player video game; genre shooter game; instance of video game"
+        "score": 0.0002,
+        "confidence": 0.0519,
+        "evidence": "Radioactive Dwarfs: Evil From the Sewers: 2022 video game (also known as Radioactive Dwarfs Evil From the Sewers, Radioactive Dwarfs: Evil From The Sewers)"
       }
     ]
   }

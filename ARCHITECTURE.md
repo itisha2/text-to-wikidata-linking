@@ -62,10 +62,10 @@ leaves selection to the ranker.
 
 **Retrieval results** (gold-QID recall on the stratified evaluation set):
 
-| retrieval mode | overall recall | ambiguous | non-ambiguous |
-|---|---|---|---|
-| `wbsearchentities` | **68/90 = 75.6%** | 27/44 = 61.4% | 41/46 = 89.1% |
-| CirrusSearch (full-text) | 35/90 = 38.9% | 19/44 = 43.2% | 16/46 = 34.8% |
+| retrieval mode           | overall recall          | ambiguous     | non-ambiguous |
+| ------------------------ | ----------------------- | ------------- | ------------- |
+| `wbsearchentities`     | **68/90 = 75.6%** | 27/44 = 61.4% | 41/46 = 89.1% |
+| CirrusSearch (full-text) | 35/90 = 38.9%           | 19/44 = 43.2% | 16/46 = 34.8% |
 
 `wbsearchentities` wins decisively: Cirrus surfaces less prominent entities that merely
 contain the query words, while `wbsearchentities` ranks by prominence, which matches how
@@ -124,15 +124,15 @@ calibrated probability per candidate in a single forward pass).
 
 Seven ranker variants (`cr_v1`–`cr_v7`) form a controlled ablation:
 
-| ranker | context side | candidate side | scorer |
-|---|---|---|---|
-| v1 (baseline) | sentence | label + description + aliases | embedding cosine |
-| v2 | sentence | v1 + graph facts + coherence bonus | embedding cosine |
-| v3 | sentence | label + description + aliases | d1 choice question |
-| v4 | sentence | v3 + graph facts + coherence bonus | d1 choice question |
-| v5 | AMR graph of sentence (amrlib) | v2 text | embedding cosine |
-| v6 | AMR graph of sentence | v2 text | d1 choice question |
-| v7 | sentence | v1 text + structural node embeddings | embedding cosine + graph-embedding coherence |
+| ranker        | context side                   | candidate side                       | scorer                                       |
+| ------------- | ------------------------------ | ------------------------------------ | -------------------------------------------- |
+| v1 (baseline) | sentence                       | label + description + aliases        | embedding cosine                             |
+| v2            | sentence                       | v1 + graph facts + coherence bonus   | embedding cosine                             |
+| v3            | sentence                       | label + description + aliases        | d1 choice question                           |
+| v4            | sentence                       | v3 + graph facts + coherence bonus   | d1 choice question                           |
+| v5            | AMR graph of sentence (amrlib) | v2 text                              | embedding cosine                             |
+| v6            | AMR graph of sentence          | v2 text                              | d1 choice question                           |
+| v7            | sentence                       | v1 text + structural node embeddings | embedding cosine + graph-embedding coherence |
 
 v5/v6 parse the sentence into an AMR graph (amrlib) and render it as "concept relation
 concept" facts, making the comparison graph-to-graph. v7 replaces the verbalized graph
@@ -142,15 +142,15 @@ cosine to the centroid of the other mentions' candidate vectors.
 
 **Results** (full stratified run, top-1 accuracy / MRR):
 
-| ranker | overall | ambiguous | non-ambiguous | time |
-|---|---|---|---|---|
-| v1 embed (embeddinggemma) | 57.8% / 0.64 | 40.9% / 0.48 | 73.9% / 0.79 | 14 s |
-| v2 embed + graph | **63.3% / 0.67** | **47.7% / 0.52** | **78.3% / 0.82** | 19 s |
-| v3 d1 (d1-omni:600m) | 62.2% / 0.67 | 45.5% / 0.52 | **78.3% / 0.82** | 15 s |
-| v4 d1 + graph | 60.0% / 0.66 | 45.5% / 0.52 | 73.9% / 0.79 | 14 s |
-| v5 AMR graph (amrlib) | 60.0% / 0.64 | 47.7% / 0.51 | 71.7% / 0.76 | 858 s |
-| v6 AMR + d1 | 56.7% / 0.63 | 38.6% / 0.47 | 73.9% / 0.79 | 28 s |
-| v7 graph-embed (NetMF-style) | 57.8% / 0.64 | 38.6% / 0.47 | 76.1% / 0.80 | 19 s |
+| ranker                       | overall                | ambiguous              | non-ambiguous          | time  |
+| ---------------------------- | ---------------------- | ---------------------- | ---------------------- | ----- |
+| v1 embed (embeddinggemma)    | 57.8% / 0.64           | 40.9% / 0.48           | 73.9% / 0.79           | 14 s  |
+| v2 embed + graph             | **63.3% / 0.67** | **47.7% / 0.52** | **78.3% / 0.82** | 19 s  |
+| v3 d1 (d1-omni:600m)         | 62.2% / 0.67           | 45.5% / 0.52           | **78.3% / 0.82** | 15 s  |
+| v4 d1 + graph                | 60.0% / 0.66           | 45.5% / 0.52           | 73.9% / 0.79           | 14 s  |
+| v5 AMR graph (amrlib)        | 60.0% / 0.64           | 47.7% / 0.51           | 71.7% / 0.76           | 858 s |
+| v6 AMR + d1                  | 56.7% / 0.63           | 38.6% / 0.47           | 73.9% / 0.79           | 28 s  |
+| v7 graph-embed (NetMF-style) | 57.8% / 0.64           | 38.6% / 0.47           | 76.1% / 0.80           | 19 s  |
 
 **Decisions from these experiments:**
 
@@ -164,15 +164,14 @@ cosine to the centroid of the other mentions' candidate vectors.
   trails overall (60.0% vs 63.3%) and takes 858 s — ~45× slower — ruling it out. v6 drops
   to 56.7% overall, joint-worst on ambiguous mentions (38.6%, with v7): stacking
   verbalized graphs on both sides dilutes the evidence instead of sharpening it.
-### ⭐ Final ranker: v2 — embeddings + verbalized graph facts + coherence bonus
-
-> Graph context lifts overall accuracy **57.8% → 63.3%** and ambiguous accuracy
-> **40.9% → 47.7%** over the no-graph baseline — the gain lands exactly where
-> disambiguation is hardest, but only when paired with the embedding ranker. How the
-> graph is used matters more than the ranking model: verbalized facts beat both
-> structural embeddings (v7) and AMR graphs (v5/v6). MRR above accuracy (0.67 vs 63.3%)
-> means that when rank 1 is wrong the gold entity is usually just below it, so the
-> surfaced alternatives often contain the right answer.
+- **Final ranker: v2** (embeddings + verbalized graph facts + coherence bonus). Graph
+  context lifts overall accuracy 57.8% → 63.3% and ambiguous accuracy 40.9% → 47.7% over
+  the no-graph baseline — the gain lands exactly where disambiguation is hardest, but
+  only when paired with the embedding ranker. How the graph is used matters more than
+  the ranking model: verbalized facts beat both structural embeddings (v7) and AMR
+  graphs (v5/v6). MRR above accuracy (0.67 vs 63.3%) means that when rank 1 is wrong the
+  gold entity is usually just below it, so the surfaced alternatives often contain the
+  right answer.
 
 ## 5. Output and evaluation
 
