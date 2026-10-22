@@ -1,0 +1,4986 @@
+[
+  {
+    "mention": "Armenia",
+    "sentence": "BONN 1996-08-30 *************** from Armenia and Azerbaijan held talks ******* this **** in Germany on ******** a lasting peace to the disputed Nagorno-Karabakh ****** , a diplomatic source ***** ** the talks said on ****** .",
+    "selected": {
+      "concept": "Armenia",
+      "qid": "Q399",
+      "rank": 1,
+      "score": 0.6503,
+      "confidence": 0.1813,
+      "evidence": "Armenia: sovereign state in the South Caucasus region of Eurasia (also known as Hayastan, Republic of Armenia, Hayastani Hanrapetut’yun, Հայաստան)"
+    },
+    "alternatives": [
+      {
+        "concept": "Armenia",
+        "qid": "Q37182918",
+        "rank": 2,
+        "score": 0.4755,
+        "confidence": 0.1522,
+        "evidence": "Armenia: family name"
+      },
+      {
+        "concept": "Armenia",
+        "qid": "Q934767",
+        "rank": 3,
+        "score": 0.4423,
+        "confidence": 0.1472,
+        "evidence": "Armenia: Colombian municipality of the department of Antioquia (also known as Armenia, Antioquia, Antioquia)"
+      },
+      {
+        "concept": "Armenian",
+        "qid": "Q8785",
+        "rank": 4,
+        "score": 0.4075,
+        "confidence": 0.1422,
+        "evidence": "Armenian: Indo-European language (also known as Armenian language, Hayeren)"
+      },
+      {
+        "concept": "Armenians",
+        "qid": "Q79797",
+        "rank": 5,
+        "score": 0.3457,
+        "confidence": 0.1337,
+        "evidence": "Armenians: ethnic group native to the Armenian Highlands (also known as Armenian people)"
+      },
+      {
+        "concept": "Armenian Wikipedia",
+        "qid": "Q1975217",
+        "rank": 6,
+        "score": 0.3234,
+        "confidence": 0.1307,
+        "evidence": "Armenian Wikipedia: Armenian-language edition of Wikipedia"
+      },
+      {
+        "concept": "Armenian Soviet Encyclopedia",
+        "qid": "Q2657718",
+        "rank": 7,
+        "score": 0.1758,
+        "confidence": 0.1128,
+        "evidence": "Armenian Soviet Encyclopedia: first general encyclopedia in Armenian language (also known as ASE)"
+      }
+    ]
+  },
+  {
+    "mention": "ATLANTA",
+    "sentence": "AT SEATTLE NATIONAL LEAGUE EASTERN DIVISION W L *** GB ATLANTA ** 49 .629 * MONTREAL 71 61 **** ** FLORIDA ** ** **** ** NEW YORK 59 75 **** ** PHILADELPHIA ** 80 .403 30 CENTRAL DIVISION HOUSTON ** ** .533 - ST LOUIS 69 65 **** * 1/2 CINCINNATI ** 67 .496 5 CHICAGO 65 66 **** 5 PITTSBURGH 56 77 .421 15 WESTERN DIVISION SAN DIEGO 75 60 .556 - LOS ANGELES 72 ** .541 2 COLORADO 70 ** .519 5 SAN FRANCISCO ** ** **** 16 ****** * ****** 30 ******** ATLANTA AT CHICAGO FLORIDA",
+    "selected": {
+      "concept": "Atlanta",
+      "qid": "Q23556",
+      "rank": 1,
+      "score": 0.5866,
+      "confidence": 0.1347,
+      "evidence": "Atlanta: capital city of the U.S. state of Georgia and seat of Fulton County, also located in DeKalb County (also known as Terminus, The Big Peach, Hotlanta, The ATL, The A, Atlanta, GA, Marthasville, Georgia, Marthasville)"
+    },
+    "alternatives": [
+      {
+        "concept": "Atlanta",
+        "qid": "Q23016639",
+        "rank": 2,
+        "score": 0.5246,
+        "confidence": 0.1266,
+        "evidence": "Atlanta: American television comedy series"
+      },
+      {
+        "concept": "Atlanta",
+        "qid": "Q4034536",
+        "rank": 3,
+        "score": 0.4973,
+        "confidence": 0.1232,
+        "evidence": "Atlanta: genus of molluscs"
+      },
+      {
+        "concept": "Atlanta",
+        "qid": "Q756137",
+        "rank": 4,
+        "score": 0.4343,
+        "confidence": 0.1157,
+        "evidence": "Atlanta: city in Cass County, Texas, United States (also known as Atlanta, Texas, Atlanta, TX)"
+      },
+      {
+        "concept": "Atlanta",
+        "qid": "Q119855681",
+        "rank": 5,
+        "score": 0.4117,
+        "confidence": 0.1131,
+        "evidence": "Atlanta: composition by Arthur Napoleão"
+      },
+      {
+        "concept": "Atlanta",
+        "qid": "Q4815988",
+        "rank": 6,
+        "score": 0.3484,
+        "confidence": 0.1062,
+        "evidence": "Atlanta: Lithuanian singer (also known as Elena Puidokaitė)"
+      },
+      {
+        "concept": "Battle of Atlanta",
+        "qid": "Q2374330",
+        "rank": 7,
+        "score": 0.3146,
+        "confidence": 0.1026,
+        "evidence": "Battle of Atlanta: 1864 battle of the American Civil War"
+      },
+      {
+        "concept": "1996 Summer Olympics",
+        "qid": "Q8531",
+        "rank": 8,
+        "score": 0.1908,
+        "confidence": 0.0907,
+        "evidence": "1996 Summer Olympics: Games of the XXVI Olympiad, in Atlanta, USA (also known as Atlanta 1996, Games of the XXVI Olympiad, 1996 Olympics, 1996 Atlanta Summer Olympics, Centennial Olympic Games, Centennial Olympics)"
+      },
+      {
+        "concept": "Capital of Georgia",
+        "qid": "Q25099163",
+        "rank": 9,
+        "score": 0.1528,
+        "confidence": 0.0873,
+        "evidence": "Capital of Georgia: Wikimedia disambiguation page"
+      }
+    ]
+  },
+  {
+    "mention": "Australia",
+    "sentence": "3:43.078 Lucy Tyler-Sharman ( Australia * ******** **** Svetlana Samokhvalova * Russia * 3:45.011 Antonella Bellutti ( Italy ) 3:32.174 caught *** eliminated Rasa Mazeikyte ( Lithuania )",
+    "selected": {
+      "concept": "Australia",
+      "qid": "Q408",
+      "rank": 1,
+      "score": 0.5261,
+      "confidence": 0.1958,
+      "evidence": "Australia: country (also known as Commonwealth of Australia, Straya, Aussieland, Oz, Stralia, New Holland, New Hollandia, Nova Hollandia, Down Under, Stria, The Commonwealth of Australia, 'Straya)"
+    },
+    "alternatives": [
+      {
+        "concept": "Australia",
+        "qid": "Q104269190",
+        "rank": 2,
+        "score": 0.4099,
+        "confidence": 0.1743,
+        "evidence": "Australia: unisex given name"
+      },
+      {
+        "concept": "Australian continent",
+        "qid": "Q3960",
+        "rank": 3,
+        "score": 0.1958,
+        "confidence": 0.1407,
+        "evidence": "Australian continent: continent in the Earth's Southern Hemisphere (also known as Sahul, Australinea, Meganesia, Australia (continent), Australia, New Holland, Nova Hollandia, the Australian continent)"
+      },
+      {
+        "concept": "Australian Capital Territory",
+        "qid": "Q3258",
+        "rank": 4,
+        "score": 0.1181,
+        "confidence": 0.1302,
+        "evidence": "Australian Capital Territory: federal governing territory of Australia, containing the capital city, Canberra (also known as Australian Capital Territory, Australia, AU-ACT, ACT, Australia, NSW-CT, The Australian Capital Territory, Yass-Canberra, Australian capital territory, Australia Capital Territory, Capital Territory of Australia, the Australian Capital Territory, ACT, ACT-AU)"
+      },
+      {
+        "concept": "Australian Plant Name Index",
+        "qid": "Q167402",
+        "rank": 5,
+        "score": 0.0985,
+        "confidence": 0.1277,
+        "evidence": "Australian Plant Name Index: database of Australian plant names (also known as APNI)"
+      },
+      {
+        "concept": "Australian Journal of Chemistry",
+        "qid": "Q781542",
+        "rank": 6,
+        "score": 0.0831,
+        "confidence": 0.1257,
+        "evidence": "Australian Journal of Chemistry: journal (also known as Aust. J. Chem.)"
+      },
+      {
+        "concept": "Australian and New Zealand Journal of Obstetrics and Gynaecology",
+        "qid": "Q15764794",
+        "rank": 7,
+        "score": -0.0926,
+        "confidence": 0.1055,
+        "evidence": "Australian and New Zealand Journal of Obstetrics and Gynaecology: journal (also known as The Australian and New Zealand Journal of Obstetrics and Gynaecology, ANZJOG)"
+      }
+    ]
+  },
+  {
+    "mention": "Austrian",
+    "sentence": "Everton 's Duncan Ferguson went close for Scotland in the 65th minute when he ****** Austrian goalkeeper Michael Konsel to a diving save .",
+    "selected": {
+      "concept": "Austrian Airlines",
+      "qid": "Q781770",
+      "rank": 1,
+      "score": 0.3228,
+      "confidence": 0.1621,
+      "evidence": "Austrian Airlines: Austrian flag carrier airline (also known as AUA, OS, Austrian, Austrian Airlines AG)"
+    },
+    "alternatives": [
+      {
+        "concept": "Austrian Empire",
+        "qid": "Q131964",
+        "rank": 2,
+        "score": 0.2893,
+        "confidence": 0.1568,
+        "evidence": "Austrian Empire: Central European multinational Empire from 1804 to 1867 (also known as Austria)"
+      },
+      {
+        "concept": "Styria",
+        "qid": "Q41358",
+        "rank": 3,
+        "score": 0.2503,
+        "confidence": 0.1508,
+        "evidence": "Styria: federal state in the south of Austria (also known as Steiermark, Upper Styria, Austrian Styria)"
+      },
+      {
+        "concept": "Cisleithania",
+        "qid": "Q533534",
+        "rank": 4,
+        "score": 0.2024,
+        "confidence": 0.1437,
+        "evidence": "Cisleithania: northern and western part of Austro-Hungary with Dalmatia and Istria (1867–1918) (also known as The Kingdoms and Lands Represented in the Imperial Council, Austrian Lands)"
+      },
+      {
+        "concept": "Austrian People's Party",
+        "qid": "Q186867",
+        "rank": 5,
+        "score": 0.1715,
+        "confidence": 0.1394,
+        "evidence": "Austrian People's Party: conservative political party in Austria (also known as Österreichische Volkspartei, ÖVP)"
+      },
+      {
+        "concept": "Belvedere",
+        "qid": "Q303139",
+        "rank": 6,
+        "score": 0.1557,
+        "confidence": 0.1372,
+        "evidence": "Belvedere: museum housed in the Belvedere palace, Vienna, Austria (also known as Osterreichische Gallery, Osterreichische Galerie Belvedere, Austrian National Gallery, Belvedere Gallery, Belvedere Museum, Kaiserlich Königlichen Bilder Gallerie in Wien)"
+      },
+      {
+        "concept": "Österreichisches Biographisches Lexikon 1815–1950",
+        "qid": "Q25666",
+        "rank": 7,
+        "score": -0.0652,
+        "confidence": 0.11,
+        "evidence": "Österreichisches Biographisches Lexikon 1815–1950: Austrian biographical dictionary (also known as ÖBL, OeBL, Austrian Biographical Encylopedia, Austrian Biographical Lexicon)"
+      }
+    ]
+  },
+  {
+    "mention": "Austrians",
+    "sentence": "1706 - French troops under **** of Orleans ********* Turin were ******** by *** Austrians ***** Prince Eugene , the French **** was ********* and they ceased ****** to capture northern Italy .",
+    "selected": {
+      "concept": "Austrians",
+      "qid": "Q237534",
+      "rank": 1,
+      "score": 0.5323,
+      "confidence": 0.0954,
+      "evidence": "Austrians: citizens or residents of Austria (also known as Austrian people)"
+    },
+    "alternatives": [
+      {
+        "concept": "Austrian Empire",
+        "qid": "Q131964",
+        "rank": 2,
+        "score": 0.3461,
+        "confidence": 0.0792,
+        "evidence": "Austrian Empire: Central European multinational Empire from 1804 to 1867 (also known as Austria)"
+      },
+      {
+        "concept": "Austrians in Ukraine",
+        "qid": "Q112744082",
+        "rank": 3,
+        "score": 0.3268,
+        "confidence": 0.0776,
+        "evidence": "Austrians in Ukraine: None"
+      },
+      {
+        "concept": "Austrians abroad",
+        "qid": "Q259093",
+        "rank": 4,
+        "score": 0.3186,
+        "confidence": 0.077,
+        "evidence": "Austrians abroad: term"
+      },
+      {
+        "concept": "culture of Austria",
+        "qid": "Q303649",
+        "rank": 5,
+        "score": 0.2612,
+        "confidence": 0.0727,
+        "evidence": "culture of Austria: pattern of human activity and symbolism associated with Austria and its people (also known as Austrian culture, culture in Austria, Austria culture, Austrians culture)"
+      },
+      {
+        "concept": "Austrian Uruguayans",
+        "qid": "Q30325081",
+        "rank": 6,
+        "score": 0.2569,
+        "confidence": 0.0724,
+        "evidence": "Austrian Uruguayans: ethnic group, Austrian-born emigrants to Uruguay and Uruguayans of Austrian descent (also known as Austrians in Uruguay)"
+      },
+      {
+        "concept": "Austrian Airlines",
+        "qid": "Q781770",
+        "rank": 7,
+        "score": 0.2233,
+        "confidence": 0.07,
+        "evidence": "Austrian Airlines: Austrian flag carrier airline (also known as AUA, OS, Austrian, Austrian Airlines AG)"
+      },
+      {
+        "concept": "Austrians of Croatia",
+        "qid": "Q4825531",
+        "rank": 8,
+        "score": 0.2228,
+        "confidence": 0.07,
+        "evidence": "Austrians of Croatia: ethnic group"
+      },
+      {
+        "concept": "Styria",
+        "qid": "Q41358",
+        "rank": 9,
+        "score": 0.2225,
+        "confidence": 0.07,
+        "evidence": "Styria: federal state in the south of Austria (also known as Steiermark, Upper Styria, Austrian Styria)"
+      },
+      {
+        "concept": "Austrian Studies Association",
+        "qid": "Q4825502",
+        "rank": 10,
+        "score": 0.1619,
+        "confidence": 0.0658,
+        "evidence": "Austrian Studies Association: None (also known as AustrianStudiesAssoc, ASA, Modern Austrian Literature and Culture Association, MALCA)"
+      },
+      {
+        "concept": "Cisleithania",
+        "qid": "Q533534",
+        "rank": 11,
+        "score": 0.1613,
+        "confidence": 0.0658,
+        "evidence": "Cisleithania: northern and western part of Austro-Hungary with Dalmatia and Istria (1867–1918) (also known as The Kingdoms and Lands Represented in the Imperial Council, Austrian Lands)"
+      },
+      {
+        "concept": "Austrian People's Party",
+        "qid": "Q186867",
+        "rank": 12,
+        "score": 0.1611,
+        "confidence": 0.0658,
+        "evidence": "Austrian People's Party: conservative political party in Austria (also known as Österreichische Volkspartei, ÖVP)"
+      },
+      {
+        "concept": "Belvedere",
+        "qid": "Q303139",
+        "rank": 13,
+        "score": 0.1358,
+        "confidence": 0.0641,
+        "evidence": "Belvedere: museum housed in the Belvedere palace, Vienna, Austria (also known as Osterreichische Gallery, Osterreichische Galerie Belvedere, Austrian National Gallery, Belvedere Gallery, Belvedere Museum, Kaiserlich Königlichen Bilder Gallerie in Wien)"
+      },
+      {
+        "concept": "Österreichisches Biographisches Lexikon 1815–1950",
+        "qid": "Q25666",
+        "rank": 14,
+        "score": -0.0322,
+        "confidence": 0.0542,
+        "evidence": "Österreichisches Biographisches Lexikon 1815–1950: Austrian biographical dictionary (also known as ÖBL, OeBL, Austrian Biographical Encylopedia, Austrian Biographical Lexicon)"
+      }
+    ]
+  },
+  {
+    "mention": "Azerbaijan",
+    "sentence": "BONN 1996-08-30 *************** from Armenia and Azerbaijan held talks ******* this **** in Germany on ******** a lasting peace to the disputed Nagorno-Karabakh ****** , a diplomatic source ***** ** the talks said on ****** .",
+    "selected": {
+      "concept": "Azerbaijan",
+      "qid": "Q227",
+      "rank": 1,
+      "score": 0.6443,
+      "confidence": 0.1665,
+      "evidence": "Azerbaijan: country in the Caucasus in Eastern Europe and Western Asia (also known as Republic of Azerbaijan, AZE)"
+    },
+    "alternatives": [
+      {
+        "concept": "Azerbaijani",
+        "qid": "Q9292",
+        "rank": 2,
+        "score": 0.4072,
+        "confidence": 0.1313,
+        "evidence": "Azerbaijani: Oghuz Turkic language (also known as Azeri, Azerbaijani Turkic, Azerbaijani language, Azerbaijani Turkic language, Azeri Turkish, Azerbaijani Turkish)"
+      },
+      {
+        "concept": "Azerbaijani Wikipedia",
+        "qid": "Q58251",
+        "rank": 3,
+        "score": 0.3851,
+        "confidence": 0.1285,
+        "evidence": "Azerbaijani Wikipedia: Azerbaijani-language edition of Wikipedia (also known as Azerbaijan Wikipedia)"
+      },
+      {
+        "concept": "Azerbaijan (Iran)",
+        "qid": "Q274536",
+        "rank": 4,
+        "score": 0.3128,
+        "confidence": 0.1195,
+        "evidence": "Azerbaijan (Iran): region in northwestern Iran (also known as Azarbaijan, Azerbijan, Azarbayjan, Âzarbâyjân, Āzarbāyjān, South Azerbaijan, Iranian Azerbaijan)"
+      },
+      {
+        "concept": "Azerbaijani Armed Forces",
+        "qid": "Q724216",
+        "rank": 5,
+        "score": 0.3074,
+        "confidence": 0.1189,
+        "evidence": "Azerbaijani Armed Forces: combined military forces of Azerbaijan (also known as military of Azerbaijan, mil Azerbaijan, Armed Forces of Azerbaijan)"
+      },
+      {
+        "concept": "2698 Azerbajdzhan",
+        "qid": "Q912765",
+        "rank": 6,
+        "score": 0.2579,
+        "confidence": 0.1131,
+        "evidence": "2698 Azerbajdzhan: asteroid (also known as (2698) Azerbajdzhan, Azerbajdzhan)"
+      },
+      {
+        "concept": "Azerbaijani Soviet Encyclopedia",
+        "qid": "Q2634919",
+        "rank": 7,
+        "score": 0.2553,
+        "confidence": 0.1128,
+        "evidence": "Azerbaijani Soviet Encyclopedia: encyclopedia by the Azerbaijan National Academy of Sciences (also known as Азәрбајҹан Совет Енсиклопедијасы, Azerbaijan Soviet Encyclopedia, ASE)"
+      },
+      {
+        "concept": "Azerbaijan Soviet Socialist Republic",
+        "qid": "Q131337",
+        "rank": 8,
+        "score": 0.2239,
+        "confidence": 0.1093,
+        "evidence": "Azerbaijan Soviet Socialist Republic: constituent republic of the Soviet Union between 1922 and 1991 (also known as Azerbaijan SSR, Azerbaijani SSR, Soviet Azerbaijan, Azerbaidzhan Soviet Socialist Republic, Azerbaidzhan SSR, Azerbaidzhani SSR, Soviet Azerbaidzhan, Azerbaydzhanskaya Sovetskaya Sotsialisticheskaya Respublika)"
+      }
+    ]
+  },
+  {
+    "mention": "Belarus",
+    "sentence": "Dmitri Markov ( Belarus )",
+    "selected": {
+      "concept": "Belarus",
+      "qid": "Q184",
+      "rank": 1,
+      "score": 0.6594,
+      "confidence": 0.138,
+      "evidence": "Belarus: country in Eastern Europe (also known as White Russia, White Ruthenia, Republic of Belarus, by, Byeloruss, Bielorussia, Belorussia, Byelorussia, Respublika Belarus', Respublika Bielaruś, Bielaruś)"
+    },
+    "alternatives": [
+      {
+        "concept": "Belarusians",
+        "qid": "Q483569",
+        "rank": 2,
+        "score": 0.4534,
+        "confidence": 0.1123,
+        "evidence": "Belarusians: European nation (also known as Belarusian people, Belarusans, Byelorussians, White Russians)"
+      },
+      {
+        "concept": "Belarusian",
+        "qid": "Q9091",
+        "rank": 3,
+        "score": 0.411,
+        "confidence": 0.1077,
+        "evidence": "Belarusian: East Slavic language (also known as Belarus language, Belarusan, Belarusan language, Belarusian language, Belarussian, Belarussian language, Belorusian, Belorusian language, Belorussian, Belorussian language, Bielarusian, Bielarusian language, Bielaruskaja, Bielorusian, Bielorusian language, Bielorussian, Bielorussian language, Byelorussian, Byelorussian language, White Russian, White Russian language)"
+      },
+      {
+        "concept": "Belarusian Wikipedia",
+        "qid": "Q877583",
+        "rank": 4,
+        "score": 0.3415,
+        "confidence": 0.1005,
+        "evidence": "Belarusian Wikipedia: Belarusian-language edition of Wikipedia (orthography regulated by the Academy of Sciences. – Code: be)"
+      },
+      {
+        "concept": "Belarus Census (2019)",
+        "qid": "Q69613925",
+        "rank": 5,
+        "score": 0.3342,
+        "confidence": 0.0997,
+        "evidence": "Belarus Census (2019): census of Belarus"
+      },
+      {
+        "concept": "Byelarusky histarychny chasopis",
+        "qid": "Q14916964",
+        "rank": 6,
+        "score": 0.2851,
+        "confidence": 0.0949,
+        "evidence": "Byelarusky histarychny chasopis: academic journal of Belarus (also known as Belarusian historical journal)"
+      },
+      {
+        "concept": "Belarus Census (2009)",
+        "qid": "Q4350749",
+        "rank": 7,
+        "score": 0.2806,
+        "confidence": 0.0945,
+        "evidence": "Belarus Census (2009): None"
+      },
+      {
+        "concept": "Belarus men's national football team",
+        "qid": "Q186252",
+        "rank": 8,
+        "score": 0.2166,
+        "confidence": 0.0887,
+        "evidence": "Belarus men's national football team: men's national association football team representing Belarus (also known as Belarus national soccer team, Belarusian national soccer team, Belarusian national football team, Belarus national football team)"
+      },
+      {
+        "concept": "Belarusian (Taraškievica) Wikipedia",
+        "qid": "Q8937989",
+        "rank": 9,
+        "score": 0.1835,
+        "confidence": 0.0858,
+        "evidence": "Belarusian (Taraškievica) Wikipedia: Belarusian-language edition of Wikipedia (classical \"Taraškievica\" orthography – code: be-tarask) (also known as Taraškievica Wikipedia, Belarusian Classical Wikipedia, Belarusian Wikipedia (Classical), Belarusian (Classical) Wikipedia)"
+      },
+      {
+        "concept": "Byelorussian Soviet Socialist Republic",
+        "qid": "Q2895",
+        "rank": 10,
+        "score": 0.0871,
+        "confidence": 0.0779,
+        "evidence": "Byelorussian Soviet Socialist Republic: one of fifteen constituent republics of the Soviet Union (USSR); founding member of the United Nations Organization in 1945; now Belarus (also known as Byelorussian SSR, Byelorussian S.S.R., Soviet Byelorussia, Belorussian S.S.R., Belorussian SSR, Belorussian Soviet Socialist Republic, Soviet Belorussia, Communist Belarus, BSSR, Soviet Belarus, White Russian Soviet Socialist Republic, Беларуская Савецкая Сацыялістычная Рэспубліка, Bielaruskaja Savieckaja Sacyjalistyčnaja Respublika, Белорусская Советская Социалистическая Республика, Byelorusskaya Sovyetskaya Sotsialisticheskaya Respublika, Белорусская ССР, Belorusskaya SSR, Belarusian Soviet Socialist Republic, Belarusian SSR)"
+      }
+    ]
+  },
+  {
+    "mention": "Birmingham",
+    "sentence": "Crystal Palace 4 * * 1 4 3 5 Port Vale * 1 2 1 4 * 5 Birmingham * * 1 0 * 4 4 Reading * 1 1 * 5 ** 4 Huddersfield 3 * 1 1 4 4 4 Oxford * 1 0 3 * * 3 Manchester City * 1 * * * 3 3 West Bromwich 3 0 * 1 * 3 2 Oldham * * 1 3 * * 1",
+    "selected": {
+      "concept": "Birmingham",
+      "qid": "Q2256",
+      "rank": 1,
+      "score": 0.6238,
+      "confidence": 0.1552,
+      "evidence": "Birmingham: large city in the West Midlands region of England; classed as the 'second city' of the United Kingdom, behind London (also known as Birmingham, England, Birmingham, West Midlands, Birmingham, UK)"
+    },
+    "alternatives": [
+      {
+        "concept": "Birmingham",
+        "qid": "Q79867",
+        "rank": 2,
+        "score": 0.4931,
+        "confidence": 0.1362,
+        "evidence": "Birmingham: city in and county seat of Jefferson County, Alabama, United States (also known as Birmingham, Alabama, The Magic City, Birmingham, AL)"
+      },
+      {
+        "concept": "Birmingham",
+        "qid": "Q593324",
+        "rank": 3,
+        "score": 0.4847,
+        "confidence": 0.135,
+        "evidence": "Birmingham: city in Michigan, United States (also known as Birmingham, Michigan, Birmingham, MI)"
+      },
+      {
+        "concept": "Birmingham",
+        "qid": "Q20986424",
+        "rank": 4,
+        "score": 0.481,
+        "confidence": 0.1345,
+        "evidence": "Birmingham: district in West Midlands, England, United Kingdom (also known as City of Birmingham)"
+      },
+      {
+        "concept": "Birmingham City F.C.",
+        "qid": "Q19444",
+        "rank": 5,
+        "score": 0.4553,
+        "confidence": 0.1311,
+        "evidence": "Birmingham City F.C.: association football club in Birmingham, England (also known as Birmingham City Football Club, Birmingham City FC, Birmingham City, Birmingham, Blues, City, BCFC)"
+      },
+      {
+        "concept": "University of Birmingham",
+        "qid": "Q223429",
+        "rank": 6,
+        "score": 0.3011,
+        "confidence": 0.1124,
+        "evidence": "University of Birmingham: university in Birmingham, England, United Kingdom"
+      },
+      {
+        "concept": "Birmingham Museum of Art",
+        "qid": "Q865736",
+        "rank": 7,
+        "score": 0.2706,
+        "confidence": 0.109,
+        "evidence": "Birmingham Museum of Art: art museum in Birmingham, Alabama, USA (also known as Birmingham. Birmingham Museum of Art, BMA)"
+      },
+      {
+        "concept": "1911 Encyclopædia Britannica/Brummagem",
+        "qid": "Q84636842",
+        "rank": 8,
+        "score": 0.0403,
+        "confidence": 0.0866,
+        "evidence": "1911 Encyclopædia Britannica/Brummagem: encyclopedia article (also known as Brummagem, Bromichan)"
+      }
+    ]
+  },
+  {
+    "mention": "BOSTON",
+    "sentence": "AMERICAN LEAGUE EASTERN DIVISION W L PCT GB NEW YORK 75 59 **** - BALTIMORE 71 63 .530 4 BOSTON ** 66 **** 6 1/2 TORONTO 63 ** .467 12 1/2 DETROIT ** 86 .363 26 *** CENTRAL DIVISION CLEVELAND ** ** .597 - CHICAGO 72 ** **** 9 MINNESOTA 67 68 **** 13 1/2 MILWAUKEE ** 71 .478 16 KANSAS CITY 61 ** **** 20 WESTERN DIVISION TEXAS 76 58 **** - SEATTLE 70 64 **** 6 OAKLAND 65 72 **** 12 *** CALIFORNIA ** 73 .459 14 *** ******** , AUGUST ** ******** KANSAS CITY",
+    "selected": {
+      "concept": "Boston",
+      "qid": "Q100",
+      "rank": 1,
+      "score": 0.5176,
+      "confidence": 0.1433,
+      "evidence": "Boston: capital city of the U.S. state of Massachusetts and seat of Suffolk County (also known as Beantown, The Cradle of Liberty, The Hub, The Cradle of Modern America, The Athens of America, The Walking City, The Hub of the Universe, Bostonia, Boston, MA, Boston, Mass., Puritan City, Boston (MA), The hub of the universe, City of Boston, Boston, USA, Capital of Massachusetts, Bean Town, Boston, United States, Boston, Massachusetts, United States, Boston, Massachusetts, US, Boston, Massachusetts, United States of America, Boston MA, United States, Boston, Mass)"
+    },
+    "alternatives": [
+      {
+        "concept": "Boston",
+        "qid": "Q204289",
+        "rank": 2,
+        "score": 0.5085,
+        "confidence": 0.142,
+        "evidence": "Boston: American rock band"
+      },
+      {
+        "concept": "Boston",
+        "qid": "Q16860275",
+        "rank": 3,
+        "score": 0.4197,
+        "confidence": 0.1299,
+        "evidence": "Boston: family name"
+      },
+      {
+        "concept": "Boston",
+        "qid": "Q894076",
+        "rank": 4,
+        "score": 0.4014,
+        "confidence": 0.1276,
+        "evidence": "Boston: district in Lincolnshire, England (also known as Borough of Boston)"
+      },
+      {
+        "concept": "Boston",
+        "qid": "Q47456711",
+        "rank": 5,
+        "score": 0.3939,
+        "confidence": 0.1266,
+        "evidence": "Boston: given name"
+      },
+      {
+        "concept": "Boston",
+        "qid": "Q314574",
+        "rank": 6,
+        "score": 0.3905,
+        "confidence": 0.1262,
+        "evidence": "Boston: municipality of the Philippines in the province of Davao Oriental"
+      },
+      {
+        "concept": "Boston",
+        "qid": "Q311975",
+        "rank": 7,
+        "score": 0.3653,
+        "confidence": 0.123,
+        "evidence": "Boston: town and port in Lincolnshire, England, UK (also known as Boston, England, Boston, Lincolnshire)"
+      },
+      {
+        "concept": "Massachusetts State House",
+        "qid": "Q1150259",
+        "rank": 8,
+        "score": -0.0467,
+        "confidence": 0.0815,
+        "evidence": "Massachusetts State House: state capitol building for the Commonwealth of Massachusetts (also known as Hub of the Universe, New State House,)"
+      }
+    ]
+  },
+  {
+    "mention": "BRADFORD",
+    "sentence": "RUGBY LEAGUE - WIGAN BEAT BRADFORD 42-36 ** ********* .",
+    "selected": {
+      "concept": "Bradford",
+      "qid": "Q2834810",
+      "rank": 1,
+      "score": 0.5812,
+      "confidence": 0.1522,
+      "evidence": "Bradford: metropolitan borough with city status in West Yorkshire, England (also known as City of Bradford)"
+    },
+    "alternatives": [
+      {
+        "concept": "Bradford",
+        "qid": "Q22905",
+        "rank": 2,
+        "score": 0.4833,
+        "confidence": 0.138,
+        "evidence": "Bradford: city and largest settlement in the City of Bradford district, Yorkshire, England (also known as Bradford, Yorkshire)"
+      },
+      {
+        "concept": "Bradford",
+        "qid": "Q2078452",
+        "rank": 3,
+        "score": 0.4498,
+        "confidence": 0.1334,
+        "evidence": "Bradford: village and civil parish in Devon, United Kingdom"
+      },
+      {
+        "concept": "Bradford",
+        "qid": "Q23542895",
+        "rank": 4,
+        "score": 0.434,
+        "confidence": 0.1313,
+        "evidence": "Bradford: family name"
+      },
+      {
+        "concept": "Bradford",
+        "qid": "Q20799155",
+        "rank": 5,
+        "score": 0.3549,
+        "confidence": 0.1213,
+        "evidence": "Bradford: male given name (also known as Bradford (first name), Bradford (given name))"
+      },
+      {
+        "concept": "Bradford-on-Avon",
+        "qid": "Q896940",
+        "rank": 6,
+        "score": 0.2518,
+        "confidence": 0.1095,
+        "evidence": "Bradford-on-Avon: town in Wiltshire, England, UK (also known as Bradford on Avon, Bradford-on-Avon, Wiltshire, Bradford)"
+      },
+      {
+        "concept": "Bradford City A.F.C.",
+        "qid": "Q48879",
+        "rank": 7,
+        "score": 0.2501,
+        "confidence": 0.1093,
+        "evidence": "Bradford City A.F.C.: association football club in Bradford, England (also known as The Bantams, The Paraders, The Citizens, Bradford City Association Football Club, Bradford City AFC, Bradford City, Bradford, City, BCAFC)"
+      },
+      {
+        "concept": "William Bradford",
+        "qid": "Q932530",
+        "rank": 8,
+        "score": 0.2098,
+        "confidence": 0.105,
+        "evidence": "William Bradford: American physician and United States senator from Rhode Island (1729-1808)"
+      }
+    ]
+  },
+  {
+    "mention": "CALIFORNIA",
+    "sentence": "AMERICAN LEAGUE EASTERN DIVISION W L PCT GB NEW YORK 75 59 **** - BALTIMORE 71 63 .530 4 BOSTON ** 66 **** 6 1/2 TORONTO 63 ** .467 12 1/2 DETROIT ** 86 .363 26 *** CENTRAL DIVISION CLEVELAND ** ** .597 - CHICAGO 72 ** **** 9 MINNESOTA 67 68 **** 13 1/2 MILWAUKEE ** 71 .478 16 KANSAS CITY 61 ** **** 20 WESTERN DIVISION TEXAS 76 58 **** - SEATTLE 70 64 **** 6 OAKLAND 65 72 **** 12 *** CALIFORNIA ** 73 .459 14 *** ******** , AUGUST ** ******** KANSAS CITY",
+    "selected": {
+      "concept": "California",
+      "qid": "Q99",
+      "rank": 1,
+      "score": 0.591,
+      "confidence": 0.1558,
+      "evidence": "California: state of the United States of America (also known as State of California, The Golden State, California, United States, Cal., Golden State)"
+    },
+    "alternatives": [
+      {
+        "concept": "California",
+        "qid": "Q16047894",
+        "rank": 2,
+        "score": 0.4781,
+        "confidence": 0.1391,
+        "evidence": "California: genus of plants"
+      },
+      {
+        "concept": "California",
+        "qid": "Q570510",
+        "rank": 3,
+        "score": 0.4141,
+        "confidence": 0.1305,
+        "evidence": "California: album by American Music Club (also known as California (American Music Club album))"
+      },
+      {
+        "concept": "California",
+        "qid": "Q23930100",
+        "rank": 4,
+        "score": 0.4126,
+        "confidence": 0.1303,
+        "evidence": "California: 2016 album by Blink-182"
+      },
+      {
+        "concept": "California",
+        "qid": "Q93480414",
+        "rank": 5,
+        "score": 0.3822,
+        "confidence": 0.1264,
+        "evidence": "California: vocal track by Grimes; 2015 studio recording"
+      },
+      {
+        "concept": "California",
+        "qid": "Q2970818",
+        "rank": 6,
+        "score": 0.2841,
+        "confidence": 0.1146,
+        "evidence": "California: 2004 studio album by Wilson Phillips (also known as California (Wilson Phillips album))"
+      },
+      {
+        "concept": "Canada",
+        "qid": "Q16",
+        "rank": 7,
+        "score": 0.2232,
+        "confidence": 0.1078,
+        "evidence": "Canada: country in North America (also known as CA, CAN)"
+      },
+      {
+        "concept": "California Institute of Technology",
+        "qid": "Q161562",
+        "rank": 8,
+        "score": 0.1015,
+        "confidence": 0.0955,
+        "evidence": "California Institute of Technology: private research university located in Pasadena, California, USA (also known as Caltech, Cal Tech, CIT)"
+      }
+    ]
+  },
+  {
+    "mention": "Chesterfield",
+    "sentence": "Sheffield United 2 * * 1 4 5 * Grimsby 4 0 * 3 * * * Southend * 0 1 3 * ** * Charlton * 0 * 1 1 * * ******** *** Plymouth 4 * * 0 ** 6 ** Brentford 4 3 * 0 * 3 10 Bury * 3 1 0 8 * ** Chesterfield * 3 0 1 4 2 9 Millwall 4 * * * 7 * * Shrewsbury 4 * 1 * 6 6 7 Blackpool 4 * 1 1 3 2 7 York * * * 2 * * * Burnley * * 0 2 * * *",
+    "selected": {
+      "concept": "Chesterfield",
+      "qid": "Q823600",
+      "rank": 1,
+      "score": 0.594,
+      "confidence": 0.1435,
+      "evidence": "Chesterfield: market town and unparished area in Derbyshire, England"
+    },
+    "alternatives": [
+      {
+        "concept": "Chesterfield",
+        "qid": "Q20989091",
+        "rank": 2,
+        "score": 0.5598,
+        "confidence": 0.1387,
+        "evidence": "Chesterfield: district in Derbyshire, England (also known as Borough of Chesterfield)"
+      },
+      {
+        "concept": "Chesterfield",
+        "qid": "Q2063962",
+        "rank": 3,
+        "score": 0.4835,
+        "confidence": 0.1285,
+        "evidence": "Chesterfield: town in Chesterfield County, South Carolina, United States (also known as Chesterfield, South Carolina, Chesterfield, SC)"
+      },
+      {
+        "concept": "Chesterfield F.C.",
+        "qid": "Q48935",
+        "rank": 4,
+        "score": 0.4819,
+        "confidence": 0.1283,
+        "evidence": "Chesterfield F.C.: association football club in Chesterfield, England (also known as Chesterfield Football Club, Chesterfield FC, Chesterfield, The Spireites, CFC)"
+      },
+      {
+        "concept": "Chesterfield",
+        "qid": "Q37556245",
+        "rank": 5,
+        "score": 0.4599,
+        "confidence": 0.1255,
+        "evidence": "Chesterfield: family name"
+      },
+      {
+        "concept": "Chesterfield",
+        "qid": "Q959443",
+        "rank": 6,
+        "score": 0.4429,
+        "confidence": 0.1234,
+        "evidence": "Chesterfield: city in St. Louis County, Missouri, United States (also known as Chesterfield, Missouri, Chesterfield MO, Chesterfield, MO)"
+      },
+      {
+        "concept": "Chesterfield",
+        "qid": "Q96760201",
+        "rank": 7,
+        "score": 0.4406,
+        "confidence": 0.1231,
+        "evidence": "Chesterfield: male given name"
+      },
+      {
+        "concept": "Philip Dormer Stanhope",
+        "qid": "Q115603186",
+        "rank": 8,
+        "score": 0.1143,
+        "confidence": 0.0888,
+        "evidence": "Philip Dormer Stanhope: army officer and author 1752-1825"
+      }
+    ]
+  },
+  {
+    "mention": "Czech Republic",
+    "sentence": "**** Petra Langrova * Czech Republic ) 6 - 2 *** Men 's ******* , third ***** 13 - Thomas Enqvist * Sweden ) beat Pablo Campana ( Ecuador * *** 6-4 ***",
+    "selected": {
+      "concept": "Czech Republic",
+      "qid": "Q213",
+      "rank": 1,
+      "score": 0.5616,
+      "confidence": 0.1236,
+      "evidence": "Czech Republic: country in Central Europe (also known as Czechia, the Czech Republic)"
+    },
+    "alternatives": [
+      {
+        "concept": "Czech Republic",
+        "qid": "Q5201764",
+        "rank": 2,
+        "score": 0.4838,
+        "confidence": 0.1144,
+        "evidence": "Czech Republic: constituency of the European Parliament"
+      },
+      {
+        "concept": "Czech Republic",
+        "qid": "Q99288382",
+        "rank": 3,
+        "score": 0.4769,
+        "confidence": 0.1136,
+        "evidence": "Czech Republic: the country of the Czech Republic as depicted in Star Trek (also known as Star Trek Czech Republic)"
+      },
+      {
+        "concept": "Czech Republic",
+        "qid": "Q3496079",
+        "rank": 4,
+        "score": 0.3996,
+        "confidence": 0.1051,
+        "evidence": "Czech Republic: member state of the Czech and Slovak Federal Republic (1990–1992)"
+      },
+      {
+        "concept": "Czechia men's national football team",
+        "qid": "Q483868",
+        "rank": 5,
+        "score": 0.3194,
+        "confidence": 0.097,
+        "evidence": "Czechia men's national football team: men's national association football team representing Czechia (also known as Czech Republic national football team, Czech national football team, Czechia national team, National team of Czechia, Czechia NT, Czechia N.T., Czechia national football team)"
+      },
+      {
+        "concept": "Czechia men's national ice hockey team",
+        "qid": "Q754410",
+        "rank": 6,
+        "score": 0.3162,
+        "confidence": 0.0967,
+        "evidence": "Czechia men's national ice hockey team: men's national ice hockey team representing the Czech Republic (also known as Czech Republic men's national ice hockey team, Team Czech Republic)"
+      },
+      {
+        "concept": "Czech Republic–Poland border",
+        "qid": "Q1992001",
+        "rank": 7,
+        "score": 0.239,
+        "confidence": 0.0895,
+        "evidence": "Czech Republic–Poland border: separates the state territories of the two States (also known as border between Czech Republic and Poland, border between Poland and Czech Republic, Czech Republic-Poland border, Poland-Czech Republic border)"
+      },
+      {
+        "concept": "Czech Republic national under-21 football team",
+        "qid": "Q1464421",
+        "rank": 8,
+        "score": 0.2346,
+        "confidence": 0.0891,
+        "evidence": "Czech Republic national under-21 football team: national under-21 association football team representing Czechia (also known as Czechia national under-21 football team, Czechia national U21 football team)"
+      },
+      {
+        "concept": "Czech Republic national under-19 football team",
+        "qid": "Q3873527",
+        "rank": 9,
+        "score": 0.2208,
+        "confidence": 0.0879,
+        "evidence": "Czech Republic national under-19 football team: national under-19 football team of Czechia (also known as Czechia national under-19 football team, Czechia national U19 football team)"
+      },
+      {
+        "concept": "2017 Czech legislative election",
+        "qid": "Q17016895",
+        "rank": 10,
+        "score": 0.1628,
+        "confidence": 0.083,
+        "evidence": "2017 Czech legislative election: All 200 seats of the Chamber of Deputies, lower house of the Parliament, were available for the election. (also known as Election to the Chamber of Deputies of the Parliament of the Czech Republic of 2017, Czech Republic general election of 2017, Czech parliamentary election, 2017, Czech Republic parliamentary election of 2017, Czech legislative election, 2017, Czech general election, 2017, Czech Republic legislative election of 2017, 2017 Czech general election)"
+      }
+    ]
+  },
+  {
+    "mention": "DETROIT",
+    "sentence": "AMERICAN LEAGUE EASTERN DIVISION W L PCT GB NEW YORK 75 59 **** - BALTIMORE 71 63 .530 4 BOSTON ** 66 **** 6 1/2 TORONTO 63 ** .467 12 1/2 DETROIT ** 86 .363 26 *** CENTRAL DIVISION CLEVELAND ** ** .597 - CHICAGO 72 ** **** 9 MINNESOTA 67 68 **** 13 1/2 MILWAUKEE ** 71 .478 16 KANSAS CITY 61 ** **** 20 WESTERN DIVISION TEXAS 76 58 **** - SEATTLE 70 64 **** 6 OAKLAND 65 72 **** 12 *** CALIFORNIA ** 73 .459 14 *** ******** , AUGUST ** ******** KANSAS CITY",
+    "selected": {
+      "concept": "Detroit",
+      "qid": "Q12439",
+      "rank": 1,
+      "score": 0.5286,
+      "confidence": 0.1545,
+      "evidence": "Detroit: city in and county seat of Wayne County, and largest city in State of Michigan, United States"
+    },
+    "alternatives": [
+      {
+        "concept": "Detroit Lions",
+        "qid": "Q271880",
+        "rank": 2,
+        "score": 0.3899,
+        "confidence": 0.1345,
+        "evidence": "Detroit Lions: National Football League franchise in Detroit, Michigan"
+      },
+      {
+        "concept": "Detroit",
+        "qid": "Q1642809",
+        "rank": 3,
+        "score": 0.3731,
+        "confidence": 0.1323,
+        "evidence": "Detroit: 1994 business simulation game"
+      },
+      {
+        "concept": "Detroit Red Wings",
+        "qid": "Q194116",
+        "rank": 4,
+        "score": 0.335,
+        "confidence": 0.1273,
+        "evidence": "Detroit Red Wings: hockey team of the National Hockey League"
+      },
+      {
+        "concept": "Detroit",
+        "qid": "Q141104587",
+        "rank": 5,
+        "score": 0.3348,
+        "confidence": 0.1273,
+        "evidence": "Detroit: episode of Interview with the Vampire (S3 E1)"
+      },
+      {
+        "concept": "Motown",
+        "qid": "Q43327",
+        "rank": 6,
+        "score": 0.2143,
+        "confidence": 0.1128,
+        "evidence": "Motown: American record label (also known as Motown Records)"
+      },
+      {
+        "concept": "Detroit Institute of Arts",
+        "qid": "Q1201549",
+        "rank": 7,
+        "score": 0.1555,
+        "confidence": 0.1064,
+        "evidence": "Detroit Institute of Arts: art museum in Detroit, Michigan (also known as The Detroit Institute of Arts, Detroit Museum of Art, DIA)"
+      },
+      {
+        "concept": "University of Detroit Mercy",
+        "qid": "Q1320232",
+        "rank": 8,
+        "score": 0.1409,
+        "confidence": 0.1049,
+        "evidence": "University of Detroit Mercy: university (also known as Detroit Mercy, UDM, University of Detroit, Detroit College)"
+      }
+    ]
+  },
+  {
+    "mention": "France",
+    "sentence": "With only the group seven ******* ********** automatically *** the **** finals in France , Belgium could *** afford * slip-up at home and **** *********** chased a ******** third **** .",
+    "selected": {
+      "concept": "France",
+      "qid": "Q142",
+      "rank": 1,
+      "score": 0.5113,
+      "confidence": 0.1033,
+      "evidence": "France: country in Western Europe and other continents (through its overseas territories in America, Africa and Oceania) (also known as French Republic)"
+    },
+    "alternatives": [
+      {
+        "concept": "France",
+        "qid": "Q3080569",
+        "rank": 2,
+        "score": 0.3944,
+        "confidence": 0.0919,
+        "evidence": "France: unisex given name (also known as France (first name), France (given name))"
+      },
+      {
+        "concept": "France",
+        "qid": "Q16275867",
+        "rank": 3,
+        "score": 0.3881,
+        "confidence": 0.0913,
+        "evidence": "France: family name"
+      },
+      {
+        "concept": "Franc",
+        "qid": "Q12789022",
+        "rank": 4,
+        "score": 0.2311,
+        "confidence": 0.0781,
+        "evidence": "Franc: family name"
+      },
+      {
+        "concept": "French State",
+        "qid": "Q3591845",
+        "rank": 5,
+        "score": 0.2093,
+        "confidence": 0.0764,
+        "evidence": "French State: French public collective and all public authorities (also known as France)"
+      },
+      {
+        "concept": "Franc",
+        "qid": "Q15303979",
+        "rank": 6,
+        "score": 0.2004,
+        "confidence": 0.0757,
+        "evidence": "Franc: male given name (also known as Franc (given name), Franc (first name))"
+      },
+      {
+        "concept": "Frances",
+        "qid": "Q1440778",
+        "rank": 7,
+        "score": 0.1738,
+        "confidence": 0.0737,
+        "evidence": "Frances: female given name"
+      },
+      {
+        "concept": "Francesco",
+        "qid": "Q2268455",
+        "rank": 8,
+        "score": 0.1428,
+        "confidence": 0.0715,
+        "evidence": "Francesco: male given name (also known as Francesco (first name), Francesco (given name))"
+      },
+      {
+        "concept": "François",
+        "qid": "Q1166840",
+        "rank": 9,
+        "score": 0.1369,
+        "confidence": 0.071,
+        "evidence": "François: male given name (also known as François (first name), François (given name))"
+      },
+      {
+        "concept": "Francis",
+        "qid": "Q1441346",
+        "rank": 10,
+        "score": 0.1331,
+        "confidence": 0.0708,
+        "evidence": "Francis: male given name"
+      },
+      {
+        "concept": "Francisco",
+        "qid": "Q7201446",
+        "rank": 11,
+        "score": 0.0933,
+        "confidence": 0.068,
+        "evidence": "Francisco: male given name (also known as Francisco (first name), Francisco (given name))"
+      },
+      {
+        "concept": "Anatole France",
+        "qid": "Q42443",
+        "rank": 12,
+        "score": 0.0851,
+        "confidence": 0.0675,
+        "evidence": "Anatole France: French writer (1844–1924) (also known as Jacques François-Anatole Thibault, Anatole Thibault)"
+      },
+      {
+        "concept": "France men's national association football team",
+        "qid": "Q47774",
+        "rank": 13,
+        "score": -0.0184,
+        "confidence": 0.0608,
+        "evidence": "France men's national association football team: national association football team representing France (also known as France national football team, France, France national soccer team, France national association football team, France men's national football team, Les Bleus)"
+      }
+    ]
+  },
+  {
+    "mention": "Germany",
+    "sentence": "Florian Schwarthoff ( Germany )",
+    "selected": {
+      "concept": "Germany",
+      "qid": "Q139776664",
+      "rank": 1,
+      "score": 0.6372,
+      "confidence": 0.0881,
+      "evidence": "Germany: None"
+    },
+    "alternatives": [
+      {
+        "concept": "Germany",
+        "qid": "Q133933103",
+        "rank": 2,
+        "score": 0.634,
+        "confidence": 0.0879,
+        "evidence": "Germany: male given name"
+      },
+      {
+        "concept": "Germany",
+        "qid": "Q37444958",
+        "rank": 3,
+        "score": 0.6032,
+        "confidence": 0.0852,
+        "evidence": "Germany: family name"
+      },
+      {
+        "concept": "Germany",
+        "qid": "Q183",
+        "rank": 4,
+        "score": 0.5955,
+        "confidence": 0.0845,
+        "evidence": "Germany: country in Central Europe (also known as Federal Republic of Germany, DE, DEU, FRG, BRD)"
+      },
+      {
+        "concept": "Germany",
+        "qid": "Q138527606",
+        "rank": 5,
+        "score": 0.4433,
+        "confidence": 0.0726,
+        "evidence": "Germany: 1875 chapter"
+      },
+      {
+        "concept": "Deutschland",
+        "qid": "Q62565775",
+        "rank": 6,
+        "score": 0.32,
+        "confidence": 0.0642,
+        "evidence": "Deutschland: 2019 song by Rammstein"
+      },
+      {
+        "concept": "Germanist",
+        "qid": "Q2599593",
+        "rank": 7,
+        "score": 0.2917,
+        "confidence": 0.0624,
+        "evidence": "Germanist: scholar specialising in the German language or culture or literature (also known as German studies scholar, German scholar, German studies specialist)"
+      },
+      {
+        "concept": "Germania",
+        "qid": "Q62646",
+        "rank": 8,
+        "score": 0.2629,
+        "confidence": 0.0606,
+        "evidence": "Germania: Roman term for a historical region in north-central Europe"
+      },
+      {
+        "concept": "germanium",
+        "qid": "Q867",
+        "rank": 9,
+        "score": 0.2136,
+        "confidence": 0.0577,
+        "evidence": "germanium: chemical element with symbol Ge and atomic number 32 (also known as Ge, 32Ge, element 32)"
+      },
+      {
+        "concept": "Germanicus",
+        "qid": "Q191039",
+        "rank": 10,
+        "score": 0.2082,
+        "confidence": 0.0574,
+        "evidence": "Germanicus: nephew and adopted son of emperor Tiberius, heir apparent of the Roman Empire, and father of emperor Caligula (also known as Germanicus Julius Caesar, Nero Claudius Drusus, Germanicus Caesar, Cæsar Germanicus, Caesar Germanicus)"
+      },
+      {
+        "concept": "German Reich",
+        "qid": "Q1206012",
+        "rank": 11,
+        "score": 0.2042,
+        "confidence": 0.0572,
+        "evidence": "German Reich: official name for the German nation state from 1871 to 1945, and name of Germany until 1949 (also known as German Realm, German Empire, Imperial Germany, Germany)"
+      },
+      {
+        "concept": "Schistolithos",
+        "qid": "Q8000505",
+        "rank": 12,
+        "score": 0.2012,
+        "confidence": 0.057,
+        "evidence": "Schistolithos: village in Serres, Greece (also known as Germani)"
+      },
+      {
+        "concept": "Germania Benedictina",
+        "qid": "Q1514101",
+        "rank": 13,
+        "score": 0.1956,
+        "confidence": 0.0567,
+        "evidence": "Germania Benedictina: Description of the monasteries with Benedict's Rule in the German-speaking area"
+      },
+      {
+        "concept": "Weimar Republic",
+        "qid": "Q41304",
+        "rank": 14,
+        "score": 0.1785,
+        "confidence": 0.0557,
+        "evidence": "Weimar Republic: Germany in the years 1918/1919–1933 (also known as German Reich, Weimar Germany, Germany, German Republic, Republic of Germany, German People's State)"
+      },
+      {
+        "concept": "German studies",
+        "qid": "Q166153",
+        "rank": 15,
+        "score": 0.1262,
+        "confidence": 0.0529,
+        "evidence": "German studies: field of humanities that researches, documents, and disseminates German language and literature (also known as Germanistics, German philology, Germanics, Germanic studies)"
+      }
+    ]
+  },
+  {
+    "mention": "Ireland",
+    "sentence": "******* ** Marcus O'Sullivan ( Ireland * ******* Men ** ****** ** Lars Riedel * Germany ) 70.60 ****** ** Anthony Washington ( U.S. )",
+    "selected": {
+      "concept": "Ireland",
+      "qid": "Q27",
+      "rank": 1,
+      "score": 0.5482,
+      "confidence": 0.1665,
+      "evidence": "Ireland: country in Northwestern Europe (also known as Republic of Ireland, Southern Ireland, Irish Republic)"
+    },
+    "alternatives": [
+      {
+        "concept": "Ireland",
+        "qid": "Q28199768",
+        "rank": 2,
+        "score": 0.5126,
+        "confidence": 0.1607,
+        "evidence": "Ireland: family name"
+      },
+      {
+        "concept": "Ireland",
+        "qid": "Q22890",
+        "rank": 3,
+        "score": 0.4624,
+        "confidence": 0.1528,
+        "evidence": "Ireland: island in the North Atlantic Ocean (also known as Airlan, Irland, Irlanda, Irlandia, Auld Sod, Irlande, Airlann, Mikra Britannia, Ireland (island), Éire, Banba, Fódhla, Emerald Isle, Erin, Britannia Minor, Ivernia, Ierne, Island of Saints, Hibernia, Island of Ireland, isle of Ireland, Eire, Scotia Major)"
+      },
+      {
+        "concept": "Ireland",
+        "qid": "Q57695350",
+        "rank": 4,
+        "score": 0.3973,
+        "confidence": 0.1432,
+        "evidence": "Ireland: part of the United Kingdom (1801–1922)"
+      },
+      {
+        "concept": "Ireland",
+        "qid": "Q140145075",
+        "rank": 5,
+        "score": 0.3707,
+        "confidence": 0.1394,
+        "evidence": "Ireland: book chapter in Gendered Electoral Financing (2019)"
+      },
+      {
+        "concept": "Samuel Ireland",
+        "qid": "Q7411777",
+        "rank": 6,
+        "score": 0.2674,
+        "confidence": 0.1258,
+        "evidence": "Samuel Ireland: British author and engraver (also known as Samuel, I Ireland, Samuel I Ireland, Ireld, Irld, Ireland)"
+      },
+      {
+        "concept": "Kingdom of Ireland",
+        "qid": "Q215530",
+        "rank": 7,
+        "score": 0.1472,
+        "confidence": 0.1115,
+        "evidence": "Kingdom of Ireland: kingdom on the island of Ireland between 1542 and 1801 (also known as Ireland)"
+      }
+    ]
+  },
+  {
+    "mention": "Italy",
+    "sentence": "Luca Pavanello ( Italy )",
+    "selected": {
+      "concept": "Italy",
+      "qid": "Q38",
+      "rank": 1,
+      "score": 0.6853,
+      "confidence": 0.1128,
+      "evidence": "Italy: country in southern Europe (also known as Italian Republic, Republic of Italy)"
+    },
+    "alternatives": [
+      {
+        "concept": "Italy",
+        "qid": "Q105415085",
+        "rank": 2,
+        "score": 0.5986,
+        "confidence": 0.1035,
+        "evidence": "Italy: Counter-Strike map (also known as cs_italy)"
+      },
+      {
+        "concept": "Italian Peninsula",
+        "qid": "Q145694",
+        "rank": 3,
+        "score": 0.3438,
+        "confidence": 0.0802,
+        "evidence": "Italian Peninsula: peninsula of southern Europe (also known as Apennine Peninsula, Italy, Italic Peninsula, penisola italica, lo Stivale, península Itálica)"
+      },
+      {
+        "concept": "Italian",
+        "qid": "Q652",
+        "rank": 4,
+        "score": 0.3414,
+        "confidence": 0.08,
+        "evidence": "Italian: Romance language (also known as Italian language, Italiana)"
+      },
+      {
+        "concept": "Kingdom of Italy",
+        "qid": "Q172579",
+        "rank": 5,
+        "score": 0.3032,
+        "confidence": 0.077,
+        "evidence": "Kingdom of Italy: kingdom in Southern Europe from 1861 to 1946 (also known as Italy)"
+      },
+      {
+        "concept": "Italian Studies",
+        "qid": "Q15764180",
+        "rank": 6,
+        "score": 0.29,
+        "confidence": 0.076,
+        "evidence": "Italian Studies: academic journal"
+      },
+      {
+        "concept": "Italian Wikipedia",
+        "qid": "Q11920",
+        "rank": 7,
+        "score": 0.2364,
+        "confidence": 0.072,
+        "evidence": "Italian Wikipedia: Italian-language edition of Wikipedia (also known as itWP, Wikipedia in italiano)"
+      },
+      {
+        "concept": "Kingdom of Italy",
+        "qid": "Q223936",
+        "rank": 8,
+        "score": 0.2281,
+        "confidence": 0.0714,
+        "evidence": "Kingdom of Italy: kingdom in southern Europe between 1805 and 1814 (also known as Regno d'Italia, Royaume d’Italie, Napoleonic Kingdom of Italy, Italian Kingdom, Italy)"
+      },
+      {
+        "concept": "Kingdom of Italy",
+        "qid": "Q838931",
+        "rank": 9,
+        "score": 0.2244,
+        "confidence": 0.0712,
+        "evidence": "Kingdom of Italy: (962 – 1801) constituent kingdom of the Holy Roman Empire (also known as Regnum Italiae, Regnum Italicum, Italian Kingdom, Italy, Regnum Italicorum)"
+      },
+      {
+        "concept": "Italian national heritage",
+        "qid": "Q26971668",
+        "rank": 10,
+        "score": 0.2091,
+        "confidence": 0.0701,
+        "evidence": "Italian national heritage: cultural property of Italy"
+      },
+      {
+        "concept": "Italian School Data Portal",
+        "qid": "Q52116343",
+        "rank": 11,
+        "score": 0.1731,
+        "confidence": 0.0676,
+        "evidence": "Italian School Data Portal: Italian data set based on education"
+      },
+      {
+        "concept": "Italian Journal of Anatomy and Embryology",
+        "qid": "Q15762168",
+        "rank": 12,
+        "score": 0.068,
+        "confidence": 0.0609,
+        "evidence": "Italian Journal of Anatomy and Embryology: journal"
+      },
+      {
+        "concept": "Italy men's national association football team",
+        "qid": "Q676899",
+        "rank": 13,
+        "score": 0.0078,
+        "confidence": 0.0573,
+        "evidence": "Italy men's national association football team: men's national association football team representing Italy (also known as Italy national football team, The Azzurri, Italy national team, Italian national team, Italy NT, Italian NT, Team of Italy, Italy men's national football team, Italy national association football team)"
+      }
+    ]
+  },
+  {
+    "mention": "JAPAN",
+    "sentence": "JAPAN - Yield *** benchmark ***** cash bond fell ** ********* following weaker-than-expected ********** ****** data , which ********* traders the BOJ would not raise ******** rates soon .",
+    "selected": {
+      "concept": "Japan",
+      "qid": "Q17",
+      "rank": 1,
+      "score": 0.4705,
+      "confidence": 0.1652,
+      "evidence": "Japan: island country in East Asia (also known as State of Japan, Land of the Rising Sun, Nippon-koku, Nihon-koku, Iapan, Iapon, Land of Rising Sun)"
+    },
+    "alternatives": [
+      {
+        "concept": "Japanese",
+        "qid": "Q5287",
+        "rank": 2,
+        "score": 0.2735,
+        "confidence": 0.1357,
+        "evidence": "Japanese: language spoken in East Asia (also known as Japanese language, Japanesic)"
+      },
+      {
+        "concept": "kanji",
+        "qid": "Q82772",
+        "rank": 3,
+        "score": 0.1917,
+        "confidence": 0.125,
+        "evidence": "kanji: adopted logographic Chinese characters used in the modern Japanese writing system (also known as kanji characters, Japanese/Kanji)"
+      },
+      {
+        "concept": "Empire of Japan",
+        "qid": "Q188712",
+        "rank": 4,
+        "score": 0.1503,
+        "confidence": 0.12,
+        "evidence": "Empire of Japan: empire in the Asia-Pacific region from 1868 to 1947 (also known as Japanese Empire, Imperial Japan, Great Empire of Japan, Great Japanese Empire, Japan)"
+      },
+      {
+        "concept": "Japanese archipelago",
+        "qid": "Q841337",
+        "rank": 5,
+        "score": 0.1223,
+        "confidence": 0.1166,
+        "evidence": "Japanese archipelago: East Asian archipelago in the North Pacific Ocean (also known as Japanese Islands, Japanese islands, Home Islands, the Japanese archipelago)"
+      },
+      {
+        "concept": "Tokugawa shogunate",
+        "qid": "Q205662",
+        "rank": 6,
+        "score": 0.1146,
+        "confidence": 0.1157,
+        "evidence": "Tokugawa shogunate: 1603–1868 Japanese military government (also known as Shogunate of Japan, Japan, Edo Japan, Tokugawa Shogunate)"
+      },
+      {
+        "concept": "Japanese Wikipedia",
+        "qid": "Q177837",
+        "rank": 7,
+        "score": 0.1064,
+        "confidence": 0.1148,
+        "evidence": "Japanese Wikipedia: Japanese-language edition of Wikipedia (also known as jawp, JAWP, jpwp, Japanese wikipedia, Japanese language Wikipedia, Jp.wikipedia.org, Ja wikipedia, Japanese WP, jawikipedia, jawiki)"
+      },
+      {
+        "concept": "Japanese encephalitis virus",
+        "qid": "Q19838331",
+        "rank": 8,
+        "score": 0.0354,
+        "confidence": 0.1069,
+        "evidence": "Japanese encephalitis virus: species of virus (also known as Encephalitis Virus, Japanese)"
+      }
+    ]
+  },
+  {
+    "mention": "KANSAS CITY",
+    "sentence": "AMERICAN LEAGUE EASTERN DIVISION W L PCT GB NEW YORK 75 59 **** - BALTIMORE 71 63 .530 4 BOSTON ** 66 **** 6 1/2 TORONTO 63 ** .467 12 1/2 DETROIT ** 86 .363 26 *** CENTRAL DIVISION CLEVELAND ** ** .597 - CHICAGO 72 ** **** 9 MINNESOTA 67 68 **** 13 1/2 MILWAUKEE ** 71 .478 16 KANSAS CITY 61 ** **** 20 WESTERN DIVISION TEXAS 76 58 **** - SEATTLE 70 64 **** 6 OAKLAND 65 72 **** 12 *** CALIFORNIA ** 73 .459 14 *** ******** , AUGUST ** ******** KANSAS CITY",
+    "selected": {
+      "concept": "Kansas City",
+      "qid": "Q41819",
+      "rank": 1,
+      "score": 0.6021,
+      "confidence": 0.1702,
+      "evidence": "Kansas City: city in Missouri, United States, that is one of two county seats of Jackson County and the largest city in Missouri (also known as Kansas City, MO, KCMO, KC, Kansas City, Missouri, K.C.)"
+    },
+    "alternatives": [
+      {
+        "concept": "Kansas City",
+        "qid": "Q138492958",
+        "rank": 2,
+        "score": 0.5448,
+        "confidence": 0.1607,
+        "evidence": "Kansas City: None"
+      },
+      {
+        "concept": "Kansas City",
+        "qid": "Q486472",
+        "rank": 3,
+        "score": 0.4781,
+        "confidence": 0.1503,
+        "evidence": "Kansas City: city in and county seat of Wyandotte County, Kansas, United States (also known as Kansas City, Kansas, Kansas City, KS, Kansas, Kansas, KCK)"
+      },
+      {
+        "concept": "Kansas City Chiefs",
+        "qid": "Q223522",
+        "rank": 4,
+        "score": 0.3955,
+        "confidence": 0.1384,
+        "evidence": "Kansas City Chiefs: National Football League franchise in Kansas City, Missouri (also known as Dallas Texans, KC Chiefs, Chiefs)"
+      },
+      {
+        "concept": "Kansas City",
+        "qid": "Q60580732",
+        "rank": 5,
+        "score": 0.395,
+        "confidence": 0.1383,
+        "evidence": "Kansas City: vocal track by Little Richard; studio recording; medley; cover version"
+      },
+      {
+        "concept": "Sacramento Kings",
+        "qid": "Q166105",
+        "rank": 6,
+        "score": 0.3381,
+        "confidence": 0.1307,
+        "evidence": "Sacramento Kings: American professional basketball team (also known as Rochester Royals, Cincinnati Royals, Kansas City-Omaha Kings, Kansas City Kings)"
+      },
+      {
+        "concept": "University of Missouri–Kansas City",
+        "qid": "Q940690",
+        "rank": 7,
+        "score": 0.1775,
+        "confidence": 0.1113,
+        "evidence": "University of Missouri–Kansas City: American public university (also known as UMKC, umkc.edu, University of Missouri, Kansas City)"
+      }
+    ]
+  },
+  {
+    "mention": "Labour Day",
+    "sentence": "EUROBONDS - Primary market ******** was sharply ***** , as players wound down ahead of Monday ** U.S. Labour Day holiday and next week 's U.S. ********** data .",
+    "selected": {
+      "concept": "Labour Day",
+      "qid": "Q10901070",
+      "rank": 1,
+      "score": 0.617,
+      "confidence": 0.1558,
+      "evidence": "Labour Day: annual holiday (also known as Labor Day, International Workers' Day)"
+    },
+    "alternatives": [
+      {
+        "concept": "Labour Day",
+        "qid": "Q17093181",
+        "rank": 2,
+        "score": 0.5947,
+        "confidence": 0.1524,
+        "evidence": "Labour Day: album by Spirit of the West"
+      },
+      {
+        "concept": "Labour Day",
+        "qid": "Q108456662",
+        "rank": 3,
+        "score": 0.5921,
+        "confidence": 0.152,
+        "evidence": "Labour Day: public holiday in Canada (also known as Labor Day)"
+      },
+      {
+        "concept": "Labour Day",
+        "qid": "Q16926793",
+        "rank": 4,
+        "score": 0.554,
+        "confidence": 0.1463,
+        "evidence": "Labour Day: public holiday in Singapore (also known as May Day)"
+      },
+      {
+        "concept": "Labour Day",
+        "qid": "Q112053302",
+        "rank": 5,
+        "score": 0.4813,
+        "confidence": 0.136,
+        "evidence": "Labour Day: public holiday in Trinidad and Tobago commemorating the labour riots in 1937"
+      },
+      {
+        "concept": "1 May Day",
+        "qid": "Q89779387",
+        "rank": 6,
+        "score": 0.4504,
+        "confidence": 0.1319,
+        "evidence": "1 May Day: public holiday in Austria (also known as Labour Day)"
+      },
+      {
+        "concept": "State Holiday",
+        "qid": "Q125921693",
+        "rank": 7,
+        "score": 0.4014,
+        "confidence": 0.1256,
+        "evidence": "State Holiday: public holiday in Poland, coincides with International Workers' Day and EU Accession Day (also known as Labour Day)"
+      }
+    ]
+  },
+  {
+    "mention": "Lithuania",
+    "sentence": "Giovanna Troldi ( Italy * ****** *** Rita Razmaite * Lithuania * 38.546 World ***** metres team pursuit ************ ***** : Italy ( Adler Capelli , Cristiano Citto * Andrea Collinelli * Mauro Trentino )",
+    "selected": {
+      "concept": "Lithuania",
+      "qid": "Q37",
+      "rank": 1,
+      "score": 0.5706,
+      "confidence": 0.1747,
+      "evidence": "Lithuania: country in northeastern Europe (also known as Republic of Lithuania)"
+    },
+    "alternatives": [
+      {
+        "concept": "Lithuania",
+        "qid": "Q76545039",
+        "rank": 2,
+        "score": 0.4736,
+        "confidence": 0.1586,
+        "evidence": "Lithuania: family name"
+      },
+      {
+        "concept": "Lithuania",
+        "qid": "Q98878711",
+        "rank": 3,
+        "score": 0.3977,
+        "confidence": 0.147,
+        "evidence": "Lithuania: 2020 audio track by Big Sean"
+      },
+      {
+        "concept": "Lithuania",
+        "qid": "Q140913612",
+        "rank": 4,
+        "score": 0.3476,
+        "confidence": 0.1398,
+        "evidence": "Lithuania: 1965 book by Vytautas Vaitiekūnas"
+      },
+      {
+        "concept": "Lithuanian",
+        "qid": "Q9083",
+        "rank": 5,
+        "score": 0.2695,
+        "confidence": 0.1293,
+        "evidence": "Lithuanian: Baltic language spoken in Lithuania (also known as Lithuanian language, Lietuvių)"
+      },
+      {
+        "concept": "Grand Duchy of Lithuania",
+        "qid": "Q49683",
+        "rank": 6,
+        "score": 0.243,
+        "confidence": 0.1259,
+        "evidence": "Grand Duchy of Lithuania: Eastern European monarchical state that existed from 1236 to 1795 (also known as Litva, GDL, Lithuania, Lithuanian Empire, Medieval Lithuanian state, Lietuva, Lithuanian Republic)"
+      },
+      {
+        "concept": "Lithuanian Wikipedia",
+        "qid": "Q202472",
+        "rank": 7,
+        "score": 0.2333,
+        "confidence": 0.1247,
+        "evidence": "Lithuanian Wikipedia: Lithuanian-language edition of Wikipedia"
+      }
+    ]
+  },
+  {
+    "mention": "MILWAUKEE",
+    "sentence": "MILWAUKEE , Wisconsin ********** ******* ****** ** *** $ 1.2 ******* Greater Milwaukee Open",
+    "selected": {
+      "concept": "Milwaukee",
+      "qid": "Q37836",
+      "rank": 1,
+      "score": 0.7769,
+      "confidence": 0.196,
+      "evidence": "Milwaukee: city in and county seat of Milwaukee County, and largest city in State of Wisconsin, United States (also known as Milwaukee, Wisconsin, Milwaukee City, Wisconsin, Milwaükee, Milwaukee, WI)"
+    },
+    "alternatives": [
+      {
+        "concept": "Milwaukee Bucks",
+        "qid": "Q169637",
+        "rank": 2,
+        "score": 0.4445,
+        "confidence": 0.1405,
+        "evidence": "Milwaukee Bucks: American professional basketball team"
+      },
+      {
+        "concept": "Milwaukee Brewers",
+        "qid": "Q848103",
+        "rank": 3,
+        "score": 0.4396,
+        "confidence": 0.1398,
+        "evidence": "Milwaukee Brewers: baseball team and Major League Baseball franchise in Milwaukee, Wisconsin, United States (also known as Brew Crew, Brewers, Seattle Pilots, Pilots)"
+      },
+      {
+        "concept": "Milwaukee Art Museum",
+        "qid": "Q325712",
+        "rank": 4,
+        "score": 0.4283,
+        "confidence": 0.1383,
+        "evidence": "Milwaukee Art Museum: art museum in Milwaukee, Wisconsin (also known as MAM, Milwaukee Art Center, Milwaukee Art Institute)"
+      },
+      {
+        "concept": "University of Wisconsin–Milwaukee",
+        "qid": "Q1755318",
+        "rank": 5,
+        "score": 0.425,
+        "confidence": 0.1378,
+        "evidence": "University of Wisconsin–Milwaukee: university in Milwaukee (also known as UWM, University of Wisconsin-Milwaukee, Wisconsin-Milwaukee, Milwaukee, UW–Milwaukee, UW-Milwaukee, UW Milwaukee, uwm.edu, University of Wisconsin at Milwaukee)"
+      },
+      {
+        "concept": "Atlanta Hawks",
+        "qid": "Q159893",
+        "rank": 6,
+        "score": 0.3179,
+        "confidence": 0.1238,
+        "evidence": "Atlanta Hawks: Atlanta-based American professional basketball team (also known as St. Louis Hawks, Milwaukee Hawks, Tri-Cities Blackhawks)"
+      },
+      {
+        "concept": "Atlanta Braves",
+        "qid": "Q461595",
+        "rank": 7,
+        "score": 0.3173,
+        "confidence": 0.1237,
+        "evidence": "Atlanta Braves: Major League Baseball team in Cumberland, Georgia (also known as Braves, Milwaukee Braves, Boston Braves, Boston Bees, Bees, Boston Rustlers, Rustlers, Boston Doves, Doves, Boston Beaneaters, Beaneaters, Boston Red Stockings)"
+      }
+    ]
+  },
+  {
+    "mention": "MONTREAL",
+    "sentence": "AT CINCINNATI SAN DIEGO ** MONTREAL LOS ANGELES",
+    "selected": {
+      "concept": "Montreal",
+      "qid": "Q340",
+      "rank": 1,
+      "score": 0.6977,
+      "confidence": 0.1788,
+      "evidence": "Montreal: largest city in Quebec, Canada (also known as City of Montreal, Ville de Montréal, Ville de Montreal, Montreal, Quebec, Montreal, Canada, Montreal/Tiohtia:ke, Tiohtia:ke/Montreal)"
+    },
+    "alternatives": [
+      {
+        "concept": "Montreal Canadiens",
+        "qid": "Q188143",
+        "rank": 2,
+        "score": 0.5039,
+        "confidence": 0.1473,
+        "evidence": "Montreal Canadiens: National Hockey League team in Montreal, Quebec (also known as Club de hockey Canadien, inc., Habs, Canadiens de Montréal, le Club de hockey Canadien, Canadiens de Montreal)"
+      },
+      {
+        "concept": "Montréal",
+        "qid": "Q177083",
+        "rank": 3,
+        "score": 0.4872,
+        "confidence": 0.1449,
+        "evidence": "Montréal: commune in Aude, France"
+      },
+      {
+        "concept": "Montréal",
+        "qid": "Q275905",
+        "rank": 4,
+        "score": 0.4301,
+        "confidence": 0.1368,
+        "evidence": "Montréal: commune in Gers, France (also known as Montréal-du-Gers, Montreal-du-Gers)"
+      },
+      {
+        "concept": "Montréal",
+        "qid": "Q626168",
+        "rank": 5,
+        "score": 0.4241,
+        "confidence": 0.136,
+        "evidence": "Montréal: commune in Yonne, France (also known as Mont-Serein)"
+      },
+      {
+        "concept": "Montréal",
+        "qid": "Q326457",
+        "rank": 6,
+        "score": 0.4171,
+        "confidence": 0.1351,
+        "evidence": "Montréal: commune in Ardèche, France (also known as Mont-Libre)"
+      },
+      {
+        "concept": "Montréal-la-Cluse",
+        "qid": "Q271354",
+        "rank": 7,
+        "score": 0.3087,
+        "confidence": 0.1212,
+        "evidence": "Montréal-la-Cluse: commune in Ain, France (also known as Delilia-de-Crose, Senoche, Montréal la Cluse)"
+      }
+    ]
+  },
+  {
+    "mention": "Netherlands",
+    "sentence": "LANDGRAAF * Netherlands ********** ******* ******* of *** ****** ***** *** ***** stage of *** Tour of the Netherlands ******* Roermond *** Landgraaf ** ******** : 1. Olaf Ludwig ( Germany )",
+    "selected": {
+      "concept": "Netherlands",
+      "qid": "Q55",
+      "rank": 1,
+      "score": 0.5911,
+      "confidence": 0.1437,
+      "evidence": "Netherlands: one of the four autonomous countries of the Kingdom of the Netherlands; with territories in the Caribbean (also known as Holland, the Netherlands, Nederland, Nederlanden, de Nederlanden, NL, NLD)"
+    },
+    "alternatives": [
+      {
+        "concept": "Netherlands",
+        "qid": "Q16250490",
+        "rank": 2,
+        "score": 0.4904,
+        "confidence": 0.1299,
+        "evidence": "Netherlands: constituency of the European Parliament"
+      },
+      {
+        "concept": "Netherland",
+        "qid": "Q37492435",
+        "rank": 3,
+        "score": 0.3814,
+        "confidence": 0.1165,
+        "evidence": "Netherland: family name"
+      },
+      {
+        "concept": "Low Countries",
+        "qid": "Q476033",
+        "rank": 4,
+        "score": 0.3271,
+        "confidence": 0.1103,
+        "evidence": "Low Countries: historical coastal landscape in north western Europe (also known as Low Lands, Netherlands)"
+      },
+      {
+        "concept": "Kingdom of the Netherlands",
+        "qid": "Q29999",
+        "rank": 5,
+        "score": 0.321,
+        "confidence": 0.1097,
+        "evidence": "Kingdom of the Netherlands: transcontinental sovereign state and constitutional monarchy (also known as Netherlands, the Netherlands, Nederlanden, Kingdom of Netherlands)"
+      },
+      {
+        "concept": "Dutch",
+        "qid": "Q7411",
+        "rank": 6,
+        "score": 0.2917,
+        "confidence": 0.1065,
+        "evidence": "Dutch: West Germanic language (also known as Dutch language, Netherlandic, Netherlandic language, Netherlandish, Netherlandish language)"
+      },
+      {
+        "concept": "Dutch Republic",
+        "qid": "Q170072",
+        "rank": 7,
+        "score": 0.2042,
+        "confidence": 0.0976,
+        "evidence": "Dutch Republic: predecessor state of the Netherlands (1581–1795) (also known as Republic of the Seven United Netherlands, Republic of the United Netherlands, Republic of the Seven United Provinces, United Provinces, Federated Dutch Provinces, Dutch Federation, United Provinces of the Netherlands, Netherlands (1581–1795), Republic of the Netherlands, Republiek der Zeven Verenigde Nederlanden)"
+      },
+      {
+        "concept": "Dutch East Indies",
+        "qid": "Q188161",
+        "rank": 8,
+        "score": 0.1591,
+        "confidence": 0.0933,
+        "evidence": "Dutch East Indies: Dutch colony in Southeast Asia and Oceania (1800–1949) (also known as Netherlands East Indies, Dutch Indies, Nederlands-Indië, Netherlands Indies, Insulinde)"
+      },
+      {
+        "concept": "RKD - Nederlands Instituut voor Kunstgeschiedenis",
+        "qid": "Q758610",
+        "rank": 9,
+        "score": 0.1509,
+        "confidence": 0.0925,
+        "evidence": "RKD - Nederlands Instituut voor Kunstgeschiedenis: Dutch national documentation centre of art history (also known as RKD-Nederlands Instituut voor Kunstgeschiedenis, rkd.nl, Netherlands Institute for Art History)"
+      }
+    ]
+  },
+  {
+    "mention": "New Zealand",
+    "sentence": "They scored ***** tries in recording their ******* total ******* New Zealand , salvaging **** pride in a season ** which *** world champions have lost five *** of eight tests .",
+    "selected": {
+      "concept": "New Zealand",
+      "qid": "Q664",
+      "rank": 1,
+      "score": 0.6097,
+      "confidence": 0.1929,
+      "evidence": "New Zealand: island country in the southwest Pacific Ocean (also known as Dominion of New Zealand, nz, Aotearoa New Zealand)"
+    },
+    "alternatives": [
+      {
+        "concept": "NZThesisProject",
+        "qid": "Q111645234",
+        "rank": 2,
+        "score": 0.2981,
+        "confidence": 0.1413,
+        "evidence": "NZThesisProject: community of editors and project aiming to upload the citation data of New Zealand doctoral and masters theses to Wikidata (also known as New Zealand Thesis Project, Wikiproject NZ Thesis, NZ Thesis Project, NZ Thesis Wikiproject)"
+      },
+      {
+        "concept": "New Zealand Labour Party",
+        "qid": "Q1048192",
+        "rank": 3,
+        "score": 0.2971,
+        "confidence": 0.1411,
+        "evidence": "New Zealand Labour Party: centre-left political party in New Zealand (also known as Labour Party of New Zealand, Rōpū Reipa o Aotearoa, NZ Labour, Labour NZ)"
+      },
+      {
+        "concept": "Colony of New Zealand",
+        "qid": "Q5148518",
+        "rank": 4,
+        "score": 0.2931,
+        "confidence": 0.1406,
+        "evidence": "Colony of New Zealand: constitutional monarchy in Oceania (1844–1907) (also known as Colony of NZ, New Zealand colony, New Zealand)"
+      },
+      {
+        "concept": "The New Zealand Medical Journal",
+        "qid": "Q7753855",
+        "rank": 5,
+        "score": 0.2561,
+        "confidence": 0.1355,
+        "evidence": "The New Zealand Medical Journal: journal (also known as New Zealand medical journal, NZMJ, N. Z. Med. J.)"
+      },
+      {
+        "concept": "New Zealand Organisms Register",
+        "qid": "Q23893915",
+        "rank": 6,
+        "score": 0.2326,
+        "confidence": 0.1323,
+        "evidence": "New Zealand Organisms Register: catalogue of scientific names of New Zealand biota (also known as NZOR)"
+      },
+      {
+        "concept": "New Zealand Threat Classification System Database",
+        "qid": "Q108424413",
+        "rank": 7,
+        "score": 0.1035,
+        "confidence": 0.1163,
+        "evidence": "New Zealand Threat Classification System Database: website and database for the New Zealand Threat Classification System (also known as New Zealand Threat Classification System, NZTCS, NZ Threat Classification System (NZTCS) Database, NZTCS Database)"
+      }
+    ]
+  },
+  {
+    "mention": "Oakland",
+    "sentence": "In Oakland , Dave Telgheder ********* ***** hits over eight ******* *** Mark McGwire hit his ************ leading 45th homer and ***** in three **** as the Athetlics ******* the Boston Red Sox 7-0 .",
+    "selected": {
+      "concept": "Oakland",
+      "qid": "Q17042",
+      "rank": 1,
+      "score": 0.5098,
+      "confidence": 0.1724,
+      "evidence": "Oakland: city in and county seat of Alameda County, California, United States (also known as Oakland, California, City of Oakland, Oakland, CA, Oaktown)"
+    },
+    "alternatives": [
+      {
+        "concept": "Oakland",
+        "qid": "Q98777101",
+        "rank": 2,
+        "score": 0.412,
+        "confidence": 0.1563,
+        "evidence": "Oakland: male given name"
+      },
+      {
+        "concept": "Oakland",
+        "qid": "Q3013252",
+        "rank": 3,
+        "score": 0.3624,
+        "confidence": 0.1488,
+        "evidence": "Oakland: city in Oregon, USA (also known as Oakland, Oregon, Oakland, OR)"
+      },
+      {
+        "concept": "Oakland",
+        "qid": "Q795396",
+        "rank": 4,
+        "score": 0.3548,
+        "confidence": 0.1476,
+        "evidence": "Oakland: borough in New Jersey, USA (also known as Oakland, New Jersey, Oakland NJ, Oakland, N.J., Oakland, NJ)"
+      },
+      {
+        "concept": "Oakland",
+        "qid": "Q755860",
+        "rank": 5,
+        "score": 0.3324,
+        "confidence": 0.1444,
+        "evidence": "Oakland: town in and seat of Garrett County, Maryland, United States (also known as Oakland, Maryland, Oakland, MD)"
+      },
+      {
+        "concept": "Oakland University",
+        "qid": "Q782116",
+        "rank": 6,
+        "score": 0.1412,
+        "confidence": 0.1192,
+        "evidence": "Oakland University: public research university located in Michigan, USA (also known as Oakland, OU, O.U., oakland.edu)"
+      },
+      {
+        "concept": "Oakland Museum of California",
+        "qid": "Q877714",
+        "rank": 7,
+        "score": 0.0728,
+        "confidence": 0.1113,
+        "evidence": "Oakland Museum of California: art museum in Oakland, California (also known as Oakland Museum, Snow Museum of Natural History, Oakland Public Museum, Oakland Art Gallery, OMCA)"
+      }
+    ]
+  },
+  {
+    "mention": "Oxford",
+    "sentence": "Crystal Palace 4 * * 1 4 3 5 Port Vale * 1 2 1 4 * 5 Birmingham * * 1 0 * 4 4 Reading * 1 1 * 5 ** 4 Huddersfield 3 * 1 1 4 4 4 Oxford * 1 0 3 * * 3 Manchester City * 1 * * * 3 3 West Bromwich 3 0 * 1 * 3 2 Oldham * * 1 3 * * 1",
+    "selected": {
+      "concept": "Oxford",
+      "qid": "Q34217",
+      "rank": 1,
+      "score": 0.5313,
+      "confidence": 0.1569,
+      "evidence": "Oxford: city in Oxfordshire, England (also known as Oxford, England)"
+    },
+    "alternatives": [
+      {
+        "concept": "Oxford",
+        "qid": "Q990940",
+        "rank": 2,
+        "score": 0.5028,
+        "confidence": 0.1525,
+        "evidence": "Oxford: city in Oxford Township, Butler County, Ohio, United States (also known as Oxford, Ohio, Oxford, OH)"
+      },
+      {
+        "concept": "Oxford",
+        "qid": "Q2022826",
+        "rank": 3,
+        "score": 0.4669,
+        "confidence": 0.1471,
+        "evidence": "Oxford: city in North Carolina, United States (also known as Oxford, North Carolina, Oxford, NC)"
+      },
+      {
+        "concept": "Oxford",
+        "qid": "Q777793",
+        "rank": 4,
+        "score": 0.4347,
+        "confidence": 0.1425,
+        "evidence": "Oxford: borough of Pennsylvania (also known as Oxford, PA)"
+      },
+      {
+        "concept": "Oxford",
+        "qid": "Q1759458",
+        "rank": 5,
+        "score": 0.4243,
+        "confidence": 0.141,
+        "evidence": "Oxford: town in New Haven County, Connecticut, United States of America (also known as Oxford, Connecticut, Oxford, United States, Oxford, CT)"
+      },
+      {
+        "concept": "University of Oxford",
+        "qid": "Q34433",
+        "rank": 6,
+        "score": 0.373,
+        "confidence": 0.1339,
+        "evidence": "University of Oxford: collegiate research university in Oxford, England (also known as Oxford University, Oxon., Oxf, Universitas Oxoniensis, Oxford, Univ. of Oxford, The University of Oxford)"
+      },
+      {
+        "concept": "Oxfordshire",
+        "qid": "Q67311417",
+        "rank": 7,
+        "score": 0.3122,
+        "confidence": 0.126,
+        "evidence": "Oxfordshire: historic county of England, UK (also known as County of Oxford)"
+      }
+    ]
+  },
+  {
+    "mention": "PHILADELPHIA",
+    "sentence": "AT PHILADELPHIA HOUSTON ** PITTSBURGH SAN FRANCISCO",
+    "selected": {
+      "concept": "Philadelphia",
+      "qid": "Q1345",
+      "rank": 1,
+      "score": 0.633,
+      "confidence": 0.171,
+      "evidence": "Philadelphia: largest city in the U.S. state of Pennsylvania and seat of Philadelphia County (also known as City of Brotherly Love, Cradle of Liberty, City of Philadelphia, Philadelphia, PA, Philadelphia, Pa)"
+    },
+    "alternatives": [
+      {
+        "concept": "Philadelphia",
+        "qid": "Q935334",
+        "rank": 2,
+        "score": 0.5764,
+        "confidence": 0.1616,
+        "evidence": "Philadelphia: city in Mississippi, USA (also known as Philadelphia, Mississippi, Philadelphia, MS)"
+      },
+      {
+        "concept": "Philadelphia",
+        "qid": "Q62575381",
+        "rank": 3,
+        "score": 0.5395,
+        "confidence": 0.1557,
+        "evidence": "Philadelphia: female given name (also known as Philadelphia (first name), Philadelphia (given name))"
+      },
+      {
+        "concept": "Philadelphia Union",
+        "qid": "Q689874",
+        "rank": 4,
+        "score": 0.4169,
+        "confidence": 0.1378,
+        "evidence": "Philadelphia Union: Major League Soccer club based in Chester, PA (also known as Philadelphia, Union, The U, PU)"
+      },
+      {
+        "concept": "Philadelphia Museum of Art",
+        "qid": "Q510324",
+        "rank": 5,
+        "score": 0.4062,
+        "confidence": 0.1363,
+        "evidence": "Philadelphia Museum of Art: art museum in Philadelphia, Pennsylvania (also known as PA. Philadelphia Museum Philadelphia, Philadelphia Museum, PA, USA. Philadelphia Museum of Art Philadelphia, Pennsylvania Museum and School of Industrial Art, PA. Philadelphia Museum of Art Philadelphia, PA Philadelphia USA. Philadelphia Museum of Art, PMA, Museum of Art, Philadelphia, Pennsylvania Museum of Art, Philadelphia Art Museum, PhAM)"
+      },
+      {
+        "concept": "Amman",
+        "qid": "Q3805",
+        "rank": 6,
+        "score": 0.2987,
+        "confidence": 0.1224,
+        "evidence": "Amman: capital of Jordan (also known as Amman, Jordan, Philadelphia, Aman, Ammon, ʿAmmān, Mint of Philadelphia)"
+      },
+      {
+        "concept": "Alaşehir",
+        "qid": "Q138280",
+        "rank": 7,
+        "score": 0.2377,
+        "confidence": 0.1152,
+        "evidence": "Alaşehir: district and town in Manisa, Turkey (also known as Philadelphia, Alashehr)"
+      }
+    ]
+  },
+  {
+    "mention": "PITTSBURGH",
+    "sentence": "AT SEATTLE NATIONAL LEAGUE EASTERN DIVISION W L *** GB ATLANTA ** 49 .629 * MONTREAL 71 61 **** ** FLORIDA ** ** **** ** NEW YORK 59 75 **** ** PHILADELPHIA ** 80 .403 30 CENTRAL DIVISION HOUSTON ** ** .533 - ST LOUIS 69 65 **** * 1/2 CINCINNATI ** 67 .496 5 CHICAGO 65 66 **** 5 PITTSBURGH 56 77 .421 15 WESTERN DIVISION SAN DIEGO 75 60 .556 - LOS ANGELES 72 ** .541 2 COLORADO 70 ** .519 5 SAN FRANCISCO ** ** **** 16 ****** * ****** 30 ******** ATLANTA AT CHICAGO FLORIDA",
+    "selected": {
+      "concept": "Pittsburgh",
+      "qid": "Q1342",
+      "rank": 1,
+      "score": 0.4711,
+      "confidence": 0.1632,
+      "evidence": "Pittsburgh: city and county seat in Allegheny County, Pennsylvania, United States (also known as Pittsburgh, Pennsylvania, City of Bridges, Steel City, Pgh, Pittsburg, Pennsylvania, Pittsburg, Iron City, Smoky City, Pittsburgh, PA, City of Pittsburgh, Dayaogeh)"
+    },
+    "alternatives": [
+      {
+        "concept": "Pittsburgh Pirates",
+        "qid": "Q653772",
+        "rank": 2,
+        "score": 0.3769,
+        "confidence": 0.1485,
+        "evidence": "Pittsburgh Pirates: baseball team and Major League Baseball franchise in Pittsburgh, Pennsylvania, United States (also known as Pirates, Pittsburgh Alleghenys, Alleghenys, Bucs, Pittsburg Pirates, Buccos)"
+      },
+      {
+        "concept": "Pittsburgh Penguins",
+        "qid": "Q193643",
+        "rank": 3,
+        "score": 0.3708,
+        "confidence": 0.1476,
+        "evidence": "Pittsburgh Penguins: National Hockey League franchise in Pittsburgh, Pennsylvania (also known as Pens, Pittsburgh Pens)"
+      },
+      {
+        "concept": "University of Pittsburgh",
+        "qid": "Q235034",
+        "rank": 4,
+        "score": 0.3418,
+        "confidence": 0.1434,
+        "evidence": "University of Pittsburgh: state-related research university located in Pittsburgh, Pennsylvania, United States (also known as Western University of Pennsylvania, Pittsburgh Academy, pitt.edu, University of Pittsburgh of the Commonwealth System of Higher Education, University of Pittsburgh- Of the Commonwealth System of Higher Education, University of Pittsburgh-Of the Commonwealth System of Higher Education, Pittsburgh University)"
+      },
+      {
+        "concept": "Pittsburgh Steelers",
+        "qid": "Q191477",
+        "rank": 5,
+        "score": 0.3349,
+        "confidence": 0.1424,
+        "evidence": "Pittsburgh Steelers: professional American football team based in Pittsburgh, Pennsylvania (also known as Steelers, Pittsburgh Pirates, Rooneymen)"
+      },
+      {
+        "concept": "Pittsburgh Post-Gazette",
+        "qid": "Q3063794",
+        "rank": 6,
+        "score": 0.3236,
+        "confidence": 0.1408,
+        "evidence": "Pittsburgh Post-Gazette: newspaper in Pittsburgh, Pennsylvania, United States"
+      },
+      {
+        "concept": "Phil Belbin",
+        "qid": "Q7181697",
+        "rank": 7,
+        "score": 0.1142,
+        "confidence": 0.1142,
+        "evidence": "Phil Belbin: Artist, Illustrator, Writer, Cartoonist (1925–1993) (also known as Pittsburgh, Duke, Humph, Fillini, Phillip Bertram Johnstone Belbin)"
+      }
+    ]
+  },
+  {
+    "mention": "Russian",
+    "sentence": "1812 - Russian army ***** General Kutuzov was ******** ** heavy cost by Napoleon at *** battle of Borodino 70 miles **** of Moscow .",
+    "selected": {
+      "concept": "Russian",
+      "qid": "Q7737",
+      "rank": 1,
+      "score": 0.501,
+      "confidence": 0.1835,
+      "evidence": "Russian: East Slavic language (also known as Russian language, Russkiy, Russkiy yazyk)"
+    },
+    "alternatives": [
+      {
+        "concept": "Russia",
+        "qid": "Q159",
+        "rank": 2,
+        "score": 0.3107,
+        "confidence": 0.1517,
+        "evidence": "Russia: country in Eastern Europe and Northern Asia, the largest in the world by area (also known as Russian Federation)"
+      },
+      {
+        "concept": "Russian Empire",
+        "qid": "Q34266",
+        "rank": 3,
+        "score": 0.2796,
+        "confidence": 0.1471,
+        "evidence": "Russian Empire: former empire in Eurasia and North America (1721–1917) (also known as Tsarist Russia, Imperial Russia, Russia, Empire of Russia, Moscovy, Moscovy or Russia, Russia or Moscovy, Rossia, Rusia)"
+      },
+      {
+        "concept": "Russians",
+        "qid": "Q49542",
+        "rank": 4,
+        "score": 0.2274,
+        "confidence": 0.1396,
+        "evidence": "Russians: East Slavic ethnic group native to Russia (also known as Russkiye, Russkije, Russian (ethnicity), Russians (ethnic group), Russians (ethnicity), Russian people, Russian, ethnic Russians)"
+      },
+      {
+        "concept": "Russian Wikipedia",
+        "qid": "Q206855",
+        "rank": 5,
+        "score": 0.2199,
+        "confidence": 0.1386,
+        "evidence": "Russian Wikipedia: [ru] Russian-language edition of Wikipedia"
+      },
+      {
+        "concept": "Russian Wikisource",
+        "qid": "Q15634506",
+        "rank": 6,
+        "score": 0.1577,
+        "confidence": 0.1302,
+        "evidence": "Russian Wikisource: edition of the free library (also known as ruwikisource, ru.wikisource.org)"
+      },
+      {
+        "concept": "Communist Party of the Soviet Union",
+        "qid": "Q79854",
+        "rank": 7,
+        "score": -0.018,
+        "confidence": 0.1092,
+        "evidence": "Communist Party of the Soviet Union: Marxist–Leninist founding and ruling party of the Soviet Union (also known as CPSU, Bolshevik Party, Russian Communist Party (Bolsheviks), RCP(b), All-Union Communist Party (Bolsheviks))"
+      }
+    ]
+  },
+  {
+    "mention": "Scottish",
+    "sentence": "Scottish ******* ****** ******** *** Boroughmuir 20 Hawick ** Currie ** Heriot 's F.P. 5 Jed-Forest 17 Watsonians ** Melrose *** Stirling ****** 10",
+    "selected": {
+      "concept": "Scottish Borders",
+      "qid": "Q211113",
+      "rank": 1,
+      "score": 0.4398,
+      "confidence": 0.127,
+      "evidence": "Scottish Borders: council area of Scotland (also known as The Scottish Borders, The Mairches, Crìochan na h-Alba, GB-SCB)"
+    },
+    "alternatives": [
+      {
+        "concept": "Scottish Medical Journal",
+        "qid": "Q7437854",
+        "rank": 2,
+        "score": 0.3944,
+        "confidence": 0.1214,
+        "evidence": "Scottish Medical Journal: journal (also known as Scot. Med. J.)"
+      },
+      {
+        "concept": "Scots",
+        "qid": "Q14549",
+        "rank": 3,
+        "score": 0.3348,
+        "confidence": 0.1144,
+        "evidence": "Scots: West Germanic language (also known as Lowland Scots, Scots Leid, Lallans, braid Scots, Scotch, Scots language)"
+      },
+      {
+        "concept": "Scottish clan",
+        "qid": "Q499247",
+        "rank": 4,
+        "score": 0.2981,
+        "confidence": 0.1102,
+        "evidence": "Scottish clan: Scottish kinship or surname group with a chief recognised by the Lord Lyon King of Arms"
+      },
+      {
+        "concept": "civil parish",
+        "qid": "Q5124673",
+        "rank": 5,
+        "score": 0.2955,
+        "confidence": 0.11,
+        "evidence": "civil parish: civil administrative division of Scotland, below the level of local authority (also known as civil parishes in Scotland, civil parish in Scotland, Scottish parish, 'quoad civilia' parish, Scottish civil parish)"
+      },
+      {
+        "concept": "Scottish Labour Party",
+        "qid": "Q3179541",
+        "rank": 6,
+        "score": 0.2935,
+        "confidence": 0.1097,
+        "evidence": "Scottish Labour Party: autonomous section of UK Labour Party (also known as Scottish Labour)"
+      },
+      {
+        "concept": "Scottish National Party",
+        "qid": "Q10658",
+        "rank": 7,
+        "score": 0.2682,
+        "confidence": 0.107,
+        "evidence": "Scottish National Party: centre-left nationalist political party in Scotland (also known as SNP, Scottish National party (SNP))"
+      },
+      {
+        "concept": "Scottish National Gallery",
+        "qid": "Q942713",
+        "rank": 8,
+        "score": 0.2034,
+        "confidence": 0.1003,
+        "evidence": "Scottish National Gallery: part of National Galleries Scotland in Edinburgh (also known as Edinburgh, The Mound, National Gallery Of Scotland, National Gallery on the Mound, Edinburgh National Gallery of Scotland, National Galleries of Scotland, National Galleries of Scotland: National)"
+      },
+      {
+        "concept": "Scots-English Dictionary",
+        "qid": "Q115902101",
+        "rank": 9,
+        "score": 0.2009,
+        "confidence": 0.1,
+        "evidence": "Scots-English Dictionary: 2014 edition of a Scots dictionary published by Geddes & Grosset"
+      }
+    ]
+  },
+  {
+    "mention": "SEATTLE",
+    "sentence": "AT SEATTLE NATIONAL LEAGUE EASTERN DIVISION W L *** GB ATLANTA ** 49 .629 * MONTREAL 71 61 **** ** FLORIDA ** ** **** ** NEW YORK 59 75 **** ** PHILADELPHIA ** 80 .403 30 CENTRAL DIVISION HOUSTON ** ** .533 - ST LOUIS 69 65 **** * 1/2 CINCINNATI ** 67 .496 5 CHICAGO 65 66 **** 5 PITTSBURGH 56 77 .421 15 WESTERN DIVISION SAN DIEGO 75 60 .556 - LOS ANGELES 72 ** .541 2 COLORADO 70 ** .519 5 SAN FRANCISCO ** ** **** 16 ****** * ****** 30 ******** ATLANTA AT CHICAGO FLORIDA",
+    "selected": {
+      "concept": "Seattle",
+      "qid": "Q5083",
+      "rank": 1,
+      "score": 0.5794,
+      "confidence": 0.1503,
+      "evidence": "Seattle: city in and county seat of King County, State of Washington, United States (also known as Seattle, Washington, Seattle, WA, Duwamps, New York Alki, Emerald City)"
+    },
+    "alternatives": [
+      {
+        "concept": "Seattle Seahawks",
+        "qid": "Q221878",
+        "rank": 2,
+        "score": 0.3494,
+        "confidence": 0.1194,
+        "evidence": "Seattle Seahawks: American football team"
+      },
+      {
+        "concept": "Star City",
+        "qid": "Q1419655",
+        "rank": 3,
+        "score": 0.2913,
+        "confidence": 0.1127,
+        "evidence": "Star City: fictional city in DC comics (also known as Starling City, Seattle)"
+      },
+      {
+        "concept": "Milwaukee Brewers",
+        "qid": "Q848103",
+        "rank": 4,
+        "score": 0.2789,
+        "confidence": 0.1113,
+        "evidence": "Milwaukee Brewers: baseball team and Major League Baseball franchise in Milwaukee, Wisconsin, United States (also known as Brew Crew, Brewers, Seattle Pilots, Pilots)"
+      },
+      {
+        "concept": "Chief Seattle",
+        "qid": "Q216477",
+        "rank": 5,
+        "score": 0.2619,
+        "confidence": 0.1094,
+        "evidence": "Chief Seattle: Duwamish chief (also known as Si'ahl, Sealth, Seathl, See-ahth, Chief Si'ahl, Chief Sealth, Chief Seathl, Chief See-ahth, Seattle, si?al, Chief si?al, Noah, Chief Noah)"
+      },
+      {
+        "concept": "grunge",
+        "qid": "Q11365",
+        "rank": 6,
+        "score": 0.2343,
+        "confidence": 0.1064,
+        "evidence": "grunge: genre of rock music (also known as Seattle sound)"
+      },
+      {
+        "concept": "Seattle Art Museum",
+        "qid": "Q1816301",
+        "rank": 7,
+        "score": 0.2081,
+        "confidence": 0.1037,
+        "evidence": "Seattle Art Museum: art museum in Seattle, Washington (also known as SAM, SMoA, Seattle Museum)"
+      },
+      {
+        "concept": "Seattle Pacific University",
+        "qid": "Q2904851",
+        "rank": 8,
+        "score": 0.1247,
+        "confidence": 0.0954,
+        "evidence": "Seattle Pacific University: Christian university in Seattle, Washington (also known as SPU, Seattle Pacific College, Seattle Pacific Christian College)"
+      },
+      {
+        "concept": "Seattle International Film Festival",
+        "qid": "Q2399132",
+        "rank": 9,
+        "score": 0.0807,
+        "confidence": 0.0913,
+        "evidence": "Seattle International Film Festival: annual film festival in Seattle, Washington, USA (also known as SIFF)"
+      }
+    ]
+  },
+  {
+    "mention": "South Africa",
+    "sentence": "1986 - Bishop Desmond Tutu was ********* as Archbishop of Cape Town , South Africa .",
+    "selected": {
+      "concept": "South Africa",
+      "qid": "Q258",
+      "rank": 1,
+      "score": 0.5973,
+      "confidence": 0.1917,
+      "evidence": "South Africa: country in southern Africa (also known as Republic of South Africa, RSA, SA, zaf, R.S.A.)"
+    },
+    "alternatives": [
+      {
+        "concept": "Union of South Africa",
+        "qid": "Q193619",
+        "rank": 2,
+        "score": 0.3343,
+        "confidence": 0.1473,
+        "evidence": "Union of South Africa: state in southern Africa from 1910 to 1961, predecessor to the Republic of South Africa (also known as South Africa)"
+      },
+      {
+        "concept": "University of Cape Town",
+        "qid": "Q951305",
+        "rank": 3,
+        "score": 0.3158,
+        "confidence": 0.1446,
+        "evidence": "University of Cape Town: public university in Cape Town, South Africa (also known as South African College, uct.ac.za, Cape Town University)"
+      },
+      {
+        "concept": "UTC+02:00",
+        "qid": "Q6723",
+        "rank": 4,
+        "score": 0.2198,
+        "confidence": 0.1314,
+        "evidence": "UTC+02:00: identifier for a time offset from UTC of +2 (also known as Eastern European Time, South African Standard Time, West Africa Summer Time, Central Africa Time)"
+      },
+      {
+        "concept": "South African Medical Journal",
+        "qid": "Q7565732",
+        "rank": 5,
+        "score": 0.201,
+        "confidence": 0.129,
+        "evidence": "South African Medical Journal: journal (also known as SAMJ)"
+      },
+      {
+        "concept": "Xenopus laevis",
+        "qid": "Q654718",
+        "rank": 6,
+        "score": 0.2007,
+        "confidence": 0.1289,
+        "evidence": "Xenopus laevis: species of amphibian (also known as xenopus, African clawed toad, African claw-toed frog, platanna, plattie, African clawed frog, South African clawed frog)"
+      },
+      {
+        "concept": "South African Archaeological Bulletin",
+        "qid": "Q15763539",
+        "rank": 7,
+        "score": 0.1864,
+        "confidence": 0.1271,
+        "evidence": "South African Archaeological Bulletin: academic journal"
+      }
+    ]
+  },
+  {
+    "mention": "Spain",
+    "sentence": "Spain *",
+    "selected": {
+      "concept": "Spain",
+      "qid": "Q29",
+      "rank": 1,
+      "score": 0.8609,
+      "confidence": 0.1953,
+      "evidence": "Spain: country in southwestern Europe with territories in Africa (also known as Kingdom of Spain)"
+    },
+    "alternatives": [
+      {
+        "concept": "Spain",
+        "qid": "Q16932431",
+        "rank": 2,
+        "score": 0.8167,
+        "confidence": 0.1868,
+        "evidence": "Spain: family name"
+      },
+      {
+        "concept": "Spain",
+        "qid": "Q16254367",
+        "rank": 3,
+        "score": 0.8099,
+        "confidence": 0.1856,
+        "evidence": "Spain: constituency of the European Parliament"
+      },
+      {
+        "concept": "New Spain",
+        "qid": "Q170603",
+        "rank": 4,
+        "score": 0.3706,
+        "confidence": 0.1196,
+        "evidence": "New Spain: viceroyalty of the Spanish Empire (1535-1821) (also known as Viceroyalty of New Spain, Nueva España, Nueva Espana, Spanish Mexico, Spanish Central America, Spanish America, Colonial Mexico, Colonial Central America, Mexico under Spain, Central America under Spain, Spain, Kingdom of Mexico)"
+      },
+      {
+        "concept": "Second Spanish Republic",
+        "qid": "Q178038",
+        "rank": 5,
+        "score": 0.2343,
+        "confidence": 0.1044,
+        "evidence": "Second Spanish Republic: political regime established in Spain between April 14, 1931 and April 1, 1939 (also known as Spain)"
+      },
+      {
+        "concept": "Spain under the Restoration",
+        "qid": "Q1044536",
+        "rank": 6,
+        "score": 0.2338,
+        "confidence": 0.1043,
+        "evidence": "Spain under the Restoration: name given to a period between 1874 (end of First Spanish Republic) and 1931 (start of the Second Spanish Republic), and the state of Spain during that time (also known as Restoration, Bourbon Restoration, Second Bourbon Restoration, Kingdom of Spain, Spain, Restoration (Spain))"
+      },
+      {
+        "concept": "Spain men's national football team",
+        "qid": "Q42267",
+        "rank": 7,
+        "score": 0.2316,
+        "confidence": 0.1041,
+        "evidence": "Spain men's national football team: men's national association football team representing Spain (also known as The Red Fury, The Fury, The Red One, The Spanish Fury, La Furia Roja, La Furia, La Roja, La Furia Española, Spain, Spanish national team, Spain futbol team, Spain national football team, Spanish national association football team, Spain men's national association football team)"
+      }
+    ]
+  },
+  {
+    "mention": "Sweden",
+    "sentence": "** ** 74 ** , Peter Mitchell 74 ** 74 ** , Klas Eriksson * Sweden )",
+    "selected": {
+      "concept": "Sweden",
+      "qid": "Q37437749",
+      "rank": 1,
+      "score": 0.6088,
+      "confidence": 0.147,
+      "evidence": "Sweden: family name"
+    },
+    "alternatives": [
+      {
+        "concept": "Sweden",
+        "qid": "Q34",
+        "rank": 2,
+        "score": 0.583,
+        "confidence": 0.1433,
+        "evidence": "Sweden: country in Northern Europe (also known as Kingdom of Sweden, se, Swedish Kingdom)"
+      },
+      {
+        "concept": "Sweden",
+        "qid": "Q139772871",
+        "rank": 3,
+        "score": 0.5655,
+        "confidence": 0.1408,
+        "evidence": "Sweden: None"
+      },
+      {
+        "concept": "Sweden",
+        "qid": "Q7654287",
+        "rank": 4,
+        "score": 0.5046,
+        "confidence": 0.1325,
+        "evidence": "Sweden: constituency of the European Parliament"
+      },
+      {
+        "concept": "Sweden",
+        "qid": "Q118948494",
+        "rank": 5,
+        "score": 0.4618,
+        "confidence": 0.1269,
+        "evidence": "Sweden: song by C418 (also known as calm3.ogg)"
+      },
+      {
+        "concept": "Sweden",
+        "qid": "Q125765069",
+        "rank": 6,
+        "score": 0.4067,
+        "confidence": 0.1201,
+        "evidence": "Sweden: instrumental track by C418; 2011 studio recording"
+      },
+      {
+        "concept": "Stockholm University",
+        "qid": "Q221645",
+        "rank": 7,
+        "score": 0.1756,
+        "confidence": 0.0953,
+        "evidence": "Stockholm University: state university of Stockholm, Sweden (also known as University of Stockholm, Stockholms universitet, Stockholm., Sweden., su.se, SU)"
+      },
+      {
+        "concept": "Sveriges Television",
+        "qid": "Q215363",
+        "rank": 8,
+        "score": 0.1627,
+        "confidence": 0.0941,
+        "evidence": "Sveriges Television: Swedish public service television company (also known as SVT, svt, Sverige Television, Sveriges television, Sveriges Television AB)"
+      }
+    ]
+  },
+  {
+    "mention": "Switzerland",
+    "sentence": "**** Filippo Veglio ( Switzerland ) 6-7 ( 4- 7 ) *** 6-4 ***",
+    "selected": {
+      "concept": "Switzerland",
+      "qid": "Q139772872",
+      "rank": 1,
+      "score": 0.5858,
+      "confidence": 0.1504,
+      "evidence": "Switzerland: None"
+    },
+    "alternatives": [
+      {
+        "concept": "Switzerland",
+        "qid": "Q39",
+        "rank": 2,
+        "score": 0.5676,
+        "confidence": 0.1477,
+        "evidence": "Switzerland: country in Central Europe (also known as Swiss Confederation, Swiss, Confoederatio Helvetica)"
+      },
+      {
+        "concept": "Switzerland",
+        "qid": "Q123007015",
+        "rank": 3,
+        "score": 0.4883,
+        "confidence": 0.1364,
+        "evidence": "Switzerland: 2003 vocal track by Lemon Demon"
+      },
+      {
+        "concept": "SwitzerlandMobility",
+        "qid": "Q2255838",
+        "rank": 4,
+        "score": 0.3596,
+        "confidence": 0.12,
+        "evidence": "SwitzerlandMobility: network for non-motorized traffic in Switzerland"
+      },
+      {
+        "concept": "Suisse",
+        "qid": "Q22036",
+        "rank": 5,
+        "score": 0.3209,
+        "confidence": 0.1154,
+        "evidence": "Suisse: commune in Moselle, France"
+      },
+      {
+        "concept": "Switzerland men's national football team",
+        "qid": "Q165141",
+        "rank": 6,
+        "score": 0.2865,
+        "confidence": 0.1115,
+        "evidence": "Switzerland men's national football team: men's national association football team representing Switzerland (also known as Swiss national football team, Swiss national association football team, Switzerland national association football team, Switzerland men's national association football team, Swiss men's national association football team, Swiss men's national football team)"
+      },
+      {
+        "concept": "Old Swiss Confederacy",
+        "qid": "Q435583",
+        "rank": 7,
+        "score": 0.2717,
+        "confidence": 0.1099,
+        "evidence": "Old Swiss Confederacy: confederation of cantons (1291-1798) (also known as Swiss Confederation, Switzerland)"
+      },
+      {
+        "concept": "Switzerland in the Eurovision Song Contest 2006",
+        "qid": "Q7659174",
+        "rank": 8,
+        "score": 0.2614,
+        "confidence": 0.1087,
+        "evidence": "Switzerland in the Eurovision Song Contest 2006: None (also known as Switzerland)"
+      }
+    ]
+  },
+  {
+    "mention": "Texas",
+    "sentence": "Gonzalez * who *** ** 21 straight games earlier **** season , joined Mickey Rivers as the **** players in Texas history with two ******* ******* in the **** year .",
+    "selected": {
+      "concept": "Texas",
+      "qid": "Q1439",
+      "rank": 1,
+      "score": 0.6091,
+      "confidence": 0.1238,
+      "evidence": "Texas: state of the United States of America (also known as Lone Star State, Texas, United States, State of Texas, US-TX, Tex.)"
+    },
+    "alternatives": [
+      {
+        "concept": "Texas",
+        "qid": "Q60381099",
+        "rank": 2,
+        "score": 0.4989,
+        "confidence": 0.1109,
+        "evidence": "Texas: 1985 edition"
+      },
+      {
+        "concept": "Texas",
+        "qid": "Q66446785",
+        "rank": 3,
+        "score": 0.4803,
+        "confidence": 0.1088,
+        "evidence": "Texas: male given name"
+      },
+      {
+        "concept": "Texas",
+        "qid": "Q37445068",
+        "rank": 4,
+        "score": 0.4759,
+        "confidence": 0.1084,
+        "evidence": "Texas: family name"
+      },
+      {
+        "concept": "Texas",
+        "qid": "Q916484",
+        "rank": 5,
+        "score": 0.3994,
+        "confidence": 0.1004,
+        "evidence": "Texas: Scottish musical group; alternative rock band"
+      },
+      {
+        "concept": "Texarkana",
+        "qid": "Q79438",
+        "rank": 6,
+        "score": 0.1887,
+        "confidence": 0.0813,
+        "evidence": "Texarkana: city in Miller County, Arkansas, United States (also known as Texarkana, Arkansas, Texarkana, AR)"
+      },
+      {
+        "concept": "Texa",
+        "qid": "Q1786927",
+        "rank": 7,
+        "score": 0.1635,
+        "confidence": 0.0793,
+        "evidence": "Texa: island south of Islay, in the Inner Hebrides, Scotland (also known as Teugsa)"
+      },
+      {
+        "concept": "Texas Instruments",
+        "qid": "Q193412",
+        "rank": 8,
+        "score": 0.107,
+        "confidence": 0.0749,
+        "evidence": "Texas Instruments: American multinational semiconductor design and manufacturing company (also known as Texas Instruments Inc., TI Inc., Texas Instruments Incorporated, TEXAS INSTRUMENTS INCORPORATED (Dallas, TX), TI)"
+      },
+      {
+        "concept": "Texas Southern University",
+        "qid": "Q626591",
+        "rank": 9,
+        "score": 0.0751,
+        "confidence": 0.0726,
+        "evidence": "Texas Southern University: university (also known as TSU, tsu.edu, Houston Colored Junior College, Houston College for Negroes, Texas State University for Negroes)"
+      },
+      {
+        "concept": "Texas A&M University",
+        "qid": "Q49212",
+        "rank": 10,
+        "score": 0.0616,
+        "confidence": 0.0716,
+        "evidence": "Texas A&M University: public research university in College Station, Texas, United States (also known as A&M, TAMU, Texas A&M, Texas Agricultural and Mechanical University, Agricultural and Mechanical College of Texas, tamu.edu, Texas A & M University, Texas A and M)"
+      },
+      {
+        "concept": "University of Texas at Austin",
+        "qid": "Q49213",
+        "rank": 11,
+        "score": 0.0092,
+        "confidence": 0.068,
+        "evidence": "University of Texas at Austin: public university in Austin, Texas, USA (also known as UT-Austin, UT Austin, UT, University of Texas, Austin, University of Texas, UTA, The University of Texas at Austin, TTexas Longhorns swimming and diving, Univ. of Texas, Austin)"
+      }
+    ]
+  },
+  {
+    "mention": "Toronto",
+    "sentence": "In Toronto , Kevin Tapani ( **** * allowed two **** and *** hits over 7 1/3 ******* ***",
+    "selected": {
+      "concept": "Toronto",
+      "qid": "Q172",
+      "rank": 1,
+      "score": 0.5439,
+      "confidence": 0.1675,
+      "evidence": "Toronto: capital and largest city of the province of Ontario, Canada (also known as City of Toronto, The Six, T-O, The 416, Hogtown, Toronto, Ontario, Toronto, ON, Toronto, Canada)"
+    },
+    "alternatives": [
+      {
+        "concept": "Toronto",
+        "qid": "Q141104589",
+        "rank": 2,
+        "score": 0.4036,
+        "confidence": 0.1456,
+        "evidence": "Toronto: episode of Interview with the Vampire (S3 E3)"
+      },
+      {
+        "concept": "Toronto",
+        "qid": "Q736775",
+        "rank": 3,
+        "score": 0.4032,
+        "confidence": 0.1455,
+        "evidence": "Toronto: city in Jefferson County, Ohio, United States (also known as Toronto, Ohio, Toronto, OH)"
+      },
+      {
+        "concept": "Toronto FC",
+        "qid": "Q327238",
+        "rank": 4,
+        "score": 0.3357,
+        "confidence": 0.136,
+        "evidence": "Toronto FC: soccer club in Toronto, Ontario, Canada (also known as Toronto F.C., Toronto Football Club, Toronto Soccer Club, Toronto Soccer, Football Club of Toronto, Soccer Club of Toronto, TorontoFC)"
+      },
+      {
+        "concept": "Toronto Maple Leafs",
+        "qid": "Q203384",
+        "rank": 5,
+        "score": 0.3296,
+        "confidence": 0.1352,
+        "evidence": "Toronto Maple Leafs: National Hockey League franchise in Toronto, Ontario, Canada (also known as Maple Leafs, The Toronto Maple Leafs)"
+      },
+      {
+        "concept": "Toronto",
+        "qid": "Q117037112",
+        "rank": 6,
+        "score": 0.3293,
+        "confidence": 0.1352,
+        "evidence": "Toronto: oil tanker built in 2005 (also known as IMO 8808525)"
+      },
+      {
+        "concept": "Toronto Raptors",
+        "qid": "Q132880",
+        "rank": 7,
+        "score": 0.3273,
+        "confidence": 0.1349,
+        "evidence": "Toronto Raptors: National Basketball Association team in Toronto, Ontario (also known as Raptors)"
+      }
+    ]
+  },
+  {
+    "mention": "U.S. OPEN",
+    "sentence": "****** - SATURDAY 'S ******* **** THE U.S. OPEN .",
+    "selected": {
+      "concept": "U.S. Open",
+      "qid": "Q259776",
+      "rank": 1,
+      "score": 0.7329,
+      "confidence": 0.1623,
+      "evidence": "U.S. Open: golf tournament held in the United States (also known as United States Open Championship, U.S. Open Championship, USGA U.S. Open, USGA US Open, USGA, US Open)"
+    },
+    "alternatives": [
+      {
+        "concept": "U.S. Open",
+        "qid": "Q7863265",
+        "rank": 2,
+        "score": 0.7327,
+        "confidence": 0.1622,
+        "evidence": "U.S. Open: Bowling tournament"
+      },
+      {
+        "concept": "U.S. Open",
+        "qid": "Q7863266",
+        "rank": 3,
+        "score": 0.6773,
+        "confidence": 0.1535,
+        "evidence": "U.S. Open: swimming competition in the United States"
+      },
+      {
+        "concept": "US Open",
+        "qid": "Q123577",
+        "rank": 4,
+        "score": 0.6504,
+        "confidence": 0.1494,
+        "evidence": "US Open: tennis tournament held in New York City (also known as U.S. Championships, US Open Tennis Championships, Flushing Meadows, U.S. Open)"
+      },
+      {
+        "concept": "U.S. Open Cup",
+        "qid": "Q27192",
+        "rank": 5,
+        "score": 0.5535,
+        "confidence": 0.1356,
+        "evidence": "U.S. Open Cup: soccer knockout tournament in the USA (also known as Open Cup, National Challenge Cup, Lamar Hunt U.S. Open Cup, USOC)"
+      },
+      {
+        "concept": "US Open Badminton Championships",
+        "qid": "Q689657",
+        "rank": 6,
+        "score": 0.4365,
+        "confidence": 0.1207,
+        "evidence": "US Open Badminton Championships: annual badminton tournament (also known as U.S. Open Badminton Championships)"
+      },
+      {
+        "concept": "U.S. Open 9-Ball Championships",
+        "qid": "Q841560",
+        "rank": 7,
+        "score": 0.399,
+        "confidence": 0.1162,
+        "evidence": "U.S. Open 9-Ball Championships: Annual nine-ball pool tournament (also known as U.S Open Pool Championship)"
+      }
+    ]
+  },
+  {
+    "mention": "Ukraine",
+    "sentence": "Inga Babakova ( Ukraine )",
+    "selected": {
+      "concept": "Ukraine",
+      "qid": "Q212",
+      "rank": 1,
+      "score": 0.7343,
+      "confidence": 0.104,
+      "evidence": "Ukraine: country in Eastern Europe (also known as Ukrainia, Ukr., Ukraina, Ukraïna)"
+    },
+    "alternatives": [
+      {
+        "concept": "Ukraine",
+        "qid": "Q23653964",
+        "rank": 2,
+        "score": 0.5474,
+        "confidence": 0.0863,
+        "evidence": "Ukraine: Wikimedia permanent duplicate item"
+      },
+      {
+        "concept": "Ukrayina",
+        "qid": "Q1999040",
+        "rank": 3,
+        "score": 0.435,
+        "confidence": 0.0771,
+        "evidence": "Ukrayina: 1990 Slava-class guided missile cruiser (also known as Admiral Flota Lobov)"
+      },
+      {
+        "concept": "Ukrainian",
+        "qid": "Q8798",
+        "rank": 4,
+        "score": 0.4187,
+        "confidence": 0.0759,
+        "evidence": "Ukrainian: East Slavic language (also known as Ukrainian language, Ukrainska)"
+      },
+      {
+        "concept": "Ukrainians",
+        "qid": "Q44806",
+        "rank": 5,
+        "score": 0.4086,
+        "confidence": 0.0751,
+        "evidence": "Ukrainians: East Slavic ethnic group (also known as people of Ukraine, Ukrainian people)"
+      },
+      {
+        "concept": "Ukrainian Wikipedia",
+        "qid": "Q199698",
+        "rank": 6,
+        "score": 0.4056,
+        "confidence": 0.0749,
+        "evidence": "Ukrainian Wikipedia: Ukrainian-language edition of Wikipedia"
+      },
+      {
+        "concept": "Kievskaia starina",
+        "qid": "Q4220180",
+        "rank": 7,
+        "score": 0.3488,
+        "confidence": 0.0707,
+        "evidence": "Kievskaia starina: ethographic and literary chronicle (also known as Ukraïna, Ukraina, Kyivan Past, Kyivan Antiquity, Ukraine, Kievskaya starina)"
+      },
+      {
+        "concept": "Ukraina Stadium",
+        "qid": "Q2296961",
+        "rank": 8,
+        "score": 0.3104,
+        "confidence": 0.0681,
+        "evidence": "Ukraina Stadium: multi-purpose stadium in Lviv, Ukraine (also known as Ukraine Stadium, Stadion Ukraina, Ukraina Stadium, Lviv, Ukraine Stadium, Lviv, Stadion Ukraina, Lviv, Stadion Ukraine, Stadion Ukraine, Lviv, Ukraine, Ukraina, Ukraine, Lviv, Ukraina, Lviv, Ukraina Stadium (Lviv), Ukraine Stadium (Lviv), Stadion Ukraina (Lviv), Stadion Ukraine (Lviv), Ukraine (Lviv), Ukraina (Lviv))"
+      },
+      {
+        "concept": "Ukraine men's national football team",
+        "qid": "Q170403",
+        "rank": 9,
+        "score": 0.2569,
+        "confidence": 0.0645,
+        "evidence": "Ukraine men's national football team: men's national association football team representing Ukraine (also known as Ukraine national football team, Ukraine national association football team, Ukraine men's national association football team)"
+      },
+      {
+        "concept": "Ukrainian Free University",
+        "qid": "Q646136",
+        "rank": 10,
+        "score": 0.2514,
+        "confidence": 0.0642,
+        "evidence": "Ukrainian Free University: private university in Munich, Germany (also known as Ukrainische Freie Universität, Ukrainskyi vilnyi universytet, UVU, Universitas Libera Ucrainensis)"
+      },
+      {
+        "concept": "Ukraine national under-21 football team",
+        "qid": "Q1579270",
+        "rank": 11,
+        "score": 0.2346,
+        "confidence": 0.0631,
+        "evidence": "Ukraine national under-21 football team: sports team"
+      },
+      {
+        "concept": "Ukrainian People's Republic",
+        "qid": "Q243610",
+        "rank": 12,
+        "score": 0.1885,
+        "confidence": 0.0603,
+        "evidence": "Ukrainian People's Republic: country in Eastern Europe (1917–1921); government in exile (1921–1992)"
+      },
+      {
+        "concept": "full-scale Russo-Ukrainian war",
+        "qid": "Q110999040",
+        "rank": 13,
+        "score": 0.1825,
+        "confidence": 0.0599,
+        "evidence": "full-scale Russo-Ukrainian war: full-scale invasion of Ukraine by Russia starting on 24 February 2022, part of Russo-Ukrainian War (also known as Russia's invasion of Ukraine, Russo-Ukrainian War, War in Ukraine, invasion of Ukraine, Ukrainian Patriotic War, Russian attack on Ukraine, Special military operation in Ukraine, Ukraine invasion, Operation Z, Ukrainian War, Russo-Ukrainian war (2022–present), Russia-Ukraine war 2022, Russian war in Ukraine 2022)"
+      },
+      {
+        "concept": "Ukrainian Soviet Socialist Republic",
+        "qid": "Q133356",
+        "rank": 14,
+        "score": 0.1129,
+        "confidence": 0.0559,
+        "evidence": "Ukrainian Soviet Socialist Republic: sovereign state (1919–1922) and a republic of the Soviet Union (1922–1991); one of the founding members of the UN in 1945 (also known as Ukrainian SSR, Soviet Ukraine, Ukrainian S.S.R, Communist Ukraine)"
+      }
+    ]
+  },
+  {
+    "mention": "United States",
+    "sentence": "This **** 's Fed Cup ********* -- ********* champion Spain and the United States -- will hit *** road to open the 1997 women 's international team *********** , ***** on the draw ********* Saturday at the U.S. Open .",
+    "selected": {
+      "concept": "United States",
+      "qid": "Q30",
+      "rank": 1,
+      "score": 0.5051,
+      "confidence": 0.1896,
+      "evidence": "United States: country located primarily in North America (also known as the States, the United States of America, US of America, the US, the U.S., the US of A, U.S. of America, the US of America, the USA, the U.S.A., the U.S. of A, US of A, the U.S. of America, the United States, Merica, Murica, U. S., U. S. A., United States of America)"
+    },
+    "alternatives": [
+      {
+        "concept": "Mexico",
+        "qid": "Q96",
+        "rank": 2,
+        "score": 0.2324,
+        "confidence": 0.1443,
+        "evidence": "Mexico: country in North America (also known as Mexican United States, Mexican Republic, US of M, United States of Mexico, mx, United Mexican States, MXN)"
+      },
+      {
+        "concept": "United States Census Bureau",
+        "qid": "Q637413",
+        "rank": 3,
+        "score": 0.1915,
+        "confidence": 0.1386,
+        "evidence": "United States Census Bureau: U.S. agency responsible for the census and related statistics (also known as U.S. Census Bureau, US Census Bureau, Census Bureau, United States Bureau of the Census, Bureau of the Census)"
+      },
+      {
+        "concept": "United States dollar",
+        "qid": "Q4917",
+        "rank": 4,
+        "score": 0.1739,
+        "confidence": 0.1361,
+        "evidence": "United States dollar: official currency of the United States (also known as USD, $, US$, American dollar, US $, U.S. Dollar, U. S. Dollar, US-$, dollar, dollars, US dollar, buck, greenback, $USD, USD$, US dollars, United States dollars, American dollars, USA dollar, USA dollars, American money)"
+      },
+      {
+        "concept": "Republican Party",
+        "qid": "Q29468",
+        "rank": 5,
+        "score": 0.159,
+        "confidence": 0.1341,
+        "evidence": "Republican Party: American political party (also known as Republican Party of the United States, Republicans, Republican Party (United States), United States Republican Party, American Republican Party, US Republican Party, The Republicans)"
+      },
+      {
+        "concept": "United States Geological Survey",
+        "qid": "Q193755",
+        "rank": 6,
+        "score": 0.1456,
+        "confidence": 0.1323,
+        "evidence": "United States Geological Survey: scientific agency of the United States government (also known as USGS, US Geological Survey, U.S. Geological Survey, U. S. G. S., Geological Survey, United States. Dept. of the Interior. Geological Survey, United States. Department of the Interior. Geological Survey)"
+      },
+      {
+        "concept": "National Gallery of Art",
+        "qid": "Q214867",
+        "rank": 7,
+        "score": 0.088,
+        "confidence": 0.1249,
+        "evidence": "National Gallery of Art: national art museum in Washington, D.C. (also known as Mellon Gallery of Art, National Art Gallery (U.S.), United States. National Gallery of Art, National Gallery, National Gallery of Art (U.S.), National Gallery of Art (Washington, D.C.), National Gallery of Art (Washington D.C.), U.S. National Gallery of Art, US National Gallery of Art, National Gallery of Art)"
+      }
+    ]
+  },
+  {
+    "mention": "Wall Street",
+    "sentence": "That 's **** Wall Street will need to ***** . \"",
+    "selected": {
+      "concept": "Wall Street",
+      "qid": "Q11690",
+      "rank": 1,
+      "score": 0.6945,
+      "confidence": 0.1726,
+      "evidence": "Wall Street: street in Manhattan, New York, USA (also known as Wall St)"
+    },
+    "alternatives": [
+      {
+        "concept": "Wall Street",
+        "qid": "Q97356940",
+        "rank": 2,
+        "score": 0.5761,
+        "confidence": 0.1533,
+        "evidence": "Wall Street: 1981 video game"
+      },
+      {
+        "concept": "Wall Street",
+        "qid": "Q332348",
+        "rank": 3,
+        "score": 0.5627,
+        "confidence": 0.1513,
+        "evidence": "Wall Street: 1987 film directed by Oliver Stone"
+      },
+      {
+        "concept": "Wall Street",
+        "qid": "Q2611956",
+        "rank": 4,
+        "score": 0.4567,
+        "confidence": 0.136,
+        "evidence": "Wall Street: New York City IRT Broadway – Seventh Avenue Line subway station"
+      },
+      {
+        "concept": "Wall Street",
+        "qid": "Q2183775",
+        "rank": 5,
+        "score": 0.4526,
+        "confidence": 0.1355,
+        "evidence": "Wall Street: New York City IRT Lexington Avenue Line subway station (also known as Wall Street Subway Station (IRT))"
+      },
+      {
+        "concept": "The Wall Street Journal",
+        "qid": "Q164746",
+        "rank": 6,
+        "score": 0.4009,
+        "confidence": 0.1287,
+        "evidence": "The Wall Street Journal: American business-focused daily newspaper"
+      },
+      {
+        "concept": "Wall Street: Money Never Sleeps",
+        "qid": "Q326526",
+        "rank": 7,
+        "score": 0.3535,
+        "confidence": 0.1227,
+        "evidence": "Wall Street: Money Never Sleeps: 2010 film by Oliver Stone"
+      }
+    ]
+  },
+  {
+    "mention": "Wigan",
+    "sentence": "WIGAN , England ********** ****** of English rugby league premiership ********* ****** on Saturday : Wigan 42 Bradford Bulls 36",
+    "selected": {
+      "concept": "Wigan",
+      "qid": "Q208143",
+      "rank": 1,
+      "score": 0.8216,
+      "confidence": 0.1733,
+      "evidence": "Wigan: town in Greater Manchester, England"
+    },
+    "alternatives": [
+      {
+        "concept": "Wigan",
+        "qid": "Q684307",
+        "rank": 2,
+        "score": 0.7262,
+        "confidence": 0.1576,
+        "evidence": "Wigan: metropolitan borough of Greater Manchester, in North West England (also known as Metropolitan Borough of Wigan)"
+      },
+      {
+        "concept": "Wigan",
+        "qid": "Q60576237",
+        "rank": 3,
+        "score": 0.614,
+        "confidence": 0.1408,
+        "evidence": "Wigan: Constituency of the Parliament of England (to 1707)"
+      },
+      {
+        "concept": "Wigan Warriors",
+        "qid": "Q1210267",
+        "rank": 4,
+        "score": 0.5916,
+        "confidence": 0.1377,
+        "evidence": "Wigan Warriors: English rugby league club (also known as Wigan R.L.F.C.)"
+      },
+      {
+        "concept": "Wigan",
+        "qid": "Q874340",
+        "rank": 5,
+        "score": 0.5841,
+        "confidence": 0.1367,
+        "evidence": "Wigan: Parliamentary constituency in the United Kingdom, 1885 onwards"
+      },
+      {
+        "concept": "Wigan",
+        "qid": "Q92373794",
+        "rank": 6,
+        "score": 0.5639,
+        "confidence": 0.134,
+        "evidence": "Wigan: family name"
+      },
+      {
+        "concept": "Wigan Athletic F.C.",
+        "qid": "Q18750",
+        "rank": 7,
+        "score": 0.4528,
+        "confidence": 0.1199,
+        "evidence": "Wigan Athletic F.C.: association football club in Wigan, England (also known as Wigan Athletic Football Club, Wigan Athletic FC, Wigan Athletic, Wigan, The Latics, Athletic, WAFC)"
+      }
+    ]
+  },
+  {
+    "mention": "Craig Dowd",
+    "sentence": "New Zealand * 15 - Christian Cullen ( Alama Ieremia , 70 ) , 14 - Jeff Wilson * 13 - Walter Little , ** - Frank Bunce , 11 - Glen Osborne ; 10 - Andrew Mehrtens , 9 - Justin Marshall ; 8 - Zinzan Brooke , * - Josh Kronfeld * 6 - Michael Jones ( Glenn Taylor , 53 ) , 5 - Robin Brooke , 4 - Ian Jones , 3 - Olo Brown , 2 - Sean Fitzpatrick ( captain ) , 1 - Craig Dowd .",
+    "selected": {
+      "concept": "Craig Dowd",
+      "qid": "Q3002002",
+      "rank": 1,
+      "score": 0.8404,
+      "confidence": 1.0,
+      "evidence": "Craig Dowd: New Zealand rugby union footballer and coach"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "American Stock Exchange",
+    "sentence": "The American Stock Exchange index was **** 1.66 points at 559.68 , *** was off **** for the week .",
+    "selected": {
+      "concept": "NYSE American",
+      "qid": "Q846626",
+      "rank": 1,
+      "score": 0.4897,
+      "confidence": 0.5206,
+      "evidence": "NYSE American: stock exchange located in New York City, New York, United States (also known as American Stock Exchange, AMEX, NYSE MKT LLC, NYSE Amex Equities, NYSE MKT, NYSEAMERICAN, NYSE AlterNext)"
+    },
+    "alternatives": [
+      {
+        "concept": "American Stock Exchange Building",
+        "qid": "Q16961338",
+        "rank": 2,
+        "score": 0.4073,
+        "confidence": 0.4794,
+        "evidence": "American Stock Exchange Building: former American Stock Exchange headquarters (also known as New York Curb Exchange Building)"
+      }
+    ]
+  },
+  {
+    "mention": "Ecuador",
+    "sentence": "**** Petra Langrova * Czech Republic ) 6 - 2 *** Men 's ******* , third ***** 13 - Thomas Enqvist * Sweden ) beat Pablo Campana ( Ecuador * *** 6-4 ***",
+    "selected": {
+      "concept": "Ecuador",
+      "qid": "Q736",
+      "rank": 1,
+      "score": 0.5992,
+      "confidence": 0.1935,
+      "evidence": "Ecuador: sovereign state in South America (also known as Republic of Ecuador, Republic of the Equator, Republic of Equator, The Ecuadorian State)"
+    },
+    "alternatives": [
+      {
+        "concept": "Ecuador",
+        "qid": "Q2347797",
+        "rank": 2,
+        "score": 0.4177,
+        "confidence": 0.1614,
+        "evidence": "Ecuador: 1997 single by Sash! featuring Rodriguez"
+      },
+      {
+        "concept": "10792 Ecuador",
+        "qid": "Q1084346",
+        "rank": 3,
+        "score": 0.2702,
+        "confidence": 0.1393,
+        "evidence": "10792 Ecuador: asteroid (also known as Ecuador, (10792) Ecuador)"
+      },
+      {
+        "concept": "parish of Ecuador",
+        "qid": "Q2579179",
+        "rank": 4,
+        "score": 0.2088,
+        "confidence": 0.131,
+        "evidence": "parish of Ecuador: Ecuador territorial subdivision of a canton (also known as Ecuadorian parish, parroquia of Ecuador, parroquia, parish in Ecuador, parrioquia in Ecuador, parish, civil parish, civil parish in Ecuador)"
+      },
+      {
+        "concept": "Ecuador men's national football team",
+        "qid": "Q987584",
+        "rank": 5,
+        "score": 0.1871,
+        "confidence": 0.1282,
+        "evidence": "Ecuador men's national football team: men's national association football team representing Ecuador (also known as Ecuador national soccer team, Ecuadorian national soccer team, Ecuadorian national football team, Ecuador national football team)"
+      },
+      {
+        "concept": "Andes",
+        "qid": "Q5456",
+        "rank": 6,
+        "score": 0.1851,
+        "confidence": 0.1279,
+        "evidence": "Andes: mountain range running along the western side of South America (also known as Andes mountains, Andes mountain range, Ecuadorian Andes, Andes Mountains)"
+      },
+      {
+        "concept": "Galapagos Islands",
+        "qid": "Q38095",
+        "rank": 7,
+        "score": 0.1116,
+        "confidence": 0.1188,
+        "evidence": "Galapagos Islands: Archipelago in the Pacific Ocean, part of Ecuador since 1832 (also known as Galapagos, Inchanted Islands, Enchanted Islands, the Galapagos, the Galapagoses, Galapagoses, Insular Region, Insular Region of Ecuador, Galapagos Archipelago, Colon Archipelago, Colon Islands, Colons, Galápagos Islands, Galápagos Archipelago, Galápagoses, Enchanted Isles, Inchanteds, Enchanteds, Ecuador Archipelago, Archipelago of Ecuador, Archipelago of the Equator, Islands of the Equator, Columbus Islands, Columbus Archipelago, Archipelago of Columbus, Archipelago of Colon, Las Encantadas, Bewitched Islands, Gallapagos Islands, Gallapagos Isl., Isles of Gallapagos, I. Gallapagos, Gallapagos, Gallapagos I.)"
+      }
+    ]
+  },
+  {
+    "mention": "Adam Hunter",
+    "sentence": "** ** 72 72 , Pedro Linhart ( Spain ) 72 ** ** 78 *** Phillip Price 72 ** 74 ** , Adam Hunter 70 79 73 69 * Peter O'Malley ( Australia )",
+    "selected": {
+      "concept": "Adam Hunter",
+      "qid": "Q2185257",
+      "rank": 1,
+      "score": 0.5945,
+      "confidence": 0.1506,
+      "evidence": "Adam Hunter: professional golfer (1963–2011)"
+    },
+    "alternatives": [
+      {
+        "concept": "Adam Hunter",
+        "qid": "Q110434620",
+        "rank": 2,
+        "score": 0.5574,
+        "confidence": 0.1451,
+        "evidence": "Adam Hunter: guest on the Joe Rogan Experience podcast"
+      },
+      {
+        "concept": "Adam Hunter",
+        "qid": "Q16012621",
+        "rank": 3,
+        "score": 0.5488,
+        "confidence": 0.1439,
+        "evidence": "Adam Hunter: British politician (1908-1991)"
+      },
+      {
+        "concept": "Adam Hunter",
+        "qid": "Q76284283",
+        "rank": 4,
+        "score": 0.5438,
+        "confidence": 0.1431,
+        "evidence": "Adam Hunter: Peerage person ID=661785"
+      },
+      {
+        "concept": "Adam Hunter",
+        "qid": "Q4679270",
+        "rank": 5,
+        "score": 0.5322,
+        "confidence": 0.1415,
+        "evidence": "Adam Hunter: Australian actor (also known as Adz Hunter)"
+      },
+      {
+        "concept": "Adam Hunter",
+        "qid": "Q4679271",
+        "rank": 6,
+        "score": 0.508,
+        "confidence": 0.1381,
+        "evidence": "Adam Hunter: Australian rules footballer (also known as Adam Robert Hunter)"
+      },
+      {
+        "concept": "Adam Hunter",
+        "qid": "Q4679267",
+        "rank": 7,
+        "score": 0.5055,
+        "confidence": 0.1378,
+        "evidence": "Adam Hunter: Wikimedia disambiguation page"
+      }
+    ]
+  },
+  {
+    "mention": "Randy Velarde",
+    "sentence": "Mariano Rivera pitched a scoreless ninth , ******** out two * ********* Randy Velarde *** *** 11th ***** , his **** at any professional level .",
+    "selected": {
+      "concept": "Randy Velarde",
+      "qid": "Q7292489",
+      "rank": 1,
+      "score": 0.7785,
+      "confidence": 1.0,
+      "evidence": "Randy Velarde: American baseball player (also known as Randy Lee Velarde)"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "Kutuzov",
+    "sentence": "1812 - Russian army ***** General Kutuzov was ******** ** heavy cost by Napoleon at *** battle of Borodino 70 miles **** of Moscow .",
+    "selected": {
+      "concept": "Kutuzov",
+      "qid": "Q56546787",
+      "rank": 1,
+      "score": 0.5804,
+      "confidence": 0.1366,
+      "evidence": "Kutuzov: surname (Кутузов) (also known as Кутузов)"
+    },
+    "alternatives": [
+      {
+        "concept": "Kutuzov",
+        "qid": "Q140374134",
+        "rank": 2,
+        "score": 0.5223,
+        "confidence": 0.1289,
+        "evidence": "Kutuzov: fictional character from Fire Emblem: Genealogy of the Holy War (also known as Ctuzof)"
+      },
+      {
+        "concept": "Kutuzov",
+        "qid": "Q4249628",
+        "rank": 3,
+        "score": 0.5071,
+        "confidence": 0.127,
+        "evidence": "Kutuzov: 1944 film by Vladimir Petrov"
+      },
+      {
+        "concept": "2492 Kutuzov",
+        "qid": "Q930380",
+        "rank": 4,
+        "score": 0.4609,
+        "confidence": 0.1212,
+        "evidence": "2492 Kutuzov: asteroid (also known as Kutuzov)"
+      },
+      {
+        "concept": "Kutuzovo",
+        "qid": "Q991653",
+        "rank": 5,
+        "score": 0.3529,
+        "confidence": 0.1088,
+        "evidence": "Kutuzovo: rural locality in Krasnoznamensky District of Kaliningrad Oblast in northwestern Russia (also known as Schirwindt, Širvinta, Szyrwinta)"
+      },
+      {
+        "concept": "Kutuzovsky Prospekt",
+        "qid": "Q281935",
+        "rank": 6,
+        "score": 0.3328,
+        "confidence": 0.1066,
+        "evidence": "Kutuzovsky Prospekt: Avenue in Moscow, Russia"
+      },
+      {
+        "concept": "Kutuzovova",
+        "qid": "Q45315226",
+        "rank": 7,
+        "score": 0.2963,
+        "confidence": 0.1028,
+        "evidence": "Kutuzovova: street in Ostrava, Czech Republic"
+      },
+      {
+        "concept": "Prince of Smolensk",
+        "qid": "Q2472214",
+        "rank": 8,
+        "score": 0.1505,
+        "confidence": 0.0889,
+        "evidence": "Prince of Smolensk: Wikimedia list article"
+      },
+      {
+        "concept": "Mikhaíl Ilariónovich Kutúzov (Saint Petersburg, 1745-Bunzlau, 1813)",
+        "qid": "Q52346459",
+        "rank": 9,
+        "score": 0.0348,
+        "confidence": 0.0792,
+        "evidence": "Mikhaíl Ilariónovich Kutúzov (Saint Petersburg, 1745-Bunzlau, 1813): scientific article published on February 24, 2011"
+      }
+    ]
+  },
+  {
+    "mention": "Joost van der Westhuizen",
+    "sentence": "Springbok scrum-half Joost van der Westhuizen was his side 's inspiration , ******* their ******* try *** making the ***** for ******* Andre Venter from a ******* taken penalty to give his **** a 29-8 lead ***** 54 minutes .",
+    "selected": {
+      "concept": "Joost van der Westhuizen",
+      "qid": "Q971915",
+      "rank": 1,
+      "score": 0.8386,
+      "confidence": 0.5689,
+      "evidence": "Joost van der Westhuizen: South African rugby union footballer (1971–2017) (also known as Joost Heystek van der Westhuizen)"
+    },
+    "alternatives": [
+      {
+        "concept": "Joost van der Westhuizen, South African Rugby Legend, Dies at 45",
+        "qid": "Q123576891",
+        "rank": 2,
+        "score": 0.5613,
+        "confidence": 0.4311,
+        "evidence": "Joost van der Westhuizen, South African Rugby Legend, Dies at 45: The New York Times article (February 7, 2017)"
+      }
+    ]
+  },
+  {
+    "mention": "Nele Zilinskiene",
+    "sentence": "Hanne Haugland * Norway ) 1.91 6= Nele Zilinskiene ( Lithuania * **** 6= Yelena Gulyayeva ( Russia )",
+    "selected": {
+      "concept": "Nelė Žilinskienė",
+      "qid": "Q3496134",
+      "rank": 1,
+      "score": 0.6625,
+      "confidence": 1.0,
+      "evidence": "Nelė Žilinskienė: Lithuanian high jumper (also known as Savickytė)"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "Irina Privalova",
+    "sentence": "Chandra Sturrup ( Bahamas * 11.26 ** Irina Privalova ( Russia )",
+    "selected": {
+      "concept": "Irina Privalova",
+      "qid": "Q31081",
+      "rank": 1,
+      "score": 0.8621,
+      "confidence": 1.0,
+      "evidence": "Irina Privalova: Russian athlete (also known as Irina Anatoljewna Privalova, Irina Anatolyevna Privalova)"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "Christian Cullen",
+    "sentence": "New Zealand * 15 - Christian Cullen ( Alama Ieremia , 70 ) , 14 - Jeff Wilson * 13 - Walter Little , ** - Frank Bunce , 11 - Glen Osborne ; 10 - Andrew Mehrtens , 9 - Justin Marshall ; 8 - Zinzan Brooke , * - Josh Kronfeld * 6 - Michael Jones ( Glenn Taylor , 53 ) , 5 - Robin Brooke , 4 - Ian Jones , 3 - Olo Brown , 2 - Sean Fitzpatrick ( captain ) , 1 - Craig Dowd .",
+    "selected": {
+      "concept": "Christian Cullen",
+      "qid": "Q5109475",
+      "rank": 1,
+      "score": 0.7091,
+      "confidence": 0.2775,
+      "evidence": "Christian Cullen: New Zealand stallion"
+    },
+    "alternatives": [
+      {
+        "concept": "Christian Cullen",
+        "qid": "Q1079231",
+        "rank": 2,
+        "score": 0.6931,
+        "confidence": 0.2731,
+        "evidence": "Christian Cullen: New Zealand rugby union player (also known as Christian Mathias Cullen)"
+      },
+      {
+        "concept": "Christian Cullen",
+        "qid": "Q75514045",
+        "rank": 3,
+        "score": 0.5551,
+        "confidence": 0.2379,
+        "evidence": "Christian Cullen: (died 1784) (also known as Christian Grant)"
+      },
+      {
+        "concept": "Christian Cullen",
+        "qid": "Q96067132",
+        "rank": 4,
+        "score": 0.4369,
+        "confidence": 0.2114,
+        "evidence": "Christian Cullen: researcher"
+      }
+    ]
+  },
+  {
+    "mention": "Everton",
+    "sentence": "Everton 's Duncan Ferguson went close for Scotland in the 65th minute when he ****** Austrian goalkeeper Michael Konsel to a diving save .",
+    "selected": {
+      "concept": "Everton",
+      "qid": "Q140596527",
+      "rank": 1,
+      "score": 0.5286,
+      "confidence": 0.1605,
+      "evidence": "Everton: French footballer"
+    },
+    "alternatives": [
+      {
+        "concept": "Everton",
+        "qid": "Q20630242",
+        "rank": 2,
+        "score": 0.5135,
+        "confidence": 0.1581,
+        "evidence": "Everton: male given name (also known as Everton (first name), Everton (given name))"
+      },
+      {
+        "concept": "Everton",
+        "qid": "Q5417389",
+        "rank": 3,
+        "score": 0.4546,
+        "confidence": 0.1491,
+        "evidence": "Everton: village and civil parish in Nottinghamshire, England (also known as Everton, Nottinghamshire)"
+      },
+      {
+        "concept": "Everton",
+        "qid": "Q1520276",
+        "rank": 4,
+        "score": 0.4299,
+        "confidence": 0.1454,
+        "evidence": "Everton: village and civil parish in Bedfordshire, England, UK (also known as Everton, Bedfordshire)"
+      },
+      {
+        "concept": "Everton",
+        "qid": "Q37292888",
+        "rank": 5,
+        "score": 0.4223,
+        "confidence": 0.1444,
+        "evidence": "Everton: family name"
+      },
+      {
+        "concept": "Everton F.C.",
+        "qid": "Q5794",
+        "rank": 6,
+        "score": 0.3036,
+        "confidence": 0.1282,
+        "evidence": "Everton F.C.: association football club in Liverpool, England (also known as Everton, Everton Football Club, The Blues, Everton FC, The Toffees, EFC)"
+      },
+      {
+        "concept": "Éverton",
+        "qid": "Q21286002",
+        "rank": 7,
+        "score": 0.1886,
+        "confidence": 0.1143,
+        "evidence": "Éverton: male given name (also known as Éverton (first name), Éverton (given name))"
+      }
+    ]
+  },
+  {
+    "mention": "Florian Schwarthoff",
+    "sentence": "Florian Schwarthoff ( Germany )",
+    "selected": {
+      "concept": "Florian Schwarthoff",
+      "qid": "Q67853",
+      "rank": 1,
+      "score": 1.0262,
+      "confidence": 1.0,
+      "evidence": "Florian Schwarthoff: German hurdler"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "Robert Allenby",
+    "sentence": "NORTHAMPTON , England ********** ******* ****** after *** ***** ***** of the British Masters **** ********** on ******** ( British ****** ****** ) : 284 Robert Allenby * Australia )",
+    "selected": {
+      "concept": "Robert Allenby",
+      "qid": "Q1837721",
+      "rank": 1,
+      "score": 0.8326,
+      "confidence": 1.0,
+      "evidence": "Robert Allenby: Australian professional golfer"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "Treasuries",
+    "sentence": "ITALY - **** futures held to easier levels in late afternoon ***** *** ***** drop ** Treasuries , but a ********* lira helped limit BTP losses *",
+    "selected": {
+      "concept": "Treasuries",
+      "qid": "Q77867241",
+      "rank": 1,
+      "score": 0.5163,
+      "confidence": 0.089,
+      "evidence": "Treasuries: painting by Boyer Gonzales"
+    },
+    "alternatives": [
+      {
+        "concept": "treasury",
+        "qid": "Q80800782",
+        "rank": 2,
+        "score": 0.2806,
+        "confidence": 0.0703,
+        "evidence": "treasury: government department or location where precious items are kept"
+      },
+      {
+        "concept": "Treasuries at Olympia",
+        "qid": "Q7836783",
+        "rank": 3,
+        "score": 0.2631,
+        "confidence": 0.0691,
+        "evidence": "Treasuries at Olympia: ruined building complex in ancient Olympia, Greece"
+      },
+      {
+        "concept": "treasury",
+        "qid": "Q10756188",
+        "rank": 4,
+        "score": 0.2501,
+        "confidence": 0.0682,
+        "evidence": "treasury: department of an organisation related to finance (also known as financial affairs, State Treasury)"
+      },
+      {
+        "concept": "treasure chamber",
+        "qid": "Q1673026",
+        "rank": 5,
+        "score": 0.2124,
+        "confidence": 0.0657,
+        "evidence": "treasure chamber: German word meaning \"treasury\" or \"treasure chamber\" (also known as treasury, Schatzkammer)"
+      },
+      {
+        "concept": "cash management",
+        "qid": "Q1047352",
+        "rank": 6,
+        "score": 0.1796,
+        "confidence": 0.0636,
+        "evidence": "cash management: measures of managing short-term cash in the company (also known as treasury management)"
+      },
+      {
+        "concept": "Department of the Treasury",
+        "qid": "Q3277092",
+        "rank": 7,
+        "score": 0.1718,
+        "confidence": 0.0631,
+        "evidence": "Department of the Treasury: Australian government department, 1976- (also known as Treasury, Department of the Treasury [II], Central Office)"
+      },
+      {
+        "concept": "Exchequer",
+        "qid": "Q2408803",
+        "rank": 8,
+        "score": 0.1635,
+        "confidence": 0.0626,
+        "evidence": "Exchequer: Department of the British government responsible for taxation"
+      },
+      {
+        "concept": "treasurite",
+        "qid": "Q3998174",
+        "rank": 9,
+        "score": 0.1518,
+        "confidence": 0.0618,
+        "evidence": "treasurite: sulfosalt mineral (also known as IMA1976-008)"
+      },
+      {
+        "concept": "finance minister",
+        "qid": "Q7614320",
+        "rank": 10,
+        "score": 0.1445,
+        "confidence": 0.0614,
+        "evidence": "finance minister: position in a government responsible for economic and financial policies (also known as minister of finance, secretary of the treasury, treasury secretary)"
+      },
+      {
+        "concept": "Treasury",
+        "qid": "Q11250042",
+        "rank": 11,
+        "score": 0.1382,
+        "confidence": 0.061,
+        "evidence": "Treasury: 1997 compilation album by Miho Nakayama"
+      },
+      {
+        "concept": "United States Department of the Treasury",
+        "qid": "Q648666",
+        "rank": 12,
+        "score": 0.1381,
+        "confidence": 0.061,
+        "evidence": "United States Department of the Treasury: United States federal executive department (also known as Department of the Treasury, US Treasury Department, Treasury Department, U.S. Treasury Department, United States Treasury Department, USDT, U.S. Department of the Treasury)"
+      },
+      {
+        "concept": "First Lord of the Treasury",
+        "qid": "Q609884",
+        "rank": 13,
+        "score": 0.0897,
+        "confidence": 0.0581,
+        "evidence": "First Lord of the Treasury: head of the commission exercising the ancient office of Lord High Treasurer in the United Kingdom"
+      },
+      {
+        "concept": "Treasuring the past. Interview by Teresa O'Connor",
+        "qid": "Q48891339",
+        "rank": 14,
+        "score": -0.012,
+        "confidence": 0.0525,
+        "evidence": "Treasuring the past. Interview by Teresa O'Connor: scientific article published on June 1, 1995"
+      },
+      {
+        "concept": "Treasuring the Gaze: Eye Miniature Portraits and the Intimacy of Vision",
+        "qid": "Q56852844",
+        "rank": 15,
+        "score": -0.0989,
+        "confidence": 0.0481,
+        "evidence": "Treasuring the Gaze: Eye Miniature Portraits and the Intimacy of Vision: None"
+      },
+      {
+        "concept": "Treasuring the Gaze: Intimate Vision in Late Eighteenth-Century Eye Miniatures",
+        "qid": "Q138038185",
+        "rank": 16,
+        "score": -0.1781,
+        "confidence": 0.0445,
+        "evidence": "Treasuring the Gaze: Intimate Vision in Late Eighteenth-Century Eye Miniatures: book published in 2013"
+      }
+    ]
+  },
+  {
+    "mention": "Bahamas",
+    "sentence": "Chandra Sturrup ( Bahamas * 11.26 ** Irina Privalova ( Russia )",
+    "selected": {
+      "concept": "Bahamas",
+      "qid": "Q4842324",
+      "rank": 1,
+      "score": 0.545,
+      "confidence": 0.1047,
+      "evidence": "Bahamas: Canadian singer-songwriter (also known as Afie Jurvanen)"
+    },
+    "alternatives": [
+      {
+        "concept": "The Bahamas",
+        "qid": "Q778",
+        "rank": 2,
+        "score": 0.4478,
+        "confidence": 0.095,
+        "evidence": "The Bahamas: island sovereign state in the West Indies (also known as Commonwealth of The Bahamas, Commonwealth of the Bahamas, bs, Bahama Islands, Bahamas, Bahamas, The)"
+      },
+      {
+        "concept": "Bahamas",
+        "qid": "Q800198",
+        "rank": 3,
+        "score": 0.418,
+        "confidence": 0.0922,
+        "evidence": "Bahamas: German political magazine"
+      },
+      {
+        "concept": "Bahamas",
+        "qid": "Q16530679",
+        "rank": 4,
+        "score": 0.4055,
+        "confidence": 0.0911,
+        "evidence": "Bahamas: 1979 single by Kangaroo"
+      },
+      {
+        "concept": "Bahamas",
+        "qid": "Q77884625",
+        "rank": 5,
+        "score": 0.4035,
+        "confidence": 0.0909,
+        "evidence": "Bahamas: painting by Ed Paschke"
+      },
+      {
+        "concept": "Bahama",
+        "qid": "Q16467652",
+        "rank": 6,
+        "score": 0.3628,
+        "confidence": 0.0873,
+        "evidence": "Bahama: horse"
+      },
+      {
+        "concept": "Bahama",
+        "qid": "Q4842317",
+        "rank": 7,
+        "score": 0.2805,
+        "confidence": 0.0804,
+        "evidence": "Bahama: unincorporated community in Durham County, North Carolina (also known as Bahama, NC)"
+      },
+      {
+        "concept": "BAHAMA",
+        "qid": "Q139670568",
+        "rank": 8,
+        "score": 0.1987,
+        "confidence": 0.0741,
+        "evidence": "BAHAMA: vocal track by Aespa; for Armageddon studio album."
+      },
+      {
+        "concept": "Lucayan Archipelago",
+        "qid": "Q5363289",
+        "rank": 9,
+        "score": 0.1986,
+        "confidence": 0.0741,
+        "evidence": "Lucayan Archipelago: archipelago in the Northwestern West Indies (also known as Bahama Islands, Bahamas)"
+      },
+      {
+        "concept": "Spanish ship Bahama",
+        "qid": "Q5716352",
+        "rank": 10,
+        "score": 0.1822,
+        "confidence": 0.0729,
+        "evidence": "Spanish ship Bahama: Spanish ship (also known as Bahama)"
+      },
+      {
+        "concept": "BAHAMA",
+        "qid": "Q139581278",
+        "rank": 11,
+        "score": 0.1779,
+        "confidence": 0.0726,
+        "evidence": "BAHAMA: Song performed by Aespa for Armageddon EP."
+      },
+      {
+        "concept": "LMS Jubilee Class 5596 “Bahamas”",
+        "qid": "Q6459112",
+        "rank": 12,
+        "score": 0.0637,
+        "confidence": 0.0647,
+        "evidence": "LMS Jubilee Class 5596 “Bahamas”: preserved British 4-6-0 locomotive (also known as LMS 5596 “Bahamas”, Bahamas)"
+      }
+    ]
+  },
+  {
+    "mention": "Frank Bunce",
+    "sentence": "New Zealand * 15 - Christian Cullen ( Alama Ieremia , 70 ) , 14 - Jeff Wilson * 13 - Walter Little , ** - Frank Bunce , 11 - Glen Osborne ; 10 - Andrew Mehrtens , 9 - Justin Marshall ; 8 - Zinzan Brooke , * - Josh Kronfeld * 6 - Michael Jones ( Glenn Taylor , 53 ) , 5 - Robin Brooke , 4 - Ian Jones , 3 - Olo Brown , 2 - Sean Fitzpatrick ( captain ) , 1 - Craig Dowd .",
+    "selected": {
+      "concept": "Frank Bunce",
+      "qid": "Q3082524",
+      "rank": 1,
+      "score": 0.6601,
+      "confidence": 0.2999,
+      "evidence": "Frank Bunce: Samoan rugby union footballer and coach (also known as Frank Eneri Bunce)"
+    },
+    "alternatives": [
+      {
+        "concept": "Freddie Bunce",
+        "qid": "Q5496691",
+        "rank": 2,
+        "score": 0.4717,
+        "confidence": 0.2484,
+        "evidence": "Freddie Bunce: English footballer (1938–1991) (also known as Frederick Bunce, Frank Bunce)"
+      },
+      {
+        "concept": "Frank Buncom",
+        "qid": "Q5485543",
+        "rank": 3,
+        "score": 0.3829,
+        "confidence": 0.2273,
+        "evidence": "Frank Buncom: American football player (1939-1969)"
+      },
+      {
+        "concept": "Frank Bunch",
+        "qid": "Q89525791",
+        "rank": 4,
+        "score": 0.3694,
+        "confidence": 0.2243,
+        "evidence": "Frank Bunch: researcher"
+      }
+    ]
+  },
+  {
+    "mention": "Juan Gonzalez",
+    "sentence": "ARLINGTON , Texas ********** Juan Gonzalez ******* ***** and Ivan Rodriguez added a two-run shot as the Texas Rangers defeated the Cleveland Indians 5-3 in a matchup of division ******* ****** .",
+    "selected": {
+      "concept": "Juan González",
+      "qid": "Q22085482",
+      "rank": 1,
+      "score": 0.4972,
+      "confidence": 0.1573,
+      "evidence": "Juan González: Mexican painter (17th century) (also known as Juan Gonzalez)"
+    },
+    "alternatives": [
+      {
+        "concept": "Juan Gonzalez",
+        "qid": "Q131914180",
+        "rank": 2,
+        "score": 0.4901,
+        "confidence": 0.1562,
+        "evidence": "Juan Gonzalez: None"
+      },
+      {
+        "concept": "Juan Gonzalez",
+        "qid": "Q121303616",
+        "rank": 3,
+        "score": 0.4296,
+        "confidence": 0.147,
+        "evidence": "Juan Gonzalez: academic and researcher (also known as Juanito Gonzalez)"
+      },
+      {
+        "concept": "Juan González",
+        "qid": "Q101690345",
+        "rank": 4,
+        "score": 0.4096,
+        "confidence": 0.1441,
+        "evidence": "Juan González: Venezuelan footballer"
+      },
+      {
+        "concept": "Juan González",
+        "qid": "Q11728777",
+        "rank": 5,
+        "score": 0.3943,
+        "confidence": 0.1419,
+        "evidence": "Juan González: Andorran cyclist (also known as Juan Josep González Fuentes, Joan Josep González Fuentes)"
+      },
+      {
+        "concept": "Juan González",
+        "qid": "Q106517795",
+        "rank": 6,
+        "score": 0.326,
+        "confidence": 0.1325,
+        "evidence": "Juan González: researcher (also known as Juan González García)"
+      },
+      {
+        "concept": "Joan González i Pellicer",
+        "qid": "Q18121188",
+        "rank": 7,
+        "score": 0.2345,
+        "confidence": 0.121,
+        "evidence": "Joan González i Pellicer: Catalan painter (1868 — 1908) (also known as Juan González, Joan Gonzalès, Joan González, Joan Gonzalez, Joan González Pellicer, Joan González-Pellicer, Juan González Pellicer, Gonzalez, J.A. gonzalez, jonan a. gonzalez)"
+      }
+    ]
+  },
+  {
+    "mention": "Tom Nyariki",
+    "sentence": "Brahim Lahlafi ( Morocco ) ******** ** Tom Nyariki ( Kenya )",
+    "selected": {
+      "concept": "Tom Nyariki",
+      "qid": "Q607937",
+      "rank": 1,
+      "score": 0.8185,
+      "confidence": 1.0,
+      "evidence": "Tom Nyariki: Kenyan athletics competitor (born 1971)"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "Ian Woosnam",
+    "sentence": "** 72 73 67 287 Ian Woosnam 70 76 71 ** *** Jose Coceres * Argentina ) 69 ** 71 70 **",
+    "selected": {
+      "concept": "Ian Woosnam",
+      "qid": "Q545161",
+      "rank": 1,
+      "score": 0.6788,
+      "confidence": 1.0,
+      "evidence": "Ian Woosnam: Welsh professional golfer (also known as Ian Harold Woosnam)"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "Tolunay Kafkas",
+    "sentence": "7- Abdullah Ercan , 6 - Tolunay Kafkas , 10 - Oguz Cetin ( 13 - Arif Erdem , 57th )",
+    "selected": {
+      "concept": "Tolunay Kafkas",
+      "qid": "Q1378780",
+      "rank": 1,
+      "score": 0.7183,
+      "confidence": 1.0,
+      "evidence": "Tolunay Kafkas: Turkish association football player (born 1968) (also known as Hakkı Tolunay Kafkas)"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "Giuseppe Garibaldi",
+    "sentence": "**** - Giuseppe Garibaldi leading his \" Red Shirts \" seized Naples in the Italian war of ********** against *** Austrians .",
+    "selected": {
+      "concept": "Giuseppe Garibaldi",
+      "qid": "Q539",
+      "rank": 1,
+      "score": 0.8312,
+      "confidence": 0.1726,
+      "evidence": "Giuseppe Garibaldi: Italian general, patriot and republican (1807–1882) (also known as Joseph-Marie Garibaldi, Garibaldi, Giuseppe Maria Garibaldi)"
+    },
+    "alternatives": [
+      {
+        "concept": "Giuseppe Garibaldi",
+        "qid": "Q15292979",
+        "rank": 2,
+        "score": 0.6854,
+        "confidence": 0.1492,
+        "evidence": "Giuseppe Garibaldi: elder grandson of Giuseppe Garibaldi"
+      },
+      {
+        "concept": "Giuseppe Garibaldi",
+        "qid": "Q15292987",
+        "rank": 3,
+        "score": 0.6539,
+        "confidence": 0.1446,
+        "evidence": "Giuseppe Garibaldi: younger grandson of Giuseppe Garibaldi"
+      },
+      {
+        "concept": "Giuseppe Garibaldi",
+        "qid": "Q125182663",
+        "rank": 4,
+        "score": 0.6497,
+        "confidence": 0.144,
+        "evidence": "Giuseppe Garibaldi: Italian school assistant, barman and television personality"
+      },
+      {
+        "concept": "Giuseppe Garibaldi",
+        "qid": "Q742121",
+        "rank": 5,
+        "score": 0.6021,
+        "confidence": 0.1373,
+        "evidence": "Giuseppe Garibaldi: aircraft carrier (also known as C 551)"
+      },
+      {
+        "concept": "Giuseppe Garibaldi",
+        "qid": "Q2261834",
+        "rank": 6,
+        "score": 0.5898,
+        "confidence": 0.1356,
+        "evidence": "Giuseppe Garibaldi: 1936 Duca degli Abruzzi-class cruiser"
+      },
+      {
+        "concept": "Italian cruiser Giuseppe Garibaldi",
+        "qid": "Q1133711",
+        "rank": 7,
+        "score": 0.4403,
+        "confidence": 0.1168,
+        "evidence": "Italian cruiser Giuseppe Garibaldi: 1899 Giuseppe Garibaldi-class armoured cruiser (also known as G. Garibaldi, Giuseppe Garibaldi)"
+      }
+    ]
+  },
+  {
+    "mention": "Tristan Hoffman",
+    "sentence": "Tristan Hoffman ( Netherlands * TVM **** time ** Erik Breukink ( Netherlands )",
+    "selected": {
+      "concept": "Tristan Hoffman",
+      "qid": "Q982069",
+      "rank": 1,
+      "score": 0.9534,
+      "confidence": 1.0,
+      "evidence": "Tristan Hoffman: Dutch cyclist (also known as Tristan Henri Christiaan Hoffman)"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "Cape Town",
+    "sentence": "1986 - Bishop Desmond Tutu was ********* as Archbishop of Cape Town , South Africa .",
+    "selected": {
+      "concept": "Cape Town",
+      "qid": "Q5465",
+      "rank": 1,
+      "score": 0.6491,
+      "confidence": 0.1739,
+      "evidence": "Cape Town: city in the Western Cape, South Africa (also known as iKapa, Kaap, Cape, Cape Town, South Africa, Mother City, Tavern of the Seas, West side)"
+    },
+    "alternatives": [
+      {
+        "concept": "Cape Town",
+        "qid": "Q102242472",
+        "rank": 2,
+        "score": 0.507,
+        "confidence": 0.1509,
+        "evidence": "Cape Town: Thoroughbred racehorse"
+      },
+      {
+        "concept": "Cape Town",
+        "qid": "Q25343756",
+        "rank": 3,
+        "score": 0.4643,
+        "confidence": 0.1446,
+        "evidence": "Cape Town: South African-German produced TV series"
+      },
+      {
+        "concept": "City of Cape Town",
+        "qid": "Q1185115",
+        "rank": 4,
+        "score": 0.4472,
+        "confidence": 0.1421,
+        "evidence": "City of Cape Town: metropolitan municipality in Western Cape, South Africa (also known as City of Cape Town Metropolitan Municipality, City of Cape Town Metro, Cape Town Metropolitan Municipality, City of Cape Town Municipality, Cape Town Metro, Cape Town Municipality, Cape Town Unicity, Cape Metropolitan Council, Cape Metropolitan Administration)"
+      },
+      {
+        "concept": "Cape Town",
+        "qid": "Q114518672",
+        "rank": 5,
+        "score": 0.4291,
+        "confidence": 0.1396,
+        "evidence": "Cape Town: episode of iZombie (S2 E9)"
+      },
+      {
+        "concept": "University of Cape Town",
+        "qid": "Q951305",
+        "rank": 6,
+        "score": 0.338,
+        "confidence": 0.1274,
+        "evidence": "University of Cape Town: public university in Cape Town, South Africa (also known as South African College, uct.ac.za, Cape Town University)"
+      },
+      {
+        "concept": "Cape Town Spurs F.C.",
+        "qid": "Q412502",
+        "rank": 7,
+        "score": 0.2912,
+        "confidence": 0.1216,
+        "evidence": "Cape Town Spurs F.C.: association football club in South Africa (also known as Ajax Cape Town FC, Ajax Cape Town Football Club, Ajax Cape Town)"
+      }
+    ]
+  },
+  {
+    "mention": "Bolton",
+    "sentence": "Tranmere * 2 1 * * 4 * Bolton * 2 * * 5 * *",
+    "selected": {
+      "concept": "Bolton",
+      "qid": "Q184579",
+      "rank": 1,
+      "score": 0.6513,
+      "confidence": 0.1639,
+      "evidence": "Bolton: town in Greater Manchester, in the North West of England (also known as Bolton, Lancashire)"
+    },
+    "alternatives": [
+      {
+        "concept": "Bolton",
+        "qid": "Q16860207",
+        "rank": 2,
+        "score": 0.5579,
+        "confidence": 0.1493,
+        "evidence": "Bolton: family name (also known as Bolton (surname))"
+      },
+      {
+        "concept": "Bolton",
+        "qid": "Q1364541",
+        "rank": 3,
+        "score": 0.5158,
+        "confidence": 0.1432,
+        "evidence": "Bolton: metropolitan borough of Greater Manchester, England (also known as Metropolitan Borough of Bolton)"
+      },
+      {
+        "concept": "Bolton",
+        "qid": "Q891635",
+        "rank": 4,
+        "score": 0.512,
+        "confidence": 0.1426,
+        "evidence": "Bolton: village and civil parish in Cumbria, England, UK"
+      },
+      {
+        "concept": "Bolton",
+        "qid": "Q21396357",
+        "rank": 5,
+        "score": 0.5095,
+        "confidence": 0.1423,
+        "evidence": "Bolton: male given name (also known as Bolton (first name), Bolton (given name))"
+      },
+      {
+        "concept": "Bolton",
+        "qid": "Q2572280",
+        "rank": 6,
+        "score": 0.4985,
+        "confidence": 0.1407,
+        "evidence": "Bolton: town in Tolland County, Connecticut, United States (also known as Bolton, Connecticut, Bolton, CT)"
+      },
+      {
+        "concept": "Bolton Wanderers F.C.",
+        "qid": "Q19451",
+        "rank": 7,
+        "score": 0.3232,
+        "confidence": 0.1181,
+        "evidence": "Bolton Wanderers F.C.: association football club in Horwich, England (also known as Bolton Wanderers Football Club, Bolton Wanderers FC, Bolton Wanderers, Bolton, BWFC, Wanderers, The Trotters)"
+      }
+    ]
+  },
+  {
+    "mention": "Degryse",
+    "sentence": "Belgium 's best *********** effort came three ******* ***** **** Degryse *** *** ball over the bar from ***** range with Recber beaten .",
+    "selected": {
+      "concept": "Degryse",
+      "qid": "Q37574139",
+      "rank": 1,
+      "score": 0.5852,
+      "confidence": 0.2755,
+      "evidence": "Degryse: family name"
+    },
+    "alternatives": [
+      {
+        "concept": "Marc Degryse",
+        "qid": "Q559311",
+        "rank": 2,
+        "score": 0.5406,
+        "confidence": 0.2635,
+        "evidence": "Marc Degryse: Belgian footballer (also known as Marc Gabriel Degryse)"
+      },
+      {
+        "concept": "Degryse",
+        "qid": "Q28019440",
+        "rank": 3,
+        "score": 0.4999,
+        "confidence": 0.2529,
+        "evidence": "Degryse: Wikimedia disambiguation page"
+      },
+      {
+        "concept": "Degryse Lake",
+        "qid": "Q22619719",
+        "rank": 4,
+        "score": 0.3049,
+        "confidence": 0.2081,
+        "evidence": "Degryse Lake: lake in Saskatchewan, Canada"
+      }
+    ]
+  },
+  {
+    "mention": "Duffy Waldorf",
+    "sentence": "Bob Estes ** Billy Andrade * Duffy Waldorf , Jesper Parnevik * Sweden * ** Neal Lancaster * Dave Barr * Canada ) , Mike Sullivan , Willie Wood , Loren Roberts * Steve Stricker * Brian Claar * Russ Cochran ** Mark Calcavecchia *",
+    "selected": {
+      "concept": "Duffy Waldorf",
+      "qid": "Q914196",
+      "rank": 1,
+      "score": 0.7156,
+      "confidence": 1.0,
+      "evidence": "Duffy Waldorf: professional golfer"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "RUGBY LEAGUE",
+    "sentence": "RUGBY LEAGUE - WIGAN BEAT BRADFORD 42-36 ** ********* .",
+    "selected": {
+      "concept": "rugby league",
+      "qid": "Q10962",
+      "rank": 1,
+      "score": 0.6896,
+      "confidence": 0.1702,
+      "evidence": "rugby league: full-contact sport played by two teams of thirteen players on a rectangular field (also known as rugby league football)"
+    },
+    "alternatives": [
+      {
+        "concept": "Rugby League",
+        "qid": "Q7378191",
+        "rank": 2,
+        "score": 0.5789,
+        "confidence": 0.1524,
+        "evidence": "Rugby League: video game series"
+      },
+      {
+        "concept": "Rugby League",
+        "qid": "Q7378187",
+        "rank": 3,
+        "score": 0.5562,
+        "confidence": 0.1489,
+        "evidence": "Rugby League: 2003 video game (also known as NRL Rugby League)"
+      },
+      {
+        "concept": "Rugby League Project",
+        "qid": "Q19413232",
+        "rank": 4,
+        "score": 0.4937,
+        "confidence": 0.1399,
+        "evidence": "Rugby League Project: database about Rugby-League (also known as rugbyleagueproject.org)"
+      },
+      {
+        "concept": "rugby league team",
+        "qid": "Q15221215",
+        "rank": 5,
+        "score": 0.4924,
+        "confidence": 0.1397,
+        "evidence": "rugby league team: sports club/team orientated around playing the \"league\" version of Rugby (also known as rugby league club, rugby team, rugby club, Northern Union)"
+      },
+      {
+        "concept": "rugby league player",
+        "qid": "Q14373094",
+        "rank": 6,
+        "score": 0.4311,
+        "confidence": 0.1314,
+        "evidence": "rugby league player: sportsperson who plays rugby league (also known as rugby league footballer)"
+      },
+      {
+        "concept": "Australia national rugby league team",
+        "qid": "Q3589757",
+        "rank": 7,
+        "score": 0.3188,
+        "confidence": 0.1175,
+        "evidence": "Australia national rugby league team: senior men's sports team (also known as Australia rugby league team, Australian rugby league Kangaroos, Australian national rugby league team, Australia rugby league Kangaroos, national rugby league team of Australia, Australian rugby Kangaroos, Australian rugby league team, rugby league team of Australia, Australian Kangaroos, Australia rugby Kangaroos)"
+      }
+    ]
+  },
+  {
+    "mention": "Harold Baines",
+    "sentence": "Harold Baines and Robin Ventura each ********* three hits .",
+    "selected": {
+      "concept": "Harold Baines",
+      "qid": "Q3127575",
+      "rank": 1,
+      "score": 0.7492,
+      "confidence": 0.5806,
+      "evidence": "Harold Baines: American baseball player and coach (also known as Harold Douglas Baines)"
+    },
+    "alternatives": [
+      {
+        "concept": "Harold Edward Bainbridge",
+        "qid": "Q76180668",
+        "rank": 2,
+        "score": 0.4241,
+        "confidence": 0.4194,
+        "evidence": "Harold Edward Bainbridge: (born 1898) (also known as Harold Bainbridge)"
+      }
+    ]
+  },
+  {
+    "mention": "Chicago Board of Trade",
+    "sentence": "The ********* Treasury **** future on *** Chicago Board of Trade was trading at ********* , **** 26/32 from ******** 's settlement price .",
+    "selected": {
+      "concept": "Chicago Board of Trade",
+      "qid": "Q1071867",
+      "rank": 1,
+      "score": 0.7406,
+      "confidence": 0.1728,
+      "evidence": "Chicago Board of Trade: world's oldest options and futures exchange, located in Chicago, Illinois, United States (also known as CBOT, Chicago Mercantile Exchange & Chicago Board of Trade, XCBT)"
+    },
+    "alternatives": [
+      {
+        "concept": "Chicago Board of Trade",
+        "qid": "Q97472870",
+        "rank": 2,
+        "score": 0.6461,
+        "confidence": 0.1572,
+        "evidence": "Chicago Board of Trade: photograph by Andreas Gurksy"
+      },
+      {
+        "concept": "Chicago Board of Trade Building",
+        "qid": "Q2224700",
+        "rank": 3,
+        "score": 0.5323,
+        "confidence": 0.1403,
+        "evidence": "Chicago Board of Trade Building: skyscraper in Chicago, Illinois, United States"
+      },
+      {
+        "concept": "Chicago Board Of Trade (Floor)",
+        "qid": "Q107189164",
+        "rank": 4,
+        "score": 0.5266,
+        "confidence": 0.1395,
+        "evidence": "Chicago Board Of Trade (Floor): None (also known as CBOT (FLOOR), FCBT)"
+      },
+      {
+        "concept": "Chicago Board of Trade Building",
+        "qid": "Q24036701",
+        "rank": 5,
+        "score": 0.4978,
+        "confidence": 0.1356,
+        "evidence": "Chicago Board of Trade Building: former building in Chicago, demolished in 1929"
+      },
+      {
+        "concept": "Chicago Board of Trade II",
+        "qid": "Q97495401",
+        "rank": 6,
+        "score": 0.4534,
+        "confidence": 0.1297,
+        "evidence": "Chicago Board of Trade II: photograph by Andreas Gurksy"
+      },
+      {
+        "concept": "Chicago Board of Trade v. United States",
+        "qid": "Q5095511",
+        "rank": 7,
+        "score": 0.416,
+        "confidence": 0.1249,
+        "evidence": "Chicago Board of Trade v. United States: 1918 United States Supreme Court case (also known as Board of Trade of City of Chicago v. United States)"
+      }
+    ]
+  },
+  {
+    "mention": "Geoffrey Claeys",
+    "sentence": "***** : Belgium - 1 - Filip De Wilde , 2 - Bertrand Crasson , 3 - Dirk Medved , 4 - Pascal Renier , 16 - Geoffrey Claeys * 6 - Gunther Schepens ( 15 * Nico Van Kerckhoven , 81st ) , 10 - Enzo Scifo , 7 - Gert Verheyen ( 14 - Frederic Peiremans , **** ) , 9 - Marc Degryse * 8 - Luc Nilis , 11- Luis Oliveira ( ** - Gilles De Bilde , 88th ) .",
+    "selected": {
+      "concept": "Geoffrey Claeys",
+      "qid": "Q2649194",
+      "rank": 1,
+      "score": 0.8274,
+      "confidence": 1.0,
+      "evidence": "Geoffrey Claeys: Belgian footballer"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "Mikael Tillstrom",
+    "sentence": "Alexander Volkov * Russia * **** Mikael Tillstrom ( Sweden ) 1-6 6- 4 *** 4-6 *** ( **** )",
+    "selected": {
+      "concept": "Mikael Tillström",
+      "qid": "Q1301386",
+      "rank": 1,
+      "score": 0.7317,
+      "confidence": 1.0,
+      "evidence": "Mikael Tillström: Swedish tennis player"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "Tony Clark",
+    "sentence": "Detroit , Todd Van Poppel ******* a *********** *** his first career shutout and Tony Clark ******* to cap a four-run ***** inning as the Tigers blanked *** Kansas City Royals 4-0 .",
+    "selected": {
+      "concept": "Tony Clark",
+      "qid": "Q130767812",
+      "rank": 1,
+      "score": 0.6837,
+      "confidence": 0.1852,
+      "evidence": "Tony Clark: None"
+    },
+    "alternatives": [
+      {
+        "concept": "Tony Clark",
+        "qid": "Q11321326",
+        "rank": 2,
+        "score": 0.573,
+        "confidence": 0.1658,
+        "evidence": "Tony Clark: American baseball player and union leader (born 1972) (also known as Anthony Christopher Clark)"
+      },
+      {
+        "concept": "Tony Clark",
+        "qid": "Q7822067",
+        "rank": 3,
+        "score": 0.4876,
+        "confidence": 0.1522,
+        "evidence": "Tony Clark: British darts player"
+      },
+      {
+        "concept": "Tony Clark",
+        "qid": "Q21280433",
+        "rank": 4,
+        "score": 0.439,
+        "confidence": 0.145,
+        "evidence": "Tony Clark: Australian painter (born 1954)"
+      },
+      {
+        "concept": "Tony Clarke",
+        "qid": "Q2360618",
+        "rank": 5,
+        "score": 0.2883,
+        "confidence": 0.1247,
+        "evidence": "Tony Clarke: British record producer (1941–2010) (also known as Anthony Ralph Clarke)"
+      },
+      {
+        "concept": "Tony Clarke",
+        "qid": "Q5609565",
+        "rank": 6,
+        "score": 0.2613,
+        "confidence": 0.1214,
+        "evidence": "Tony Clarke: British politician (born 1963) (also known as Anthony Richard Clarke)"
+      },
+      {
+        "concept": "Tony Clarke, Baron Clarke of Hampstead",
+        "qid": "Q175463",
+        "rank": 7,
+        "score": 0.1237,
+        "confidence": 0.1058,
+        "evidence": "Tony Clarke, Baron Clarke of Hampstead: British politician (born 1932) (also known as Anthony James Clarke, Baron Clarke of Hampstead, Anthony James Clarke, Tony Clarke, Baron Clarke of Hampstead, Lord Clarke of Hampstead)"
+      }
+    ]
+  },
+  {
+    "mention": "Petra Langrova",
+    "sentence": "**** Petra Langrova * Czech Republic ) 6 - 2 *** Men 's ******* , third ***** 13 - Thomas Enqvist * Sweden ) beat Pablo Campana ( Ecuador * *** 6-4 ***",
+    "selected": {
+      "concept": "Petra Langrová",
+      "qid": "Q3377586",
+      "rank": 1,
+      "score": 0.6673,
+      "confidence": 1.0,
+      "evidence": "Petra Langrová: Czech tennis player (also known as Petra Langrova, Petra Černošková)"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "Kimberly Po",
+    "sentence": "Kimberly Po ( U.S. ) 6-3 *** : *** men 's singles * ****** round Hendrik Dreekmann * Germany * **** Thomas Johansson ( Sweden * *** ( 7-1 * *** 4-6 *** Andrei Medvedev * Ukraine ) beat Jan Kroslak ( Slovakia )",
+    "selected": {
+      "concept": "Kimberly Po",
+      "qid": "Q297948",
+      "rank": 1,
+      "score": 0.7568,
+      "confidence": 0.2097,
+      "evidence": "Kimberly Po: US tennis player (also known as Kimberly Po-Messerli)"
+    },
+    "alternatives": [
+      {
+        "concept": "Kimberly Popp",
+        "qid": "Q116457578",
+        "rank": 2,
+        "score": 0.3719,
+        "confidence": 0.1427,
+        "evidence": "Kimberly Popp: American sports scientist, water diver and beach handball player"
+      },
+      {
+        "concept": "Kimberly Pomerleau",
+        "qid": "Q125852418",
+        "rank": 3,
+        "score": 0.3301,
+        "confidence": 0.1369,
+        "evidence": "Kimberly Pomerleau: American politician"
+      },
+      {
+        "concept": "Kimberly Potter",
+        "qid": "Q106489113",
+        "rank": 4,
+        "score": 0.2835,
+        "confidence": 0.1307,
+        "evidence": "Kimberly Potter: Minnesota police officer (also known as Kim Potter)"
+      },
+      {
+        "concept": "Kimberly Pouliot",
+        "qid": "Q122983159",
+        "rank": 5,
+        "score": 0.2643,
+        "confidence": 0.1282,
+        "evidence": "Kimberly Pouliot: researcher"
+      },
+      {
+        "concept": "Kimberly Pollard",
+        "qid": "Q130819373",
+        "rank": 6,
+        "score": 0.2573,
+        "confidence": 0.1273,
+        "evidence": "Kimberly Pollard: researcher"
+      },
+      {
+        "concept": "Kim Porter",
+        "qid": "Q58772926",
+        "rank": 7,
+        "score": 0.2353,
+        "confidence": 0.1245,
+        "evidence": "Kim Porter: American actress and model (1970-2018) (also known as Kimberly Porter, Kimberly Antwinette Porter, Kimberly Antwinette Goodwin Porter)"
+      }
+    ]
+  },
+  {
+    "mention": "Swindon",
+    "sentence": "Swindon 4 2 1 * 5 * 7 Bradford * 2 0 2 4 * 6 Portsmouth 4 2 0 2 * 5 * Ipswich * 1 * 1 9 * *",
+    "selected": {
+      "concept": "Swindon",
+      "qid": "Q894093",
+      "rank": 1,
+      "score": 0.5967,
+      "confidence": 0.1566,
+      "evidence": "Swindon: unitary authority area in Wiltshire, South West England (also known as Borough of Swindon, Thamesdown)"
+    },
+    "alternatives": [
+      {
+        "concept": "Swindon",
+        "qid": "Q2276930",
+        "rank": 2,
+        "score": 0.5127,
+        "confidence": 0.1439,
+        "evidence": "Swindon: village and civil parish in Staffordshire, England, UK"
+      },
+      {
+        "concept": "Swindon",
+        "qid": "Q7658454",
+        "rank": 3,
+        "score": 0.5109,
+        "confidence": 0.1437,
+        "evidence": "Swindon: village/suburb and civil parish in Cheltenham, Gloucestershire, United Kingdom (also known as Swindon, Gloucestershire, Swindon Village, Swindon Village, Gloucestershire)"
+      },
+      {
+        "concept": "Swindon",
+        "qid": "Q200942",
+        "rank": 4,
+        "score": 0.5026,
+        "confidence": 0.1425,
+        "evidence": "Swindon: town in Wiltshire, England, United Kingdom (also known as Swindon, England)"
+      },
+      {
+        "concept": "Swindon",
+        "qid": "Q7658414",
+        "rank": 5,
+        "score": 0.4983,
+        "confidence": 0.1419,
+        "evidence": "Swindon: Parliamentary constituency in the United Kingdom, 1918-1997"
+      },
+      {
+        "concept": "Swindon Town F.C.",
+        "qid": "Q19634",
+        "rank": 6,
+        "score": 0.4586,
+        "confidence": 0.1364,
+        "evidence": "Swindon Town F.C.: association football club in Swindon, England (also known as Swindon Town Football Club, Swindon Town FC, Swindon Town, Swindon, Town, The Robins, STFC)"
+      },
+      {
+        "concept": "Swindon",
+        "qid": "Q57235334",
+        "rank": 7,
+        "score": 0.4493,
+        "confidence": 0.1351,
+        "evidence": "Swindon: DAB multiplex (also known as Swindon DAB, Now Swindon DAB)"
+      }
+    ]
+  },
+  {
+    "mention": "Walter Mondale",
+    "sentence": "Ronald Reagan 's tax cut won him a ****** four-year **** in *** White House in 1984 , ***** Democrat Walter Mondale , who promised higher taxes , **** .",
+    "selected": {
+      "concept": "Walter Mondale",
+      "qid": "Q49216",
+      "rank": 1,
+      "score": 0.7871,
+      "confidence": 0.1991,
+      "evidence": "Walter Mondale: Vice President of the United States from 1977 to 1981 (1928–2021) (also known as Walter Frederick Mondale, Fritz Mondale)"
+    },
+    "alternatives": [
+      {
+        "concept": "Walter Mondale",
+        "qid": "Q47510809",
+        "rank": 2,
+        "score": 0.5946,
+        "confidence": 0.1643,
+        "evidence": "Walter Mondale: painting by Howard Rogers"
+      },
+      {
+        "concept": "Walter Mondale presidential campaign, 1984",
+        "qid": "Q48851206",
+        "rank": 3,
+        "score": 0.4734,
+        "confidence": 0.1455,
+        "evidence": "Walter Mondale presidential campaign, 1984: unsuccessful 1984 campaign for President of the United States"
+      },
+      {
+        "concept": "Walter Mondale Papers (NAID 623728)",
+        "qid": "Q59494697",
+        "rank": 4,
+        "score": 0.3872,
+        "confidence": 0.1335,
+        "evidence": "Walter Mondale Papers (NAID 623728): collection in the National Archives and Records Administration's holdings"
+      },
+      {
+        "concept": "Walter Mondale (NAID 102036825)",
+        "qid": "Q66318087",
+        "rank": 5,
+        "score": 0.3614,
+        "confidence": 0.1301,
+        "evidence": "Walter Mondale (NAID 102036825): item in the National Archives and Records Administration's holdings"
+      },
+      {
+        "concept": "Walter Mondale, Ex-Vice President and Champion of Liberal Politics, Dies at 93",
+        "qid": "Q123522177",
+        "rank": 6,
+        "score": 0.237,
+        "confidence": 0.1149,
+        "evidence": "Walter Mondale, Ex-Vice President and Champion of Liberal Politics, Dies at 93: The New York Times article (April 19, 2021)"
+      },
+      {
+        "concept": "Walter Mondale/Ronald Reagan Political Films (Commercials) - 1984 (NAID 54571)",
+        "qid": "Q66324535",
+        "rank": 7,
+        "score": 0.2164,
+        "confidence": 0.1125,
+        "evidence": "Walter Mondale/Ronald Reagan Political Films (Commercials) - 1984 (NAID 54571): item in the National Archives and Records Administration's holdings"
+      }
+    ]
+  },
+  {
+    "mention": "Armenian",
+    "sentence": "The source , who ***** on ********* of ********* , said Azerbaijani presidential ******* Vafa Gulizade and his Armenian *********** Zhirayr Liparityan met ** discuss the disputed enclave on Wednesday and *** *** flown home .",
+    "selected": {
+      "concept": "Armenian",
+      "qid": "Q8785",
+      "rank": 1,
+      "score": 0.5634,
+      "confidence": 0.1572,
+      "evidence": "Armenian: Indo-European language (also known as Armenian language, Hayeren)"
+    },
+    "alternatives": [
+      {
+        "concept": "Armenian",
+        "qid": "Q1414333",
+        "rank": 2,
+        "score": 0.4315,
+        "confidence": 0.1378,
+        "evidence": "Armenian: Unicode block (U+0530-058F) (also known as U+0530-058F)"
+      },
+      {
+        "concept": "Armenian Wikipedia",
+        "qid": "Q1975217",
+        "rank": 3,
+        "score": 0.3553,
+        "confidence": 0.1277,
+        "evidence": "Armenian Wikipedia: Armenian-language edition of Wikipedia"
+      },
+      {
+        "concept": "Armenians",
+        "qid": "Q79797",
+        "rank": 4,
+        "score": 0.3468,
+        "confidence": 0.1266,
+        "evidence": "Armenians: ethnic group native to the Armenian Highlands (also known as Armenian people)"
+      },
+      {
+        "concept": "khachkar",
+        "qid": "Q654476",
+        "rank": 5,
+        "score": 0.2433,
+        "confidence": 0.1141,
+        "evidence": "khachkar: carved, memorial stele bearing a cross, Armenian symbol (also known as Armenian stone cross)"
+      },
+      {
+        "concept": "Armenian Concise Encyclopedia",
+        "qid": "Q13053618",
+        "rank": 6,
+        "score": 0.239,
+        "confidence": 0.1137,
+        "evidence": "Armenian Concise Encyclopedia: Armenian encyclopedia"
+      },
+      {
+        "concept": "Armenian Soviet Encyclopedia",
+        "qid": "Q2657718",
+        "rank": 7,
+        "score": 0.2218,
+        "confidence": 0.1117,
+        "evidence": "Armenian Soviet Encyclopedia: first general encyclopedia in Armenian language (also known as ASE)"
+      },
+      {
+        "concept": "Armenian alphabet",
+        "qid": "Q11932",
+        "rank": 8,
+        "score": 0.2179,
+        "confidence": 0.1113,
+        "evidence": "Armenian alphabet: alphabet used to write the Armenian language (also known as Armenian script, Armn)"
+      }
+    ]
+  },
+  {
+    "mention": "Iain Pyman",
+    "sentence": "Mike Clayton ( Australia ) 69 76 ** 73 *** Iain Pyman 71 ** 75 71 * David Gilford ** 74 ** 72 * Peter Hedblom * Sweden )",
+    "selected": {
+      "concept": "Iain Pyman",
+      "qid": "Q5980598",
+      "rank": 1,
+      "score": 0.7166,
+      "confidence": 1.0,
+      "evidence": "Iain Pyman: English golfer"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "Robin Brooke",
+    "sentence": "New Zealand * 15 - Christian Cullen ( Alama Ieremia , 70 ) , 14 - Jeff Wilson * 13 - Walter Little , ** - Frank Bunce , 11 - Glen Osborne ; 10 - Andrew Mehrtens , 9 - Justin Marshall ; 8 - Zinzan Brooke , * - Josh Kronfeld * 6 - Michael Jones ( Glenn Taylor , 53 ) , 5 - Robin Brooke , 4 - Ian Jones , 3 - Olo Brown , 2 - Sean Fitzpatrick ( captain ) , 1 - Craig Dowd .",
+    "selected": {
+      "concept": "Robin Brooke",
+      "qid": "Q3437048",
+      "rank": 1,
+      "score": 0.767,
+      "confidence": 0.1905,
+      "evidence": "Robin Brooke: New Zealand rugby union player (also known as Robin Matthew Brooke)"
+    },
+    "alternatives": [
+      {
+        "concept": "Robin Brooke",
+        "qid": "Q75934563",
+        "rank": 2,
+        "score": 0.6733,
+        "confidence": 0.1734,
+        "evidence": "Robin Brooke: (born 1963)"
+      },
+      {
+        "concept": "Robin Brook",
+        "qid": "Q141492338",
+        "rank": 3,
+        "score": 0.4298,
+        "confidence": 0.1359,
+        "evidence": "Robin Brook: None"
+      },
+      {
+        "concept": "Robin Brook",
+        "qid": "Q12800300",
+        "rank": 4,
+        "score": 0.3733,
+        "confidence": 0.1285,
+        "evidence": "Robin Brook: British fencer (1908-1998) (also known as Sir Ralph Ellis Brook, Ralph Ellis Brook, Sir Robin Brook)"
+      },
+      {
+        "concept": "Robin Nicholas Brooker",
+        "qid": "Q75869350",
+        "rank": 5,
+        "score": 0.3419,
+        "confidence": 0.1245,
+        "evidence": "Robin Nicholas Brooker: (1948-1996) (also known as Robin Brooker)"
+      },
+      {
+        "concept": "Robin Brooks",
+        "qid": "Q76322334",
+        "rank": 6,
+        "score": 0.3349,
+        "confidence": 0.1236,
+        "evidence": "Robin Brooks: Peerage person ID=688214 (also known as Dr. Robin Brooks)"
+      },
+      {
+        "concept": "Robin Brooks",
+        "qid": "Q116342458",
+        "rank": 7,
+        "score": 0.334,
+        "confidence": 0.1235,
+        "evidence": "Robin Brooks: Miss California 1980"
+      }
+    ]
+  },
+  {
+    "mention": "Wendy Everson",
+    "sentence": "Wendy Everson ( Britain ) 37.624 12.",
+    "selected": {
+      "concept": "Wendy Everson",
+      "qid": "Q7982648",
+      "rank": 1,
+      "score": 0.8501,
+      "confidence": 1.0,
+      "evidence": "Wendy Everson: English racing cyclist"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "Bob Wickman",
+    "sentence": "Bob Wickman ( 6-1 ) ******* 2 2/3 hitless ******* for the win , his ****** for the Brewers * Matt Lawton hit a three-run ***** off ****** Mike Fetters with one out in the ninth to give Minnesota a 4-2 **** .",
+    "selected": {
+      "concept": "Bob Wickman",
+      "qid": "Q2907863",
+      "rank": 1,
+      "score": 0.6672,
+      "confidence": 1.0,
+      "evidence": "Bob Wickman: American baseball player (also known as Robert Joe Wickman)"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "Andrew Goram",
+    "sentence": "Scotland : Andrew Goram , Craig Burley , Thomas Boyd , Colin Calderwood , Colin Hendry , Thomas McKinley , Duncan Ferguson , Stuart McCall , Alistair McCoist * Gordon Durie 75th ) , Gary McAllister , John Collins .",
+    "selected": {
+      "concept": "Andy Goram",
+      "qid": "Q525909",
+      "rank": 1,
+      "score": 0.6931,
+      "confidence": 1.0,
+      "evidence": "Andy Goram: Scottish footballer (1964–2022)"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "Baltimore Orioles",
+    "sentence": "Seattle , Pete Incaviglia 's grand slam with *** out in the ***** snapped a tie and lifted *** Baltimore Orioles **** the Seattle Mariners , *** .",
+    "selected": {
+      "concept": "Baltimore Orioles",
+      "qid": "Q650816",
+      "rank": 1,
+      "score": 0.7505,
+      "confidence": 0.176,
+      "evidence": "Baltimore Orioles: baseball team and Major League Baseball franchise in Baltimore, Maryland, United States (also known as Orioles, O's, Birds, The O's)"
+    },
+    "alternatives": [
+      {
+        "concept": "Baltimore Orioles",
+        "qid": "Q104859422",
+        "rank": 2,
+        "score": 0.5879,
+        "confidence": 0.1496,
+        "evidence": "Baltimore Orioles: minor League Baseball team"
+      },
+      {
+        "concept": "Baltimore Orioles",
+        "qid": "Q805748",
+        "rank": 3,
+        "score": 0.5543,
+        "confidence": 0.1447,
+        "evidence": "Baltimore Orioles: 1882-1899 baseball team in Baltimore, Maryland, United States (also known as Orioles)"
+      },
+      {
+        "concept": "Baltimore Orioles",
+        "qid": "Q3356382",
+        "rank": 4,
+        "score": 0.5533,
+        "confidence": 0.1445,
+        "evidence": "Baltimore Orioles: 1903-1953 minor league baseball team (also known as Orioles)"
+      },
+      {
+        "concept": "Baltimore Orioles",
+        "qid": "Q118904989",
+        "rank": 5,
+        "score": 0.4914,
+        "confidence": 0.1358,
+        "evidence": "Baltimore Orioles: defunct Major League Baseball team (1901-1902)"
+      },
+      {
+        "concept": "Baltimore Orioles",
+        "qid": "Q16837450",
+        "rank": 6,
+        "score": 0.4386,
+        "confidence": 0.1289,
+        "evidence": "Baltimore Orioles: 1932-1942 minor league hockey team (also known as Orioles)"
+      },
+      {
+        "concept": "Baltimore Orioles F.C.",
+        "qid": "Q805744",
+        "rank": 7,
+        "score": 0.371,
+        "confidence": 0.1204,
+        "evidence": "Baltimore Orioles F.C.: association football club"
+      }
+    ]
+  },
+  {
+    "mention": "ENGLISH COUNTY CHAMPIONSHIP",
+    "sentence": "CRICKET - ENGLISH COUNTY CHAMPIONSHIP ****** .",
+    "selected": null,
+    "alternatives": []
+  },
+  {
+    "mention": "Fita Bayissa",
+    "sentence": "******** ** Fita Bayissa * Ethiopia )",
+    "selected": {
+      "concept": "Fita Bayisa",
+      "qid": "Q125869",
+      "rank": 1,
+      "score": 0.7482,
+      "confidence": 1.0,
+      "evidence": "Fita Bayisa: Ethiopian athletics competitor (born 1972)"
+    },
+    "alternatives": []
+  },
+  {
+    "mention": "Nolan Henke",
+    "sentence": "** Nolan Henke **",
+    "selected": {
+      "concept": "Nolan Henke",
+      "qid": "Q7048193",
+      "rank": 1,
+      "score": 1.0024,
+      "confidence": 1.0,
+      "evidence": "Nolan Henke: professional golfer (also known as Nolan Jay Henke)"
+    },
+    "alternatives": []
+  }
+]
