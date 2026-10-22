@@ -1,5 +1,7 @@
 # Text-to-Wikidata Entity Linking
 
+> For more details on the architecture, implementation and experiments, see [`ARCHITECTURE.md`](ARCHITECTURE.md).
+
 A pipeline that takes a plain-text paragraph, finds the meaningful terms in it, and links
 each one to the right Wikidata QID. Candidates come from the live Wikidata API, get
 enriched with their 1-hop knowledge-graph neighbourhood, and a GraphRAG-style ranker

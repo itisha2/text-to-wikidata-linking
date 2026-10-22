@@ -29,12 +29,12 @@ sentence + mention
 
 Each sentence runs through spaCy (`en_core_web_sm`). The preprocessor keeps the original
 text and extracts named entities with labels, noun phrases, verb phrases, POS tags,
-lemmas, stems, and stop-word-filtered context lemmas (used later for context-aware
-retrieval). For a given mention it records whether NER covered it and with which type.
+lemmas, and stems. For a given mention it records whether NER covered it and with which
+type.
 
 spaCy's small model alone misses non-named-entity mentions, so NER is a two-pass merge:
 spaCy first, then a document-level pass with the **d1-omni:600m decision model** (served
-via Ollama) that types the proper-noun / ALL-CAPS spans spaCy missed, answering typed
+via Ollama) that types the spans spaCy missed, answering typed
 NER questions with a calibrated probability per option in one forward pass. The merge
 raised mention coverage from 61/94 ≈ 65% (spaCy alone) to **90/100 = 90%**.
 
@@ -50,9 +50,8 @@ Every expanded form is queried against the Wikidata API in parallel (multiproces
 pool), with retry/backoff handling for timeouts, 5xx errors and rate limits. Two modes:
 
 - **Mention-only** (default): `wbsearchentities`, Wikidata's own prefix/alias search.
-- **Context-aware**: Cirrus full-text search (`list=search`) with `inlabel:"form"` plus
-  the sentence's content lemmas ORed, so items whose descriptions and statements match
-  the context rank higher. Because this endpoint returns QIDs without labels, hits are
+- **Context-aware**: Cirrus full-text search (`list=search`) with the sentence, so items
+  whose descriptions and statements match the context rank higher. Because this endpoint returns QIDs without labels, hits are
   verified after enrichment and dropped if the form is not actually in the label/aliases.
 
 Results from all forms are deduplicated by QID. Each candidate carries retrieval
@@ -70,7 +69,9 @@ leaves selection to the ranker.
 
 `wbsearchentities` wins decisively: Cirrus surfaces less prominent entities that merely
 contain the query words, while `wbsearchentities` ranks by prominence, which matches how
-mentions are used in text — so the mention-only candidates are used for ranking. Candidate
+mentions are used in text — so the mention-only candidates are used for ranking. The gap
+is widest on non-ambiguous mentions (89.1% vs 34.8%): adding the sentence to the query
+introduces ambiguity for mentions that a mention-only lookup retrieves easily. Candidate
 recall is the ceiling on end-to-end accuracy, and the misses concentrate on ambiguous
 mentions (61.4% vs 89.1%): on those, the generator, not the ranker, is the bottleneck.
 
@@ -90,9 +91,9 @@ candidates pull together into a connected cluster — e.g. Belarus, Germany and 
 link via "diplomatic relation" — while wrong candidates with the same surface forms
 (the element germanium, the person Samuel Ireland) stay isolated.
 
-Because candidate retrieval is the slow, API-bound part, `src/build_candidate_store.py`
+Because candidate retrieval is the slow, API-bound part, `src/build_candidate_store_aida.py`
 runs it once over the evaluation set and stores the enriched candidates as JSON in
-SQLite (`candidate_store.db`, resumable, one table per retrieval mode). All ranking
+SQLite (`candidate_store_aida.db`, resumable, one table per retrieval mode). All ranking
 experiments then run offline against this store.
 
 ## 4. GraphRAG-based candidate selection (`src/ranker/`)
@@ -163,14 +164,15 @@ cosine to the centroid of the other mentions' candidate vectors.
   trails overall (60.0% vs 63.3%) and takes 858 s — ~45× slower — ruling it out. v6 drops
   to 56.7% overall, joint-worst on ambiguous mentions (38.6%, with v7): stacking
   verbalized graphs on both sides dilutes the evidence instead of sharpening it.
-- **Final ranker: v2** (embeddings + verbalized graph facts + coherence bonus). Graph
-  context lifts overall accuracy 57.8% → 63.3% and ambiguous accuracy 40.9% → 47.7% over
-  the no-graph baseline — the gain lands exactly where disambiguation is hardest, but
-  only when paired with the embedding ranker. How the graph is used matters more than
-  the ranking model: verbalized facts beat both structural embeddings (v7) and AMR
-  graphs (v5/v6). MRR above accuracy (0.67 vs 63.3%) means that when rank 1 is wrong the
-  gold entity is usually just below it, so the surfaced alternatives often contain the
-  right answer.
+### ⭐ Final ranker: v2 — embeddings + verbalized graph facts + coherence bonus
+
+> Graph context lifts overall accuracy **57.8% → 63.3%** and ambiguous accuracy
+> **40.9% → 47.7%** over the no-graph baseline — the gain lands exactly where
+> disambiguation is hardest, but only when paired with the embedding ranker. How the
+> graph is used matters more than the ranking model: verbalized facts beat both
+> structural embeddings (v7) and AMR graphs (v5/v6). MRR above accuracy (0.67 vs 63.3%)
+> means that when rank 1 is wrong the gold entity is usually just below it, so the
+> surfaced alternatives often contain the right answer.
 
 ## 5. Output and evaluation
 
