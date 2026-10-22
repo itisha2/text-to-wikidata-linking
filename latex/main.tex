@@ -94,13 +94,13 @@ Seven ranker variants (cr\_v1--v7) were built on this scorer and compared on the
 \toprule
 Ranker & Context side & Candidate side & Scorer & Overall acc/MRR & Ambiguous & Non-amb. & Time \\
 \midrule
-v1 embed & mention + sentence & label: description (aliases) & embeddinggemma cosine + lexical priors & 57.8\% / 0.64 & 40.9\% / 0.48 & 73.9\% / 0.79 & 14 s \\
-v2 embed + graph & mention + sentence & v1 + verbalised graph facts & v1 + coherence bonus (0.2) & \textbf{63.3\% / 0.67} & \textbf{47.7\% / 0.52} & \textbf{78.3\% / 0.82} & 19 s \\
-v3 d1 & mention + sentence & candidates as options & d1 choice question, calibrated probability & 62.2\% / 0.67 & 45.5\% / 0.52 & \textbf{78.3\% / 0.82} & 15 s \\
-v4 d1 + graph & mention + sentence & options + graph facts & v3 + coherence bonus & 60.0\% / 0.66 & 45.5\% / 0.52 & 73.9\% / 0.79 & 14 s \\
-v5 AMR graph & AMR graph of the sentence, verbalised (amrlib) & label, description, aliases + triples & embeddinggemma cosine, graph-to-graph & 60.0\% / 0.64 & 47.7\% / 0.51 & 71.7\% / 0.76 & 858 s \\
-v6 AMR + d1 & AMR facts of the sentence & options + graph facts & d1 probability + coherence bonus & 56.7\% / 0.63 & 38.6\% / 0.47 & 73.9\% / 0.79 & 28 s \\
-v7 graph-embed & centroid of other mentions' candidate vectors & NetMF-style structural node embedding & cosine to centroid & 57.8\% / 0.64 & 38.6\% / 0.47 & 76.1\% / 0.80 & 19 s \\
+v1 (baseline) & sentence & label + description + aliases & embedding cosine & 57.8\% / 0.64 & 40.9\% / 0.48 & 73.9\% / 0.79 & 14 s \\
+v2 (selected) & sentence & v1 + graph facts + coherence bonus & embedding cosine & \textbf{63.3\% / 0.67} & \textbf{47.7\% / 0.52} & \textbf{78.3\% / 0.82} & 19 s \\
+v3 & sentence & label + description + aliases & d1 choice question & 62.2\% / 0.67 & 45.5\% / 0.52 & \textbf{78.3\% / 0.82} & 15 s \\
+v4 & sentence & v3 + graph facts + coherence bonus & d1 choice question & 60.0\% / 0.66 & 45.5\% / 0.52 & 73.9\% / 0.79 & 14 s \\
+v5 & AMR graph of sentence (amrlib) & v2 text & embedding cosine & 60.0\% / 0.64 & 47.7\% / 0.51 & 71.7\% / 0.76 & 858 s \\
+v6 & AMR graph of sentence & v2 text & d1 choice question & 56.7\% / 0.63 & 38.6\% / 0.47 & 73.9\% / 0.79 & 28 s \\
+v7 & sentence & v1 text + structural node embeddings & embedding cosine + graph-embedding coherence & 57.8\% / 0.64 & 38.6\% / 0.47 & 76.1\% / 0.80 & 19 s \\
 \bottomrule
 \end{tabular}
 \end{center}
